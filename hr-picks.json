@@ -1,0 +1,3185 @@
+[
+  {
+    "_id": 2,
+    "date": "20240217",
+    "cardDesc": "Risen Star",
+    "track": "Fair Grounds",
+    "trackCode": "FG",
+    "race": [
+      {
+        "raceNum": 6,
+        "purse": "$92,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:44 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$200,000",
+        "raceName": "Mac Diarmida S.",
+        "distance": "1 3/8 Miles",
+        "surface": "Turf",
+        "postTime": "1:15 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$200,000",
+        "raceName": "Herecomesthebride S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "1:45 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "date": "20240224",
+    "cardDesc": "Rebel Stakes",
+    "track": "Oaklawn Park",
+    "trackCode": "OP",
+    "race": [
+      {
+        "raceNum": 11,
+        "purse": "$200,000",
+        "raceName": "Gulfstream Park Mile S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "3:20 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$150,000",
+        "raceName": "Canadian Turf S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "3:53 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$150,000",
+        "raceName": "Honey Fox S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:23 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 14,
+        "purse": "$400,000",
+        "raceName": "Fountain of Youth S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:10 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "date": "20240302",
+    "cardDesc": "Fountain of Youth",
+    "track": "Gulfstream Park",
+    "trackCode": "GP",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Big scratches in Fountain of Youth - bummer...",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
+    "latePick5": "6,10 / 4,5 / 2,3,4,6 / 5,6,7,11 / 1,5",
+    "latePick5Cost": "$64 (Races 10 - 14)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$89,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "10:15 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "7-8-5-1",
+        "officialResults": "5-11-6-1",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(5) Domingo - son of American Pharoah, wins on the turf"
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$89,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "10:44 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "1-6-3-8",
+        "officialResults": "2-1-3-6",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(2) Be You - wins, most experienced and faced good competition",
+          "(1) Big City and (8) Acclaimed Victor - early pace was too much for those horses"
+        ]
+      },
+      {
+        "raceNum": 3,
+        "purse": "$200,000",
+        "raceName": "Colonel S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "11:13 AM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "7-9-8-5",
+        "officialResults": "5-8-6-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$100,000",
+        "raceName": "Handicap",
+        "distance": "1 1/8 Miles",
+        "surface": "All Weather",
+        "postTime": "11:43 AM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "10-2-6-3",
+        "officialResults": "10-2-3-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$92,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "7 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "12:14 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "11-2-10-5",
+        "officialResults": "11-9-2-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$92,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:44 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "5-1-4-3",
+        "officialResults": "5-7-4-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$200,000",
+        "raceName": "Mac Diarmida S.",
+        "distance": "1 3/8 Miles",
+        "surface": "Turf",
+        "postTime": "1:15 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "1-4-9-7",
+        "officialResults": "4-7-2-10",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$200,000",
+        "raceName": "Herecomesthebride S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "1:45 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "3-7-5-10",
+        "officialResults": "11-7-3-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$200,000",
+        "raceName": "Davona Dale S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "2:17 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "3-2-8-5",
+        "officialResults": "4-8-2-6",
+        "preRaceComments": [
+          "(3) Just F Y I - late scratch.  Also very bummed she will not run today",
+          "(2) Leslie's Rose - should make things easy for Irad/Todd in this race"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$150,000",
+        "raceName": "The Very One S.",
+        "distance": "1 3/8 Miles",
+        "surface": "Turf",
+        "postTime": "2:49 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "10-7-6-8",
+        "officialResults": "10-6-7-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$200,000",
+        "raceName": "Gulfstream Park Mile S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "3:20 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "5-2-3-4",
+        "officialResults": "3-5-4-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$150,000",
+        "raceName": "Canadian Turf S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "3:53 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "2-6-3-5",
+        "officialResults": "3-5-10-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$150,000",
+        "raceName": "Honey Fox S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:23 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "6-11-7-5",
+        "officialResults": "6-5-11-10",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 14,
+        "purse": "$400,000",
+        "raceName": "Fountain of Youth S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:10 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "1-5-4-7",
+        "officialResults": "5-2-7-4",
+        "preRaceComments": [
+          "Big scratches with the 8 (Locked) and 3 (Victory Avenue)",
+          "(1) Speak Easy - one race, but very fast out of gate and solid throughout race",
+          "(5) Dornoch - M/L favorite and experienced horse.  Wondering if three month layoff helps, hurts, or no factor",
+          "(4) Real Macho - looked good in previous races - better competition today"
+        ],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "date": "20240309",
+    "cardDesc": "Tampa Bay Derby",
+    "track": "Tampa Bay Downs",
+    "trackCode": "TAM",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "",
+      "",
+      ""
+    ],
+    "latePick5": "3,7,8 / 1,3 / 1,4,7 / 5,7,10,11 / 5,7",
+    "latePick5Cost": "$72 (Races 7 - 11)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$16,000",
+        "raceName": "Claiming",
+        "distance": "1 Mile 40 Yards",
+        "surface": "Dirt",
+        "postTime": "10:55 AM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "1-2-8-3",
+        "officialResults": "9-1-10-7",
+        "preRaceComments": [
+          "A lot of even running lines for these horses"
+        ],
+        "postRaceComments": [
+          "Always great to see a 37-1 bomb start a card"
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$20,000",
+        "raceName": "Claiming",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "11:25 AM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "1-3-2-10",
+        "officialResults": "3-2-10-1",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(3) Hercules wins - nice pace, inside move",
+          "(1) Practical Way - 2/5 Post Time favorite led early, but faded badly"
+        ]
+      },
+      {
+        "raceNum": 3,
+        "purse": "$53,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "11:55 AM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "5-10-11-2",
+        "officialResults": "3-5-7-10",
+        "preRaceComments": [
+          "(5) Mellifluous - Third start, slight class drop - hoping he figures things out today",
+          "(10) Mr Bolt - first time starter from outside post; tough ask but taking a lot of betting money"
+        ],
+        "postRaceComments": [
+          "(3) Snowname - wasn't able to finish in his first two races, but led early and had enough to win the race",
+          "(5) Mellifluous - Ok start, nice closing speed; didn't have enough distance to catch leader",
+          "(10) Mr Bolt - started race well but didn't have energy to finish the final furlong"
+        ]
+      },
+      {
+        "raceNum": 4,
+        "purse": "$53,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:27 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "3-6-12-2",
+        "officialResults": "6-3-12-11",
+        "preRaceComments": [
+          "lots of first time starters",
+          "(12) Camera - second career race, first race seven months ago.  short price with a tough post",
+          "(3) Qualificata - looked good last race, a little improvement might be enough to win race"
+        ],
+        "postRaceComments": [
+          "(6) Very Practical - outstanding closing speed to win at the wire",
+          "(3) and (12) battled down the stretch, both looked strong in losing effort"
+        ]
+      },
+      {
+        "raceNum": 5,
+        "purse": "$53,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "12:57 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "9-5-4-1",
+        "officialResults": "1-9-11-3",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(1) Alimara - Chad Brown turf horse, first race in U.S.; Started slow, outstanding closing speed",
+          "(9) Segesta - other Chad Brown horse in race; good for most of race, but tired at the end"
+        ]
+      },
+      {
+        "raceNum": 6,
+        "purse": "$100,000",
+        "raceName": "Challenger S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "1:27 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "2-3-4-1",
+        "officialResults": "3-4-1-2",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(3) Skippylongstocking - won race this year and last year.  Nice pace, never a doubt best horse in race."
+        ]
+      },
+      {
+        "raceNum": 7,
+        "purse": "$75,000",
+        "raceName": "Columbia S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "2:04 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "3-7-10-8",
+        "officialResults": "8-10-3-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$50,000",
+        "raceName": "Handicap",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:34 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "1-8-9-10",
+        "officialResults": "1-7-8-3",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(1) Sterling Silver - 8/5 Post Time favorite off a layoff; recovered after poor start to win by a nose"
+        ]
+      },
+      {
+        "raceNum": 9,
+        "purse": "$225,000",
+        "raceName": "Hillsborough S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "3:12 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "7-1-4-8",
+        "officialResults": "3-4-1-7",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(3) Sparkle Blue - nice ride by Jorge Ruiz, led throughout and finished well",
+          "(1) Fluffy Socks - even money favorite at post time; No excuses - she doesn't like her picture taken; A good place or show horse"
+        ]
+      },
+      {
+        "raceNum": 10,
+        "purse": "$200,000",
+        "raceName": "Florida Oaks",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "3:45 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "7-11-10-5",
+        "officialResults": "5-7-9-1",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(5) Wakesiu - Another good American Pharoah filly on the turf; nice ride by Junior Alvarado"
+        ]
+      },
+      {
+        "raceNum": 11,
+        "purse": "$400,000",
+        "raceName": "Tampa Bay Derby",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "4:18 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "5-7-9-4",
+        "officialResults": "5-7-9-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$53,000",
+        "raceName": "Allowance",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "4:50 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "2-3-11-5",
+        "officialResults": "RACE CANCELLED",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "date": "20240309",
+    "cardDesc": "Santa Ysabel",
+    "track": "Santa Anita Park",
+    "trackCode": "SA",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
+    "latePick5": "6,7 / 4 / 3,7,8 / 2,3,5,7 / 4,6",
+    "latePick5Cost": "$24 (Races 5 - 9)",
+    "race": [
+      {
+        "raceNum": 5,
+        "purse": "$67,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:35 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "6-7-8-1",
+        "officialResults": "1-3-6-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$100,000",
+        "raceName": "Santa Ysabel S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:07 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "4-6-1-2",
+        "officialResults": "4-7-5-1",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(4) Kinza - Bob Baffert trained, looks like best 3 yr old Filly right now"
+        ]
+      },
+      {
+        "raceNum": 7,
+        "purse": "$100,000",
+        "raceName": "San Simeon S.",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Downhill Turf",
+        "postTime": "5:39 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": true,
+        "picks": "3-7-8-4",
+        "officialResults": "3-4-7-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$300,000",
+        "raceName": "Beholder Mile S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "6:11 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "2-5-3-6",
+        "officialResults": "6-2-3-4",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(6) Sweet Azteca - wired the field",
+          "(2) Adare Manor - Post time favorite, no answer to the 6"
+        ]
+      },
+      {
+        "raceNum": 9,
+        "purse": "$65,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "postTime": "6:43 PM",
+        "tv": "FANDUEL TV+",
+        "stakesrace": false,
+        "picks": "4-6-7-2",
+        "officialResults": "6-4-7-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+
+    ]
+  },
+  {
+    "_id": 7,
+    "date": "20240323",
+    "cardDesc": "Louisiana Derby",
+    "track": "Fair Grounds",
+    "trackCode": "FG",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Late Pick 5 - to reduce cost could single Money Supply (Race 9), Tarifa (Race 11), and/or Track Phantom (Race 12)",
+      "Early races - will look for how track plays; Early Speed versus Closers",
+      "Fair Grounds Oaks - Fun to see rematch of Tarifa and Intricate; also want to see if Our Pretty Women is ready to move up in class",
+      "Louisiana Derby - I like Track Phantom, but don't like his post.  A few others are great contenders"
+    ],
+    "latePick5": "1,6,9,10,12 / 5,9 / 2,3,4,12 / 5,6 / 5,12",
+    "latePick5Cost": "$80 (Races 8 - 12)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$75,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:00 PM",
+        "stakesrace": false,
+        "picks": "5-6-2-4",
+        "officialResults": "7-11-6-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 2,
+        "purse": "$100,000",
+        "raceName": "Costa Rising S.",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "12:30 PM",
+        "stakesrace": false,
+        "picks": "4-9-2-6",
+        "officialResults": "9-5-4-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 3,
+        "purse": "$125,000",
+        "raceName": "Crescent City Oaks",
+        "distance": "1 Mile 70 Yards",
+        "surface": "Dirt",
+        "postTime": "1:00 PM",
+        "stakesrace": false,
+        "picks": "4-3-8-5",
+        "officialResults": "3-5-7-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$75,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "1:30 PM",
+        "stakesrace": false,
+        "picks": "1-3-9-6",
+        "officialResults": "3-11-1-10",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$75,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:00 PM",
+        "stakesrace": false,
+        "picks": "1-7-6-2",
+        "officialResults": "5-1-3-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$75,000",
+        "raceName": "Allowance",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "2:30 PM",
+        "stakesrace": false,
+        "picks": "8-10-2-5",
+        "officialResults": "7-3-6-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$125,000",
+        "raceName": "Crescent City Derby",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "3:00 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "6-2-5-7",
+        "officialResults": "2-6-3-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$150,000",
+        "raceName": "Tom Benson Memorial S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "3:32 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "9-10-6-12",
+        "officialResults": "10-3-13-12",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$500,000",
+        "raceName": "New Orleans Classic S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "4:04 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "5-9-3-4",
+        "officialResults": "1-3-5-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$300,000",
+        "raceName": "Muniz Memorial Classic S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "4:36 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "13-4-2-3",
+        "officialResults": "13-7-3-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$400,000",
+        "raceName": "Fair Grounds Oaks",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:08 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "5-6-7-1",
+        "officialResults": "5-7-1-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$1,000,000",
+        "raceName": "Louisana Derby",
+        "distance": "1 3/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:42 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "12-5-9-4",
+        "officialResults": "5-7-11-12",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "date": "20240323",
+    "cardDesc": "Jeff Ruby Steaks",
+    "track": "Fair Grounds",
+    "trackCode": "TP",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
+    "latePick5": "5,7,8,12 / 2,9 / 1,3,5,8 / 1,8 / 6,10",
+    "latePick5Cost": "$64 (Races 8 - 12)",
+    "race": [
+      {
+        "raceNum": 7,
+        "purse": "$250,000",
+        "raceName": "Animal Kingdom S.",
+        "distance": "6 Furlongs",
+        "surface": "All Weather",
+        "postTime": "2:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "7-10-4-8",
+        "officialResults": "9-2-10-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$250,000",
+        "raceName": "Rushaway S.",
+        "distance": "1 1/16 Miles",
+        "surface": "All Weather",
+        "postTime": "3:13 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "5-8-12-7",
+        "officialResults": "7-12-5-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$250,000",
+        "raceName": "Latonia S.",
+        "distance": "1 1/16 Miles",
+        "surface": "All Weather",
+        "postTime": "3:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "9-2-10-6",
+        "officialResults": "10-2-4-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$300,000",
+        "raceName": "Kentucky Cup Classic S.",
+        "distance": "1 1/8 Miles",
+        "surface": "All Weather",
+        "postTime": "4:13 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "3-8-1-5",
+        "officialResults": "5-8-12-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$300,000",
+        "raceName": "Bourbonette Oaks",
+        "distance": "1 1/16 Miles",
+        "surface": "All Weather",
+        "postTime": "4:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "1-8-9-6",
+        "officialResults": "10-2-1-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$700,000",
+        "raceName": "Jeff Ruby Steaks",
+        "distance": "1 1/8 Miles",
+        "surface": "All Weather",
+        "postTime": "5:25 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "6-10-2-4",
+        "officialResults": "10-12-9-14",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$70,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "All Weather",
+        "postTime": "6:05 PM",
+        "stakesrace": false,
+        "picks": "11-7-6-2",
+        "officialResults": "11-12-3-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "date": "20240330",
+    "cardDesc": "Florida Derby",
+    "track": "Gulfstream Park",
+    "trackCode": "GP",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "latePick5": "6,8 / 5,6,8 / 6,8 / 3,4,5,6,9 / 2,9,10",
+    "latePick5Cost": "$90 (Races 10 - 14)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$89,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "7 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "10:30 AM",
+        "stakesrace": false,
+        "picks": "11-9-3-4",
+        "officialResults": "4-5-14-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 2,
+        "purse": "$60,000",
+        "raceName": "Starter Hanicap",
+        "distance": "1 1/8 Miles",
+        "surface": "All Weather",
+        "postTime": "10:59 AM",
+        "stakesrace": false,
+        "picks": "3-2-5-1",
+        "officialResults": "9-5-7-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 3,
+        "purse": "$125,000",
+        "raceName": "Cutler Bay S.",
+        "distance": "7 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "11:28 AM",
+        "stakesrace": true,
+        "picks": "8-5-4-1",
+        "officialResults": "8-5-2-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$91,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "11:57 AM",
+        "stakesrace": false,
+        "picks": "12-5-8",
+        "officialResults": "12-3-8-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$89,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:26 PM",
+        "stakesrace": false,
+        "picks": "9-2-6-4",
+        "officialResults": "6-9-5-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$200,000",
+        "raceName": "Pan American S.",
+        "distance": "1 1/2 Miles",
+        "surface": "Turf",
+        "postTime": "12:56 PM",
+        "stakesrace": false,
+        "picks": "2-6-3",
+        "officialResults": "2-1-6-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$150,000",
+        "raceName": "Ghostzapper S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "1:26 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "5-6-3-8",
+        "officialResults": "3-5-6-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$125,000",
+        "raceName": "Sanibel Island S.",
+        "distance": "7 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "1:56 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "7-8-6-9",
+        "officialResults": "4-7-1-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$125,000",
+        "raceName": "Sir Shackleton S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:31 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "6-2-1-3",
+        "officialResults": "6-8-1-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$150,000",
+        "raceName": "Orchid S.",
+        "distance": "1 1/2 Miles",
+        "surface": "Turf",
+        "postTime": "3:06 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "6-8-1-4",
+        "officialResults": "6-4-1-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$250,000",
+        "raceName": "Gulfstream Park Oaks",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "3:40 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "8-5-6-9",
+        "officialResults": "1-4-5-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$150,000",
+        "raceName": "Sand Springs S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "4:15 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "8-6-1-7",
+        "officialResults": "6-9-5-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$150,000",
+        "raceName": "Appleton S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:57 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "3-9-4-6",
+        "officialResults": "9-2-10-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 14,
+        "purse": "$1,000,000",
+        "raceName": "Florida Derby",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "5:42 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "2-10-9-8",
+        "officialResults": "10-7-4-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "date": "20240330",
+    "cardDesc": "Arkansas Derby",
+    "track": "Oaklawn Park",
+    "trackCode": "OP",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Santa Anita - Note 1",
+      "Santa Anita - Note 2",
+      "Santa Anita - Note 3"
+    ],
+    "latePick5": "2,8 / 6,7,8 / 1,8,10,11 / 2,7 / 3,5,6,10",
+    "latePick5Cost": "$96 (Races 9 - 13)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$75,000",
+        "raceName": "Optional Claiming",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "12:05 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "5-7-1-2",
+        "officialResults": "7-2-5-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 2,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "12:36 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "4-6-2-1",
+        "officialResults": "3-1-5-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 3,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "1:08 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "8-5-3-2",
+        "officialResults": "6-7-5-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$75,000",
+        "raceName": "Claiming",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "1:39 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "3-5-2-4",
+        "officialResults": "5-2-8-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "2:11 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "1-8-2-3",
+        "officialResults": "7-8-2-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$150,000",
+        "raceName": "Allowance",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:45 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "5-4-7-1",
+        "officialResults": "4-7-1-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "3:20 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "1-8-3-2",
+        "officialResults": "1-6-10-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$150,000",
+        "raceName": "Allowance",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "3:55 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "1-5-10-6",
+        "officialResults": "6-8-7-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$500,000",
+        "raceName": "Oaklawn Mile S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "4:32 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "8-2-7-3",
+        "officialResults": "7-8-1-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$250,000",
+        "raceName": "Matron S.",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "5:12 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "7-6-8-5",
+        "officialResults": "9-8-7-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$750,000",
+        "raceName": "Fantasy S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "6:00 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "1-11-10-8",
+        "officialResults": "12-8-10-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$1,500,000",
+        "raceName": "Arkansas Derby",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "6:47 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "7-2-9-4",
+        "officialResults": "7-8-9-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$150,000",
+        "raceName": "Allowance",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "7:24 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "6-5-3-10",
+        "officialResults": "9-6-10-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "date": "20240406",
+    "cardDesc": "Blue Grass Stakes",
+    "track": "Keeneland",
+    "trackCode": "KEE",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      "Weather - outstanding; fast and firm",
+      "Tough late pick 5 sequence",
+      "200 pt Kentucky Derby prep race - Blue Grass Stakes"
+    ],
+    "latePick5": "2,3,4,9 / 5,6,9,10 / 2,6,8 / 3,4,6 / 10",
+    "latePick5Cost": "$72 (Races 6 - 10)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$100,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "12:00 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "7-5-8-3",
+        "officialResults": "5-4-7-8",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(5) Elephants Ear - Impressive, caught inside, was able to move out and very strong finish",
+          "(4) Bourbon Society - Improving, led early, held on for second",
+          "(7) Batten Down - Good race, but could not close on the 5 or 6"
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$100,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:32 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "4-6-2-7",
+        "officialResults": "2-4-5-6",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(2) Billal - Mott/Alvarado get it done this race.  Early speed, dominate down the strech",
+          "(4) Scatify - even with the 2 for most of race, gave way towards the end"
+        ]
+      },
+      {
+        "raceNum": 3,
+        "purse": "$100,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "1:04 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "6-3-5-8",
+        "officialResults": "6-5-8-4",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(6) Discreet Mischief - Cox/Geroux, easy win",
+          "(5) Timeout - First time starter, nice finish but well back of winner"
+        ]
+      },
+      {
+        "raceNum": 4,
+        "purse": "$100,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "1:36 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "4-1-2-7",
+        "officialResults": "6-2-4-5",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(6) Prevalence - 5/1 winner; not sure where that race came from.  Got out of the gate and wired the field"
+        ]
+      },
+      {
+        "raceNum": 5,
+        "purse": "$100,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 3/16 Mile",
+        "surface": "Turf",
+        "postTime": "2:08 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "2-9-7-10",
+        "officialResults": "2-14-4-10",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(2) White Palomino - Chad Brown trained, nice patient ride by Jose Ortiz",
+          "(14) El Rezeen - AE drew in; Pletcher trained - Irad Ortiz Jr. worked a nice trip for second"
+        ]
+      },
+      {
+        "raceNum": 6,
+        "purse": "$300,000",
+        "raceName": "Commonwealth S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:40 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "9-2-4-6",
+        "officialResults": "6-9-2-8",
+        "preRaceComments": [
+          "(9) Minnesota Ready - hoping trainer (T. Amoss) and jockey (T. Gaffalione) change help this horse",
+          "(2) Wico - Good record at KEE and distance; Wesley Ward/Irad Ortiz Jr. will have plan for this race",
+          "(4) Raise Cain - a little bit of a layoff; hoping Luis Saez can get off to a faster start"
+        ],
+        "postRaceComments": [
+          "(6) Bo Cruz - wired the field, nice pace"
+        ]
+      },
+      {
+        "raceNum": 7,
+        "purse": "$400,000",
+        "raceName": "Appalachian S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:14 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "10-6-9-5",
+        "officialResults": "9-8-3-11",
+        "preRaceComments": [
+          "(10) Pounce - Good looking turf horse.  Casse/Castelliano have a good plan with this horse"
+        ],
+        "postRaceComments": [
+          "(9) Buchu - Nice ride by Martin Garcia, good looking horse"
+        ]
+      },
+      {
+        "raceNum": 8,
+        "purse": "$600,000",
+        "raceName": "Resolute Racing Madison S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "3:48 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "2-8-6-1",
+        "officialResults": "6-8-2-1",
+        "preRaceComments": [
+          "(2) Red Carpet Ready - Good post/distance for this horse",
+          "(8) Valva - a Gun Runner kid, faced good competition in past races"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$350,000",
+        "raceName": "Shakertown S.",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "4:20 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "3-6-4-9",
+        "officialResults": "6-3-1-10",
+        "preRaceComments": [
+          ""
+        ],
+        "postRaceComments": [
+          "(3) Mischief Magic (IRE) - more of a pick of trainer (Charles Appleby) and jockey (Tyler Gaffalione)",
+          "(6) Arzak and (4) Beer Can Man - both coming off layoffs since BC Turf Sprint",
+          "(9) Panther Island and (11) Coppola - both had good performances at GP over the winter"
+        ]
+      },
+      {
+        "raceNum": 10,
+        "purse": "$1,000,000",
+        "raceName": "Toyota Blue Grass S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "4:52 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV+",
+        "picks": "10-4-6-7",
+        "officialResults": "10-6-8-4",
+        "preRaceComments": [
+          "Tough race to handicap - top two horses already have points for KD entry; will they try different strategy in race?",
+          "(10) Sierra Leone - outside post, closer - will he be able to close on this field?",
+          "(4) Dornoch - Good post, early speed - will distance be too far for this horse?",
+          "All other entries - have potential to continue improvement and win race",
+          "(Also...) All other entries - could regress and not be a factor.  Need to prove they belong in this class field."
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$140,000",
+        "raceName": "Allowance",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "5:26 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV+",
+        "picks": "3-1-6-5",
+        "officialResults": "3-4-5-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "date": "20240503",
+    "cardDesc": "Kentucky Oaks Day",
+    "track": "Churdhill Downs",
+    "trackCode": "CD",
+    "weekday": "Friday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "3 / 2,4,6,10 / 1,7,11 / 4,5,9 / 5,11,12,13",
+    "latePick5Cost": "$72 (Races 7 - 11)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "9:30 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "4-10-6-7",
+        "officialResults": "4-6-9-10",
+        "preRaceComments": [
+          "with overnight rain/sloppy track; updated race picks",
+          "(4) Sundance Feature - hoping Saez gets her out early and wires the field"
+        ],
+        "postRaceComments": [
+          "not sure if it will hold - but wet tracks at CD are very tough on outside horses"
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$127,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "10:00 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "1-9-7-10",
+        "officialResults": "9-11-4-12",
+        "preRaceComments": [
+          "(1) Weigh the Risks - inside post, didn't fire last time in a tough race off layoff; will need to improve",
+          "(9) Sidamara - best horse in the race, but I don't like the post on this sloppy track"
+        ],
+        "postRaceComments": [
+          "(9) Sidamara - had a little trouble early, but settled and great close",
+          "(11) Sedona - Nice ride by Irad on a horse coming off a layoff",
+          "(1) Weigh the Risks - led early, but faded after final turn"
+        ]
+      },
+      {
+        "raceNum": 3,
+        "purse": "$134,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "10:30 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "3-8-10-5",
+        "officialResults": "5-2-3-9",
+        "preRaceComments": [
+          "(3) Prove Worthly - last race good - first race in N. Casse barn and off layoff",
+          "(8) Arthur's Ride - great form, stepping up in class",
+          "(10) Brigadier General - solid past races, but needs a little better to win race"
+        ],
+        "postRaceComments": [
+          "(5) Injunction - overall great race/ride by Rosario; early pace, easy finish",
+          "(2) Fort Warren - Saez got the horse on the pace, held on for second",
+          "(3) Prove Worthy - late close, distant third place finish to refund my cheap MBS bet"
+        ]
+      },
+      {
+        "raceNum": 4,
+        "purse": "$134,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 1/8 Miles",
+        "surface": "Off-Turf",
+        "postTime": "11:05 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "16-10-13-8",
+        "officialResults": "10-2-8-13",
+        "preRaceComments": [
+          "Thursday night/Friday morning rain means off turf",
+          "Howard's weather forecast was good - why do mean people make fun of him?",
+          "(16) Batucada - cheap win bet on MTO",
+          "(10) Stir Crazy - Four career starts on wet tracks, two wins, two place"
+        ],
+        "postRaceComments": [
+          "(10) Stir Crazy - wet track record held up"
+        ]
+      },
+      {
+        "raceNum": 5,
+        "purse": "$1,000,000",
+        "raceName": "La Troienne S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "11:43 AM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "5-4-6-7",
+        "officialResults": "4-3-5-7",
+        "preRaceComments": [
+          "(5) Pretty Mischievous - KY Oaks winner | good on wet track",
+          "(4) Idiomatic - off a bit of a layoff | great past performances | good early speed"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$400,000",
+        "raceName": "Unbridled Sidney S.",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "12:26 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "3-5-2-10",
+        "officialResults": "2-9-1-7",
+        "preRaceComments": [
+          "(3) Stone Silent - three wins in three starts in B. Lynch barn | great early speed",
+          "(5) Elm Drive - Ran well in big races | Saez a good jockey for this race"
+        ],
+        "postRaceComments": [
+          "(2) Ova Charged - great sprint race | good thing only 5.5 Furlong distance",
+          "(9) Secret Money - challenged late, good for second place",
+          "(1) Run for the Hills - great finish | needed another half furlong"
+        ]
+      },
+      {
+        "raceNum": 7,
+        "purse": "$750,000",
+        "raceName": "Alysheba S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "1:09 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "3-1-10-2",
+        "officialResults": "3-8-5-2",
+        "preRaceComments": [
+          "(3) First Mission - liked last race, works, and connections",
+          "(1) Money Supply - Very solid, consistent races | good races on wet track",
+          "(10) Trademark - good races on wet track",
+          "(2) Steal Sunshine - Good enough to be in this race, will need a good trip to win"
+        ],
+        "postRaceComments": [
+          "Florent Geroux - Riding Pick 3 | Won last three races",
+          "(3) First Mission - liked last race, works, and connections",
+          "(8) T O Saint Denis (Jpn) - Fast early, begged for the wire | held for second",
+          "(5) Il Miracolo - nice finish to get up to third"
+        ]
+      },
+      {
+        "raceNum": 8,
+        "purse": "$400,000",
+        "raceName": "Modesty S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "2:03 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "4-6-10-2",
+        "officialResults": "1-10-2-4",
+        "preRaceComments": [
+          "Spread race for me - no strong opinions | pick and pray",
+          "(4) Heavenly Sunday - off a little bit of a layoff; good 2023 year",
+          "(6) Surprisingly - has been good and close, like the jockey change to Prat",
+          "(10) Sprakle Blue - I'm not quite sure if she is ready to step up to this level of competition",
+          "(2) Aspen Grove - I'm not quite sure if she is ready to step up to this level of competition"
+        ],
+        "postRaceComments": [
+          "Jose Ortiz - third win of the day | having a great day",
+          "(1) Fast as Flight - 20/1 bomb | Great ride by J. Ortiz on yeilding turf",
+          "(10) Sprakle Blue, (2) Aspen Grove - close photo for second | nice closing speed for both",
+          "(4) Heavenly Sunday - Led most of the way | tired in home stretch"
+        ]
+      },
+      {
+        "raceNum": 9,
+        "purse": "$600,000",
+        "raceName": "Eight Belles S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "3:04 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "7-11-1-12",
+        "officialResults": "11-1-6-9",
+        "preRaceComments": [
+          "(7) Denim and Pearls - running very well | lot to like about this girl",
+          "(11) My Mane Squeeze - not crazy about post | will need a better start to compete",
+          "(1) Impel - Young, inexperienced; could be ready to step up to this level of competition"
+        ],
+        "postRaceComments": [
+          "(11) My Mane Squeeze - great ride by Saez | horse made it look easy",
+          "(1) Impel - off the pace at start of race, nice recovery to get second",
+          "(7) Denim and Pearls - Rain, muddy track, or whatever - she didn't run well today"
+        ]
+      },
+      {
+        "raceNum": 10,
+        "purse": "$600,000",
+        "raceName": "Edgewood S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "3:51 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "9-4-5-6",
+        "officialResults": "10-11-13-7",
+        "preRaceComments": [
+          "(9) Hard to Justify - Young, inexperienced | Undefeated, will face best competition in her career",
+          "(4) Buchu - Consistent, will be tough in this race",
+          "(5) Mo Fox Givin - improving, but not sure if good enough to win this race",
+          "(6) Pounce - no idea what to make of that last race"
+        ],
+        "postRaceComments": [
+          "(10) Dynamic Pricing - the other Chad Brown turf horse in the race",
+          "(11) Way To Be Marie - Nice race stepping up in class"
+        ]
+      },
+      {
+        "raceNum": 11,
+        "purse": "$1,500,000",
+        "raceName": "Kentucky Oaks",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "4:51 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "13-5-12-11",
+        "officialResults": "5-13-4-11",
+        "preRaceComments": [
+          "(13) Just F Y I - don't like the post or only one race in 2024, but seems the most talented horse in the race",
+          "(5) Thorpedo Anna - Nice post, great stats in all career races",
+          "(12) Power Squeeze - Very good horse, nice career races",
+          "(11) Ways and Means - will be tough, only three career races, but all good"
+        ],
+        "postRaceComments": [
+          "(5) Thorpedo Anna - Wired the field | great ride by B. Hernandez",
+          "(13) Just F Y I - good race, could pass around the final turn | outside post may have been a factor"
+        ]
+      },
+      {
+        "raceNum": 12,
+        "purse": "$127,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "5:27 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "6-3-7-8-11",
+        "officialResults": "11-6-7-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "6:02 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "2-1-8-10",
+        "officialResults": "6-15-7-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "date": "20240504",
+    "cardDesc": "Kentucky Derby Day",
+    "track": "Churdhill Downs",
+    "trackCode": "CD",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "2,4,7,9,12 / 5,10,11 / 2,6,11 / 6,11 / 2,17",
+    "latePick5Cost": "$90 (Races 8 - 12)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "9:30 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "7-6-2-3",
+        "officialResults": "2-3-7-5",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(2) Pure Force - first time starter for B. Cox/F. Geroux | Looked outstanding every step of the race",
+          "(3) Top Gun Rocket - looked good off the pace to get second"
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$134,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "10:01 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "6-8-3-2",
+        "officialResults": "6-10-3-11",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(6) Scylla - 2/5 favorite, wins easy"
+        ]
+      },
+      {
+        "raceNum": 3,
+        "purse": "$127,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "10:31 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "9-2-11-1",
+        "officialResults": "11-2-8-4",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(11) Mindframe - Post time 1/2 favorite  | three scratches, but outside post didn't matter | Easy win",
+          "(2) Cornishman - held on to second"
+        ]
+      },
+      {
+        "raceNum": 4,
+        "purse": "$200,000",
+        "raceName": "Knicks Go Overnight S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "11:04 AM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "6-1-11-8",
+        "officialResults": "1-7-10-2",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(1) Strong Quality - nice post | wired the field | Two wins for F. Geroux",
+          "(7) Kupuna - strong, good second place finish"
+        ]
+      },
+      {
+        "raceNum": 5,
+        "purse": "$600,000",
+        "raceName": "Twin Spires Turf Sprint S.",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "11:36 AM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "8-10-4-5",
+        "officialResults": "14-6-8-3",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(14) Cogburn - I didn't like the post, but great ride from I. Ortiz | Two wins for I. Ortiz",
+          "(6) Filo Di Arianna (BRZ) - Looked great, wasn't on my radar",
+          "(8) Mischief Magic (IRE) - Post time favorite (5/2) | closed up to third | no factor to winner"
+        ]
+      },
+      {
+        "raceNum": 6,
+        "purse": "$1,000,000",
+        "raceName": "Derby City Distaff S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:14 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "10-7-9-3",
+        "officialResults": "10-7-3-4",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(10) Vahva - Irad tax paying today | solid, consistent race | I. Ortiz third win on the day",
+          "(7) Alva Starr - Led most of the way | gave way late",
+          "(3) Flying Connection - Good close to finish thrid"
+        ]
+      },
+      {
+        "raceNum": 7,
+        "purse": "$750,000",
+        "raceName": "Churchill Distaff Turf Mile S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "12:56 PM",
+        "stakesrace": true,
+        "tv": "USA, PEACOCK",
+        "picks": "3-6-11-12",
+        "officialResults": "3-11-6-12",
+        "preRaceComments": [
+          "(3) Chili Flag, (6) Delahaye, (11) Copice - which Chad Brown turf horse is going to defeat me?"
+        ],
+        "postRaceComments": [
+          "Chad Brown turf trifecta",
+          "(3) Chili Flag - I. Ortiz fourth win on the day",
+          "(11) Copice - strong finish, lost close photo for win",
+          "(6) Delahaye - good race, but third horse in the race"
+        ]
+      },
+      {
+        "raceNum": 8,
+        "purse": "$600,000",
+        "raceName": "Pat Day Mile S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "1:46 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "12-2-4-7",
+        "officialResults": "5-12-11-7",
+        "preRaceComments": [
+          "(12) Nash - Always shows up, best record in race",
+          "(2) Beeline - lightly raced; a lot of upside potential",
+          "(4) Otto the Conqueror - Two for two at CD; could be a wise guy horse"
+        ],
+        "postRaceComments": [
+          "(5) Seize The Grey - Best race for this horse - nice race | Happy for The Coach | Unhappy for my bankroll... Wow, was that a kick in the @$%&* for my horizontal bets",
+          "(12) Nash - won a photo for second",
+          "(11) Valhos - Nice race from outside post | hung tough, but lost photo"
+        ]
+      },
+      {
+        "raceNum": 9,
+        "purse": "$600,000",
+        "raceName": "American Turf S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "2:40 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "5-10-11-4",
+        "officialResults": "2-4-3-11",
+        "preRaceComments": [
+          "(5) Legend of Time - Godolphin/Appleby horse - those guys mean business when they ship horses over the pond",
+          "(10) Set - lightly raced, talented horse.  Will need to improve to be a factor",
+          "(11) Cugino - could be a factor with the right trip"
+        ],
+        "postRaceComments": [
+          "Well, that knocks out a lot of P6 and P5 tickets | I wasn't even close in this race | 47-1 over 24-1 over 36-1 over 7-1",
+          "(2) Trikari, (4) Formidable Man, (3) Lagynos - All great rides/trips | All 15-1 Morning Line"
+        ]
+      },
+      {
+        "raceNum": 10,
+        "purse": "$1,000,000",
+        "raceName": "Churchill Downs S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "3:31 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "2-6-11-10",
+        "officialResults": "10-5-6-1",
+        "preRaceComments": [
+          "(2) Tejano Twist - Great competition; Irad tax will be paid",
+          "(6) Zozos - I'm never sure what to do with this horse, but don't want him to beat me here",
+          "(11) Hoist the Gold - I don't like horses first back from overseas trip, but works look great"
+        ],
+        "postRaceComments": [
+          "(10) Gun Pilot - Solid pace, nice close, looked outstanding down the stretch",
+          "(5) Here Mi Song - Early speed, held on for second",
+          "(6) Zozos - Off layoff, didn't have a burst down the stretch",
+          "(2) Tejano Twist - fell back early, didn't recover"
+        ]
+      },
+      {
+        "raceNum": 11,
+        "purse": "$1,000,000",
+        "raceName": "Old Forester Bourbon Turf Classic S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "4:27 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "6-11-5-3",
+        "officialResults": "5-11-7-1",
+        "preRaceComments": [
+          "(6) I'm Very Busy - Looked great last race",
+          "(11) Naval Power - Godolphin/Appleby horse - always ready to go"
+        ],
+        "postRaceComments": [
+          "(5) Program Trading (GB) - Great ride by F. Prat | Won the photo",
+          "(11) Naval Power (GB) - Good race, just short of winning",
+          "(7) Webslinger - Solid third place finish",
+          "(1) Integration - Good showing, will pay more attention to this horse next time out"
+        ]
+      },
+      {
+        "raceNum": 12,
+        "purse": "$5,000,000",
+        "raceName": "Kentucky Derby",
+        "distance": "1 1/4 Miles",
+        "surface": "Dirt",
+        "postTime": "5:57 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "17-2-4-12",
+        "officialResults": "3-2-11-4",
+        "preRaceComments": [
+          "Whoever gets the best trip wins the race...  Captain Obvious",
+          "(17) Fierceness - most talented horse in the race; Velazquez has a chance to get horse positioned and settled early in race",
+          "(2) Sierra Leone - HATE the post; will be difficult to work out a trip from the two; outstanding closing speed - will be fun to see the end if he is close down the stretch",
+          "(4) Catching Freedom - the other great closer in the race; should be a factor late",
+          "(12) Track Phantom - terrible post in two previous races; early speed; has a chance to get position early in race"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$127,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "7:00 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "9-2-7-6",
+        "officialResults": "4-2-7-14",
+        "preRaceComments": [
+          "(9) General Partner - don't like the layoff, but past performances are great",
+          "(2) Discreet Mischief, (7) Jefferson Street - Lightly raced with a lot of potential; first race out after breaking maiden"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 14,
+        "purse": "$120,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "7:35 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "1-3-10-6",
+        "officialResults": "3-6-12-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "date": "20240518",
+    "cardDesc": "Preakness Stakes Day",
+    "track": "Pimlico",
+    "trackCode": "PIM",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "TBD",
+    "latePick5Cost": "TBD",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$52,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "postTime": "9:30 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 2,
+        "purse": "$54,000",
+        "raceName": "Allowance",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "10:05 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 3,
+        "purse": "$54,000",
+        "raceName": "Allowance",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "10:41 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$100,000",
+        "raceName": "Skipat S.",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "11:16 AM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$52,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "postTime": "11:51 AM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$200,000",
+        "raceName": "Chick Lang S.",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:28 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$100,000",
+        "raceName": "Gallorette S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "1:08 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$100,000",
+        "raceName": "Maryland Sprint S.",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "1:48 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$100,000",
+        "raceName": "James W. Murphy S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "2:30 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$100,000",
+        "raceName": "Sir Barton S.",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "3:10 PM",
+        "stakesrace": true,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$100,000",
+        "raceName": "Jim McKay Turf Sprint S.",
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "postTime": "3:53 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$500,000",
+        "raceName": "Dinner Party S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "4:52 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$2.000,000",
+        "raceName": "Preakness Stakes",
+        "distance": "1 3/16 Miles",
+        "surface": "Dirt",
+        "postTime": "6:01 PM",
+        "stakesrace": true,
+        "tv": "NBC, PEACOCK",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 14,
+        "purse": "$58,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "postTime": "6:43 PM",
+        "stakesrace": false,
+        "tv": "FANDUEL TV",
+        "picks": "TBD",
+        "officialResults": "TBD",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "date": "20240607",
+    "cardDesc": "Acorn Stakes Day",
+    "track": "Saratoga",
+    "trackCode": "SAR",
+    "weekday": "friday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "1,4,5,9,12 / 2,6 / 2,3,4,6,7 / 2,3,5,6 / 9",
+    "latePick5Cost": "$100 (Races 8 - 12)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$100,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "11:20 AM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "1-3-5-7",
+        "officialResults": "4-9-3-6",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(4) Illuminare (City of Light sire) - first time starter, great race",
+          "(9) Itza Mirrakle (Arrogate sire) - good finish, overcame tough outside post"
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$115,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 1/4 Miles",
+        "surface": "Dirt",
+        "postTime": "11:53 AM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "1-5-4-9",
+        "officialResults": "1-8-2-6",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(1) Arthur's Ride - Mott/Alvarado - easy win, beautiful race",
+          "Put a line through last race (wet track at Churchill Downs)"
+        ]
+      },
+      {
+        "raceNum": 3,
+        "purse": "$65,000",
+        "raceName": "Starter Allowance",
+        "distance": "1 1/8 Miles",
+        "surface": "Turf",
+        "postTime": "12:27 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "4-8-6-1",
+        "officialResults": "4-6-8-10",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$65,000",
+        "raceName": "Starter Allowance",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "12:01 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "9-6-4-8",
+        "officialResults": "4-6-3-9",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$115,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "1:36 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "10-4-7-3",
+        "officialResults": "5-7-10-12",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$110,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "2:11 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "3-9-6-7",
+        "officialResults": "9-6-4-3",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$110,000",
+        "raceName": "Allowance",
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:46 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "5-4-6-2",
+        "officialResults": "4-3-8-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$110,000",
+        "raceName": "Allowance",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "1:48 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "1-12-4-6",
+        "officialResults": "12-3-5-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$200,000",
+        "raceName": "Intercontinental S.",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "3:55 PM",
+        "stakesrace": true,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "6-2-8-5",
+        "officialResults": "5-6-2-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$500,000",
+        "raceName": "Just a Game S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "4:30 PM",
+        "stakesrace": true,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "4-6-7-3",
+        "officialResults": "6-7-1-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$750,000",
+        "raceName": "New York S.",
+        "distance": "1 3/16 Miles",
+        "surface": "Turf",
+        "postTime": "5:05 PM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "2-5-3-11",
+        "officialResults": "3-7-10-13",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$500,000",
+        "raceName": "Acorn S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "5:40 PM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "9-4-3-7",
+        "officialResults": "9-3-2-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "date": "20240608",
+    "cardDesc": "Belmont Stakes Day",
+    "track": "Saratoga",
+    "trackCode": "SAR",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "1,4,7,8,9 / 2,6,8,11,12 / 2,6 / 1,5,6,7,9 / 9",
+    "latePick5Cost": "$100 (Races 8 - 12)",
+    "race": [
+      {
+        "raceNum": 1,
+        "purse": "$110,000",
+        "raceName": "Allowance",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "9:45 AM",
+        "stakesrace": false,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "5-1-8-6",
+        "officialResults": "3-1-2-8",
+        "preRaceComments": [
+          "Early Pick 5 (R1 - R5) - $36",
+          "1,5,8 / 5,6 / 2,5,8 / 5 / 1,2,3,7"
+        ],
+        "postRaceComments": [
+          "(3) General Partner - even money favorite off layoff won by multiple lengths",
+          "Already out of Early Pick 5 - oh well.  there is always the Pick 4..."
+        ]
+      },
+      {
+        "raceNum": 2,
+        "purse": "$110,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "10:18 AM",
+        "stakesrace": false,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "6-5-11-1",
+        "officialResults": "TBD",
+        "preRaceComments": [
+          "Early Pick 4 (R2 - R5) - $24",
+          "1,5,6,11 / 2,5,8 / 5 / 1,2,3,7"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 3,
+        "purse": "$115,000",
+        "raceName": "Allowance Optional Claiming",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "10:52 AM",
+        "stakesrace": false,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "5-2-8-6",
+        "officialResults": "TBD",
+        "preRaceComments": [
+          "Mandatory Pick 5 (R3 - R7) - $12",
+          "2,5,8 / 5 / 1,2,3,7 / 7,8 / 5"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 4,
+        "purse": "$350,000",
+        "raceName": "True North S.",
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "postTime": "11:31 AM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "5-6-1-2",
+        "officialResults": "7-1-5-2",
+        "preRaceComments": [
+          "Pick 4 (R4 - R7) - $4",
+          "5 / 1,2,3,7 / 7,8 / 5"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 5,
+        "purse": "$350,000",
+        "raceName": "Poker S.",
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "postTime": "12:11 PM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "3-2-7-1",
+        "officialResults": "4-1-7-2",
+        "preRaceComments": [
+          "Mandatory Pick 5 (R5 - R9) - $80",
+          "1,2,3,7 / 7,8 / 5 / 1,7,8,9 / 2,6,8,11,12"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 6,
+        "purse": "$350,000",
+        "raceName": "Suburban S.",
+        "distance": "1 1/4 Miles",
+        "surface": "Dirt",
+        "postTime": "12:51 PM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "8-7-4-2",
+        "officialResults": "7-8-3-5",
+        "preRaceComments": [
+          "Pick 4 (R6 - R9) - $20",
+          "7,8 / 5 / 1,7,8,9 / 2,6,8,11,12"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 7,
+        "purse": "$500,000",
+        "raceName": "Ogden Phipps S.",
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "postTime": "1:36 PM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "5-6-3-4",
+        "officialResults": "1-5-3-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 8,
+        "purse": "$500,000",
+        "raceName": "Woody Stevens S.",
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "postTime": "2:22 PM",
+        "stakesrace": true,
+        "tv": "FS1, FANDUEL TV",
+        "picks": "1-9-7-4",
+        "officialResults": "1-7-10-6",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 9,
+        "purse": "$500,000",
+        "raceName": "Jaipur S.",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "3:08 PM",
+        "stakesrace": true,
+        "tv": "FOX, FANDUEL TV",
+        "picks": "8-2-12-6",
+        "officialResults": "8-2-6-4",
+        "preRaceComments": [
+          "Pick 4 (R9 - R12) - $25",
+          "2,6,8,11,12 / 2,6 / 1,5,6,7,9 / 9"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 10,
+        "purse": "$1,000,000",
+        "raceName": "Metropolitan S.",
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "postTime": "3:52 PM",
+        "stakesrace": true,
+        "tv": "FOX, FANDUEL TV",
+        "picks": "2-6-4-5",
+        "officialResults": "2-3-5-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 11,
+        "purse": "$1,000,000",
+        "raceName": "Manhattan S.",
+        "distance": "1 3/16 Miles",
+        "surface": "Turf",
+        "postTime": "4:36 PM",
+        "stakesrace": true,
+        "tv": "FOX, FANDUEL TV",
+        "picks": "5-1-8-7",
+        "officialResults": "9-7-2-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 12,
+        "purse": "$2,000,000",
+        "raceName": "Belmont S.",
+        "distance": "1 1/4 Miles",
+        "surface": "Dirt",
+        "postTime": "5:41 PM",
+        "stakesrace": true,
+        "tv": "FOX, FANDUEL TV",
+        "picks": "9-10-1-2",
+        "officialResults": "6-10-9-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 13,
+        "purse": "$85,000",
+        "raceName": "Maiden Special Weight",
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "postTime": "6:27 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "7-4-6-11",
+        "officialResults": "5-11-6-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": 14,
+        "purse": "$110,000",
+        "raceName": "Allowance",
+        "distance": "5 1/2 Furlongs",
+        "surface": "Turf",
+        "postTime": "7:02 PM",
+        "stakesrace": false,
+        "tv": "FS2, FANDUEL TV",
+        "picks": "2-1-6-9",
+        "officialResults": "11-10-6-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "date": "20241101",
+    "cardDesc": "BC 2024 FRI - Future Stars Friday",
+    "track": "Del Mar",
+    "weekday": "friday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "2,7,8,9 / 2,3 / 1,4,7 / 1,10 / 4,11,12,13",
+    "latePick5Cost": "$96 (Races 6 - 10)",
+    "race": [
+      {
+        "raceNum": "1",
+        "raceName": "Allowance Optional Claiming",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$150,000",
+        "postTime": "1:35 PM",
+        "stakesrace": false,
+        "distance": "6 1/2 Furlongs",
+        "surface": "Dirt",
+        "picks": "5-9-6-1",
+        "officialResults": "5-6-8-1",
+        "preRaceComments": [
+          "Eary Pick 5 (Races 1 - 5) $96",
+          "5 / 1,3,6 / 1,2,5,6 / 3,5,6,10 / 3,4",
+          "(5) Red Flag - nervous single to kick things off",
+          "(6) Skinner, (9) Dothraki - like the horses, betting against the layoff"
+        ],
+        "postRaceComments": [
+        ]
+      },
+      {
+        "raceNum": "2",
+        "raceName": "Senator Ken Maddy Stakes",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$200,000",
+        "postTime": "2:10 PM",
+        "stakesrace": true,
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "picks": "6-1-3-2",
+        "officialResults": "4-3-1-6",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "(4) Twirling Queen - 3/2 Post Time favorite, no idea why I overlooked this horse"
+        ]
+      },
+      {
+        "raceNum": "3",
+        "raceName": "Golden State Juvenile Fillies S",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$175,000",
+        "postTime": "2:45 PM",
+        "stakesrace": true,
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "picks": "1-6-9-4",
+        "officialResults": "3-7-9-4",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "Post position has been a factor - outside positions are tough"
+        ]
+      },
+      {
+        "raceNum": "4",
+        "raceName": "The Throughbred Aftercare Alliance Stakes",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$200,000",
+        "postTime": "3:25 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "picks": "3-5-6-4",
+        "officialResults": "10-13-3-5",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "5",
+        "raceName": "Golden State Juvenile Stakes",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$175,000",
+        "postTime": "4:05 PM",
+        "stakesrace": true,
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "picks": "5-4-3-8",
+        "officialResults": "7-3-5-8",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "6",
+        "raceName": "BC Juvenile Turf Sprint (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$1,000,000",
+        "postTime": "4:45 PM",
+        "stakesrace": true,
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "picks": "8-7-2-9",
+        "officialResults": "4-5-10-3",
+        "preRaceComments": [
+          "Going with foreign invaders on the turf - at least to start"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "7",
+        "raceName": "BC Juvenile Fillies (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$2,000,000",
+        "postTime": "5:25 PM",
+        "stakesrace": true,
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "picks": "3-2-10-9",
+        "officialResults": "3-1-5-10",
+        "preRaceComments": [
+          "(3) Immersive - consistent, good looking Nyquist filly",
+          "(2) Snowyte - Fast starter, Saez, good post",
+          "(10) Scottish Lassie - winner of Friette, tough post in this race"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "8",
+        "raceName": "BC Juvenile Fillies Turf (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$1,000,000",
+        "postTime": "6:05 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "picks": "1-4-5-7",
+        "officialResults": "1-12-2-11",
+        "preRaceComments": [
+          "(1) Lake Victoria - top horse, could be the best bet of the day"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "9",
+        "raceName": "BC Juvenile (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$2,000,000",
+        "postTime": "6:45 PM",
+        "stakesrace": true,
+        "distance": "1 1/16 Miles",
+        "surface": "Dirt",
+        "picks": "1-10-4-5",
+        "officialResults": "6-7-3-2",
+        "preRaceComments": [
+          "(1) East Avenue - Fast starter, post, PP - a lot in his favor going into race",
+          "(10) Chaner McPatrick - I love this horse, but don't like this post"
+        ],
+        "postRaceComments": [
+          "Wow - 15/1 over 6/1 over 60/1 over 25/1",
+          "Top three did not fire - (1) East Avenue, (10) Chaner McPatrick, (5) Jonathan's Way"
+        ]
+      },
+      {
+        "raceNum": "10",
+        "raceName": "BC Juvenile Turf (G1)",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$1,000,000",
+        "postTime": "7:25 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "picks": "4-12-13-11",
+        "officialResults": "13-6-12-11",
+        "preRaceComments": [
+          "Tough race to handicap - lots of good, young horses",
+          "(4) Al Qudra - terrible luck in last race, great closing speed",
+          "(9) The Waco Kid - Davy Lane pick, so I'm interested how he performs"
+        ],
+        "postRaceComments": [
+          "Special DD (Fri R10/Sat R7) $5:  4 / 2,4,5,6,11",
+          "(13) - Henri Matisse - outstanding horse, trainer, jockey; great race",
+          "(4) Al Qudra - caught up in traffic, could not make a late run"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 18,
+    "date": "20241102",
+    "cardDesc": "BC 2024 SAT - Championships Saturday",
+    "track": "Del Mar",
+    "weekday": "saturday",
+    "raceDayNotes": [
+      ""
+    ],
+    "latePick5": "1,3,9,11 / 2,3,4,7 / 3,8 / 6,12 /  6,9,10",
+    "latePick5Cost": "$96 (Races 8 - 12)",
+    "race": [
+      {
+        "raceNum": "1",
+        "raceName": "The Sunrise",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$150,000",
+        "postTime": "12:05 PM",
+        "stakesrace": false,
+        "distance": "1 1/16 Miles",
+        "surface": "Turf",
+        "picks": "6-3-10-11",
+        "officialResults": "14-6-7-12",
+        "preRaceComments": [
+        ],
+        "postRaceComments": [
+          "(14) Tisquantum - AE drew in; 25-1; off a 15 month layoff",
+          "(6) Canada Gate - overall good race; not enough to finish race"
+        ]
+      },
+      {
+        "raceNum": "2",
+        "raceName": "Bayakoa Stakes (G3)",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$200,000",
+        "postTime": "12:40 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "picks": "3-4-7-2",
+        "officialResults": "3-4-2-1",
+        "preRaceComments": [
+          "Early Pick 4 (Races 2 - 5) $18",
+          "3 / 1,2,4 / 6,7,9 / 1,2,9,12"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "3",
+        "raceName": "Goldikova Stakes (G3)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": false,
+        "purse": "$300,000",
+        "postTime": "1:15 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "picks": "1-4-2-6",
+        "officialResults": "10-11-2-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "4",
+        "raceName": "BC Dirt Mile (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$1,000,000",
+        "postTime": "2:00 PM",
+        "stakesrace": true,
+        "distance": "7 Furlongs",
+        "surface": "Dirt",
+        "picks": "9-6-4-7",
+        "officialResults": "8-6-3-10",
+        "preRaceComments": [
+          "Middle Pick-5 (Races 4 - 8) $30",
+          "4,6,7,9 / 9 / 2 / 2,4,6,10,11 / 1,3,9"
+        ],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "5",
+        "raceName": "BC Turf Sprint (G1)",
+        "tv": "NBC, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$1,000,000",
+        "postTime": "2:41 PM",
+        "stakesrace": true,
+        "distance": "5 Furlongs",
+        "surface": "Turf",
+        "picks": "9-6-2-12",
+        "officialResults": "4-5-2-6",
+        "preRaceComments": [],
+        "postRaceComments": [
+          "30/1 over 12/1 over 9/1 over 7/1",
+          "(9) Cogburn - great early start, tired, could not finish"
+        ]
+      },
+      {
+        "raceNum": "6",
+        "raceName": "BC Distaff (G1)",
+        "tv": "NBC, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$2,000,000",
+        "postTime": "3:21 PM",
+        "stakesrace": true,
+        "distance": "1 1/8 Miles",
+        "surface": "Dirt",
+        "picks": "2-6-9-1",
+        "officialResults": "2-6-1-4",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "7",
+        "raceName": "BC Turf (G1)",
+        "tv": "NBC, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$5,000,000",
+        "postTime": "4:01 PM",
+        "stakesrace": true,
+        "distance": "1 1/2 Miles",
+        "surface": "Turf",
+        "picks": "4-2-11-6",
+        "officialResults": "11-1-3-12",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "8",
+        "raceName": "BC Classic (G1)",
+        "tv": "NBC",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$7,000,000",
+        "postTime": "4:41 PM",
+        "stakesrace": true,
+        "distance": "1 1/4 Miles",
+        "surface": "Dirt",
+        "picks": "9-1-3-11",
+        "officialResults": "11-9-1-13",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "9",
+        "raceName": "BC Filly and Mare Turf (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$2,000,000",
+        "postTime": "5:25 PM",
+        "stakesrace": true,
+        "distance": "1 3/8 Miles",
+        "surface": "Dirt",
+        "picks": "3-4-2-7",
+        "officialResults": "10-3-5-1",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "10",
+        "raceName": "BC Sprint (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$2,000,000",
+        "postTime": "6:05 PM",
+        "stakesrace": true,
+        "distance": "6 Furlongs",
+        "surface": "Dirt",
+        "picks": "3-8-11-10",
+        "officialResults": "8-6-10-2",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "11",
+        "raceName": "BC Mile (G1)",
+        "tv": "USA, FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$2,000,,000",
+        "postTime": "6:45 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Turf",
+        "picks": "6-4-12-7",
+        "officialResults": "8-9-6-11",
+        "preRaceComments": [],
+        "postRaceComments": []
+      },
+      {
+        "raceNum": "12",
+        "raceName": "BC Dirt Mile (G1)",
+        "tv": "FANDUEL TV",
+        "bcweekend": true,
+        "bcwcrace": true,
+        "purse": "$1,000,000",
+        "postTime": "7:25 PM",
+        "stakesrace": true,
+        "distance": "1 Mile",
+        "surface": "Dirt",
+        "picks": "6-10-9-1",
+        "officialResults": "3-8-9-7",
+        "preRaceComments": [],
+        "postRaceComments": []
+      }
+    ]
+  }
+
+]

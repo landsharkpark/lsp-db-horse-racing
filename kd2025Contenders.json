@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "lsprank": 1,
+    "rank": 1,
+    "points": 40,
+    "name": "Citizen Bull",
+    "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - No Joke",
+    "pedigreeLink": "https://www.pedigreequery.com/citizen+bull3",
+    "prepRaces": [
+      "1st - 2024 Breeders' Cup Juvenile (G1) (DMR 11/1/2024)",
+      "1st - 2024 American Pharoah (G1) (SA 10/05/2024"
+    ],
+    "comments": [
+      "Very impressive Breeder's Cup Juvenile win"
+    ]
+  },
+  {
+    "id": 2,
+    "lsprank": 2,
+    "rank": 2,
+    "points": 10,
+    "name": "East Avenue",
+    "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
+    "sire": "Medaglia d'Oro",
+    "pedigree": "Medaglia d'Oro - Dance Music",
+    "pedigreeLink": "https://www.pedigreequery.com/east+avenue4",
+    "prepRaces": [
+      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/1/2024)",
+      "1st - 2024 Breeders' Futurity (G1) (KEE 10/05/2024)"
+    ],
+    "comments": [
+      "Breeders' Cup Juvenile - stumbled out of gate and never recovered"
+    ]
+  },
+  {
+    "id": 3,
+    "lsprank": 3,
+    "rank": 10,
+    "points": 20,
+    "name": "Disco Time",
+    "profileLink": "https://www.horseracingnation.com/horse/Disco_Time_1",
+    "sire": "Not This Time",
+    "pedigree": "Not This Time - Disco Chick",
+    "pedigreeLink": "https://www.pedigreequery.com/disco+time3",
+    "prepRaces": [
+      "1st - 2025 Lecomte (G3) (FG 01/18/2025)"
+    ],
+    "comments": [
+      "2025 Lecomte - impressive outside post (11), sloppy track, great close"
+    ]
+  },
+  {
+    "id": 4,
+    "lsprank": 4,
+    "rank": 4,
+    "points": 20,
+    "name": "Built",
+    "profileLink": "https://www.horseracingnation.com/horse/Built",
+    "sire": "Hard Spun",
+    "pedigree": "Hard Spun - Sea Garden",
+    "pedigreeLink": "https://www.pedigreequery.com/built2",
+    "prepRaces": [
+      "2nd - 2025 Lecomte (G3) (FG 01/18/2025)"
+    ],
+    "comments": [
+      "2025 Lecomte - impressive outside post (13), sloppy track, early lead, faded down the stretch"
+    ]
+  }
+
+]
