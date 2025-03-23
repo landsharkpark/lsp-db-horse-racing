@@ -2769,7 +2769,7 @@
     "latePick5Cost": "$96 (Races 6 - 10)",
     "race": [
       {
-        "raceNum": "1",
+        "raceNum": 1,
         "raceName": "Allowance Optional Claiming",
         "tv": "FANDUEL TV",
         "bcweekend": true,
@@ -2791,7 +2791,7 @@
         ]
       },
       {
-        "raceNum": "2",
+        "raceNum": 2,
         "raceName": "Senator Ken Maddy Stakes",
         "tv": "FANDUEL TV",
         "bcweekend": true,
@@ -2809,7 +2809,7 @@
         ]
       },
       {
-        "raceNum": "3",
+        "raceNum": 3,
         "raceName": "Golden State Juvenile Fillies S",
         "tv": "FANDUEL TV",
         "bcweekend": true,
@@ -2827,7 +2827,7 @@
         ]
       },
       {
-        "raceNum": "4",
+        "raceNum": 4,
         "raceName": "The Throughbred Aftercare Alliance Stakes",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -2843,7 +2843,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "5",
+        "raceNum": 5,
         "raceName": "Golden State Juvenile Stakes",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -2859,7 +2859,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "6",
+        "raceNum": 6,
         "raceName": "BC Juvenile Turf Sprint (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -2877,7 +2877,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "7",
+        "raceNum": 7,
         "raceName": "BC Juvenile Fillies (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -2897,7 +2897,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "8",
+        "raceNum": 8,
         "raceName": "BC Juvenile Fillies Turf (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -2915,7 +2915,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "9",
+        "raceNum": 9,
         "raceName": "BC Juvenile (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -2937,7 +2937,7 @@
         ]
       },
       {
-        "raceNum": "10",
+        "raceNum": 10,
         "raceName": "BC Juvenile Turf (G1)",
         "tv": "FANDUEL TV",
         "bcweekend": true,
@@ -2975,7 +2975,7 @@
     "latePick5Cost": "$96 (Races 8 - 12)",
     "race": [
       {
-        "raceNum": "1",
+        "raceNum": 1,
         "raceName": "The Sunrise",
         "tv": "FANDUEL TV",
         "bcweekend": true,
@@ -2995,7 +2995,7 @@
         ]
       },
       {
-        "raceNum": "2",
+        "raceNum": 2,
         "raceName": "Bayakoa Stakes (G3)",
         "tv": "FANDUEL TV",
         "bcweekend": true,
@@ -3014,7 +3014,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "3",
+        "raceNum": 3,
         "raceName": "Goldikova Stakes (G3)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -3030,7 +3030,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "4",
+        "raceNum": 4,
         "raceName": "BC Dirt Mile (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -3049,7 +3049,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "5",
+        "raceNum": 5,
         "raceName": "BC Turf Sprint (G1)",
         "tv": "NBC, FANDUEL TV",
         "bcweekend": true,
@@ -3068,7 +3068,7 @@
         ]
       },
       {
-        "raceNum": "6",
+        "raceNum": 6,
         "raceName": "BC Distaff (G1)",
         "tv": "NBC, FANDUEL TV",
         "bcweekend": true,
@@ -3084,7 +3084,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "7",
+        "raceNum": 7,
         "raceName": "BC Turf (G1)",
         "tv": "NBC, FANDUEL TV",
         "bcweekend": true,
@@ -3100,7 +3100,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "8",
+        "raceNum": 8,
         "raceName": "BC Classic (G1)",
         "tv": "NBC",
         "bcweekend": true,
@@ -3116,7 +3116,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "9",
+        "raceNum": 9,
         "raceName": "BC Filly and Mare Turf (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -3132,7 +3132,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "10",
+        "raceNum": 10,
         "raceName": "BC Sprint (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -3148,7 +3148,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "11",
+        "raceNum": 11,
         "raceName": "BC Mile (G1)",
         "tv": "USA, FANDUEL TV",
         "bcweekend": true,
@@ -3164,7 +3164,7 @@
         "postRaceComments": []
       },
       {
-        "raceNum": "12",
+        "raceNum": 12,
         "raceName": "BC Dirt Mile (G1)",
         "tv": "FANDUEL TV",
         "bcweekend": true,
