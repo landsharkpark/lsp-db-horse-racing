@@ -2,8 +2,8 @@
   {
     "id": 1,
     "lsprank": 1,
-    "rank": 1,
-    "points": 40,
+    "rank": 6,
+    "points": 60,
     "name": "Citizen Bull",
     "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
     "sire": "Into Mischief",
@@ -55,8 +55,8 @@
   {
     "id": 4,
     "lsprank": 4,
-    "rank": 4,
-    "points": 20,
+    "rank": 13,
+    "points": 45,
     "name": "Built",
     "profileLink": "https://www.horseracingnation.com/horse/Built",
     "sire": "Hard Spun",
@@ -67,6 +67,81 @@
     ],
     "comments": [
       "2025 Lecomte - impressive outside post (13), sloppy track, early lead, faded down the stretch"
+    ]
+  },
+  {
+    "id": 5,
+    "lsprank": 1,
+    "rank": 1,
+    "points": 119,
+    "name": "Tiztastic",
+    "profileLink": "https://www.horseracingnation.com/horse/Tiztastic",
+    "sire": "Tiz the Law",
+    "pedigree": "Tiz the Law - Keesha by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/tiztastic",
+    "prepRaces": [
+      "1st - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
+      "5th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "3rd - 2024 Kentucky Jockey Club (G2) (CD 11/30/2024)",
+      "2nd - 2024 Street Sense (G3) (CD 10/27/2024)"
+    ],
+    "comments": [
+      ""
+    ]
+  },
+  {
+    "id": 6,
+    "lsprank": 1,
+    "rank": 2,
+    "points": 100,
+    "name": "Final Gambit",
+    "profileLink": "https://www.horseracingnation.com/horse/Final_Gambit",
+    "sire": "Not This Time",
+    "pedigree": "Not This Time - Pachiniko by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/final+gambit",
+    "prepRaces": [
+      "1st - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+    ],
+    "comments": [
+      "Four career starts - three maiden races and Jeff Ruby Steaks"
+    ]
+  },
+  {
+    "id": 7,
+    "lsprank": 1,
+    "rank": 3,
+    "points": 75,
+    "name": "Chunk of Gold",
+    "profileLink": "https://www.horseracingnation.com/horse/Chunk_of_Gold",
+    "sire": "Preservationist",
+    "pedigree": "Preservationist - Play For Gold by Cairo Prince",
+    "pedigreeLink": "https://www.pedigreequery.com/chunk+of+gold2",
+    "prepRaces": [
+      "2nd - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
+      "2nd - 2025 Risen Star (G2) (FG 02/15/2025)"
+    ],
+    "comments": [
+      "Consistent at Fair Grounds",
+      "Second place finishes behind Magnitude and Tiztastic"
+    ]
+  },
+  {
+    "id": 8,
+    "lsprank": 1,
+    "rank": 4,
+    "points": 70,
+    "name": "Coal Battle",
+    "profileLink": "https://www.horseracingnation.com/horse/Coal_Battle",
+    "sire": "Coal Front",
+    "pedigree": "Coal Front - Wolfblade by Midshipman",
+    "pedigreeLink": "https://www.pedigreequery.com/coal+battle",
+    "prepRaces": [
+      "1st - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "1st - 2025 Smarty Jones (G2) (OP 01/04/2025)"
+    ],
+    "comments": [
+      "Next Race: Arkansas Derby",
+      "Dominating Oaklawn field"
     ]
   }
 
