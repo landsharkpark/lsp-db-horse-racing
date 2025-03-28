@@ -143,6 +143,45 @@
       "Next Race: Arkansas Derby",
       "Dominating Oaklawn field"
     ]
+  },
+  {
+    "id": 9,
+    "lsprank": 1,
+    "rank": 5,
+    "points": 65,
+    "name": "Owen Almighty",
+    "profileLink": "https://www.horseracingnation.com/horse/Owen_Almighty",
+    "sire": "Speightstown",
+    "pedigree": "Speightstown - Tempers Rising by Bayern",
+    "pedigreeLink": "https://www.pedigreequery.com/owen+almighty2",
+    "prepRaces": [
+      "1st - 2025 Tampa Bay Derby (G3) (TAM 03/08/2025)",
+      "2nd - 2025 Sam F. Davis (TAM 02/08/2025)",
+      "2nd - 2024 Iroquois (CD 09/14/2024)"
+    ],
+    "comments": [
+      "Next Race: Blue Grass (KEE 4/5/2025)",
+      "Strong, early speed horse",
+      "Question whether he can go 10 furlongs"
+    ]
+  },
+  {
+    "id": 10,
+    "lsprank": 1,
+    "rank": 7,
+    "points": 60,
+    "name": "Sovereignty",
+    "profileLink": "https://www.horseracingnation.com/horse/Sovereignty_2",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Crowned by Bernardini",
+    "pedigreeLink": "https://www.pedigreequery.com/sovereignty17",
+    "prepRaces": [
+      "1st - 2025 Fountain of Youth (G2) (GP 03/01/2025)",
+      "1st - 2024 Street Sense (G3) (CD 10/27/2024)"
+    ],
+    "comments": [
+      "Next Race: Florida Derby (GP 3/29/2025)"
+    ]
   }
 
 ]
