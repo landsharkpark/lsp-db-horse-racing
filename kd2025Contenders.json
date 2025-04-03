@@ -20,7 +20,7 @@
   {
     "id": 2,
     "lsprank": 2,
-    "rank": 2,
+    "rank": 41,
     "points": 10,
     "name": "East Avenue",
     "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
@@ -238,6 +238,60 @@
       "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
       "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
       "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 14,
+    "lsprank": 1,
+    "rank": 11,
+    "points": 55,
+    "name": "American Promise",
+    "profileLink": "https://www.horseracingnation.com/horse/American_Promise",
+    "sire": "Justify",
+    "pedigree": "Justify - Tapella by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/american+promise3",
+    "prepRaces": [
+      "1st - 2025 Viginia Derby (LS) (CNL 03/15/2025)",
+      "5th - 2025 Risen Star (G2) (FG 02/15/2025)",
+      "7th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 15,
+    "lsprank": 1,
+    "rank": 12,
+    "points": 50,
+    "name": "Flood Zone",
+    "profileLink": "https://www.horseracingnation.com/horse/Flood_Zone",
+    "sire": "Frosted",
+    "pedigree": "Frosted - Curls For Girls by Curlin",
+    "pedigreeLink": "https://www.pedigreequery.com/flood+zone2",
+    "prepRaces": [
+      "1st - 2025 Gotham (G3) (AQU 03/01/2025)"
+    ],
+    "comments": [
+      "Next Race: UAE Derby (UAE 04/05/2025)",
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 16,
+    "lsprank": 1,
+    "rank": 13,
+    "points": 50,
+    "name": "Flying Mohawk",
+    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
+    "sire": "Frosted",
+    "pedigree": "Frosted - Curls For Girls by Curlin",
+    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
+    "prepRaces": [
+      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
     ],
     "comments": [
       "Next Race: Kentucky Derby (CD 05/03/2025)"
