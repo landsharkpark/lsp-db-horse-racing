@@ -2,7 +2,7 @@
   {
     "id": 1,
     "lsprank": 1,
-    "rank": 6,
+    "rank": 9,
     "points": 60,
     "name": "Citizen Bull",
     "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
@@ -72,7 +72,7 @@
   {
     "id": 5,
     "lsprank": 1,
-    "rank": 1,
+    "rank": 2,
     "points": 119,
     "name": "Tiztastic",
     "profileLink": "https://www.horseracingnation.com/horse/Tiztastic",
@@ -92,7 +92,7 @@
   {
     "id": 6,
     "lsprank": 1,
-    "rank": 2,
+    "rank": 5,
     "points": 100,
     "name": "Final Gambit",
     "profileLink": "https://www.horseracingnation.com/horse/Final_Gambit",
@@ -109,7 +109,7 @@
   {
     "id": 7,
     "lsprank": 1,
-    "rank": 3,
+    "rank": 7,
     "points": 75,
     "name": "Chunk of Gold",
     "profileLink": "https://www.horseracingnation.com/horse/Chunk_of_Gold",
@@ -128,26 +128,27 @@
   {
     "id": 8,
     "lsprank": 1,
-    "rank": 4,
-    "points": 70,
+    "rank": 6,
+    "points": 95,
     "name": "Coal Battle",
     "profileLink": "https://www.horseracingnation.com/horse/Coal_Battle",
     "sire": "Coal Front",
     "pedigree": "Coal Front - Wolfblade by Midshipman",
     "pedigreeLink": "https://www.pedigreequery.com/coal+battle",
     "prepRaces": [
+      "3rd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
       "1st - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
       "1st - 2025 Smarty Jones (G2) (OP 01/04/2025)"
     ],
     "comments": [
-      "Next Race: Arkansas Derby",
-      "Dominating Oaklawn field"
+      "Next Race: Kentucky Derby",
+      "Flat performance in Arkansas Derby"
     ]
   },
   {
     "id": 9,
     "lsprank": 1,
-    "rank": 5,
+    "rank": 8,
     "points": 65,
     "name": "Owen Almighty",
     "profileLink": "https://www.horseracingnation.com/horse/Owen_Almighty",
@@ -168,19 +169,78 @@
   {
     "id": 10,
     "lsprank": 1,
-    "rank": 7,
-    "points": 60,
+    "rank": 4,
+    "points": 110,
     "name": "Sovereignty",
     "profileLink": "https://www.horseracingnation.com/horse/Sovereignty_2",
     "sire": "Into Mischief",
     "pedigree": "Into Mischief - Crowned by Bernardini",
     "pedigreeLink": "https://www.pedigreequery.com/sovereignty17",
     "prepRaces": [
+      "2nd - 2025 Florida Derby (G1) (GP 03/29/2025)",
       "1st - 2025 Fountain of Youth (G2) (GP 03/01/2025)",
       "1st - 2024 Street Sense (G3) (CD 10/27/2024)"
     ],
     "comments": [
-      "Next Race: Florida Derby (GP 3/29/2025)"
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 11,
+    "lsprank": 1,
+    "rank": 1,
+    "points": 129,
+    "name": "Sandman",
+    "profileLink": "https://www.horseracingnation.com/horse/Sandman",
+    "sire": "Tapit",
+    "pedigree": "Tapit - Distorted Music by Distorted Humor",
+    "pedigreeLink": "https://www.pedigreequery.com/sandman12",
+    "prepRaces": [
+      "1st - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
+      "3rd - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "2nd - 2025 Southwest Stakes (G3) (OP 01/25/2025)",
+      "3rd - 2024 Street Sense (G3) (CD 10/27/2024)",
+      "2nd - 2024 Iroquois (G3) (CD 09/14/2024)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 12,
+    "lsprank": 1,
+    "rank": 3,
+    "points": 110,
+    "name": "Tappan Street",
+    "profileLink": "https://www.horseracingnation.com/horse/Tappan_Street_1",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Virginia Key by Distorted Humor",
+    "pedigreeLink": "https://www.pedigreequery.com/tappan+street2",
+    "prepRaces": [
+      "1st - 2025 Florida Derby (G1) (GP 03/29/2025)",
+      "2nd - 2025 Holy Bull (G3) (GP 02/01/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 13,
+    "lsprank": 1,
+    "rank": 10,
+    "points": 60,
+    "name": "Publisher",
+    "profileLink": "https://www.horseracingnation.com/horse/Publisher",
+    "sire": "American Pharoah",
+    "pedigree": "American Pharoah - Indian Pride by Proud Citizen",
+    "pedigreeLink": "https://www.pedigreequery.com/publisher9",
+    "prepRaces": [
+      "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
+      "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   }
 
