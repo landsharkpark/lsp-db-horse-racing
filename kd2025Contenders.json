@@ -2,6 +2,66 @@
   {
     "id": 1,
     "lsprank": 1,
+    "rank": 1,
+    "points": 130,
+    "name": "Burnham Square",
+    "profileLink": "https://www.horseracingnation.com/horse/Burnham_Square",
+    "sire": "Liam's Map",
+    "pedigree": "Liam's Map - Linda by Scat Daddy",
+    "pedigreeLink": "https://www.pedigreequery.com/burnham+square",
+    "prepRaces": [
+      "1st - 2025 Blue Grass (G1) (Kee 04/08/2025)",
+      "4th - 2025 Fountain of Youth (G2) (GP 03/01/2025",
+      "1st - 2025 Holy Bull (G3) (GP 02/01/2025"
+    ],
+    "comments": [
+      "Very good in Blue Grass and Holy Bull",
+      "Disappointed in Fountain of Youth - put a line through that race?"
+    ]
+  },
+  {
+    "id": 2,
+    "lsprank": 2,
+    "rank": 2,
+    "points": 129,
+    "name": "Sandman",
+    "profileLink": "https://www.horseracingnation.com/horse/Sandman",
+    "sire": "Tapit",
+    "pedigree": "Tapit - Distorted Music by Distorted Humor",
+    "pedigreeLink": "https://www.pedigreequery.com/sandman12",
+    "prepRaces": [
+      "1st - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
+      "3rd - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "2nd - 2025 Southwest Stakes (G3) (OP 01/25/2025)",
+      "3rd - 2024 Street Sense (G3) (CD 10/27/2024)",
+      "2nd - 2024 Iroquois (G3) (CD 09/14/2024)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 3,
+    "lsprank": 3,
+    "rank": 3,
+    "points": 122.5,
+    "name": "Journalism",
+    "profileLink": "https://www.horseracingnation.com/horse/Journalism_2",
+    "sire": "Curlin",
+    "pedigree": "Curlin - Mopotism by Uncle Mo",
+    "pedigreeLink": "https://www.pedigreequery.com/journalism6",
+    "prepRaces": [
+      "1st - 2025 Santa Anita Derby (G1) (SA 04/05/2025)",
+      "1st - 2025 San Felipe (G2) (SA 03/01/2025)",
+      "1st - 2024 Los Alamitos Futurity (G2) (LRC 02/14/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 1,
+    "lsprank": 1,
     "rank": 9,
     "points": 60,
     "name": "Citizen Bull",
@@ -180,27 +240,6 @@
       "2nd - 2025 Florida Derby (G1) (GP 03/29/2025)",
       "1st - 2025 Fountain of Youth (G2) (GP 03/01/2025)",
       "1st - 2024 Street Sense (G3) (CD 10/27/2024)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 11,
-    "lsprank": 1,
-    "rank": 1,
-    "points": 129,
-    "name": "Sandman",
-    "profileLink": "https://www.horseracingnation.com/horse/Sandman",
-    "sire": "Tapit",
-    "pedigree": "Tapit - Distorted Music by Distorted Humor",
-    "pedigreeLink": "https://www.pedigreequery.com/sandman12",
-    "prepRaces": [
-      "1st - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "3rd - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "2nd - 2025 Southwest Stakes (G3) (OP 01/25/2025)",
-      "3rd - 2024 Street Sense (G3) (CD 10/27/2024)",
-      "2nd - 2024 Iroquois (G3) (CD 09/14/2024)"
     ],
     "comments": [
       "Next Race: Kentucky Derby (CD 05/03/2025)"
