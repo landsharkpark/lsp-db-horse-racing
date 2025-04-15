@@ -44,7 +44,7 @@
     "id": 3,
     "lsprank": 3,
     "rank": 3,
-    "points": 122.5,
+    "points": 122.50,
     "name": "Journalism",
     "profileLink": "https://www.horseracingnation.com/horse/Journalism_2",
     "sire": "Curlin",
@@ -57,6 +57,99 @@
     ],
     "comments": [
       "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 4,
+    "lsprank": 4,
+    "rank": 4,
+    "points": 121.25,
+    "name": "Rodriguez",
+    "profileLink": "https://www.horseracingnation.com/horse/Rodriguez_1",
+    "sire": "Authentic",
+    "pedigree": "Authentic - Cayala by Cherokee Run",
+    "pedigreeLink": "https://www.pedigreequery.com/rodriguez7",
+    "prepRaces": [
+      "1st - 2025 Wood Memorial (G2) (AQU 04/05/2025)",
+      "3rd - 2025 San Felipe (G2) (SA 03/01/2025)",
+      "2nd - 2025 Robert B Lewis (G3) (SA 02/01/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 5,
+    "lsprank": 5,
+    "rank": 5,
+    "points": 119,
+    "name": "Tiztastic",
+    "profileLink": "https://www.horseracingnation.com/horse/Tiztastic",
+    "sire": "Tiz the Law",
+    "pedigree": "Tiz the Law - Keesha by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/tiztastic",
+    "prepRaces": [
+      "1st - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
+      "5th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "3rd - 2024 Kentucky Jockey Club (G2) (CD 11/30/2024)",
+      "2nd - 2024 Street Sense (G3) (CD 10/27/2024)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 6,
+    "lsprank": 6,
+    "rank": 6,
+    "points": 110,
+    "name": "Tappan Street",
+    "profileLink": "https://www.horseracingnation.com/horse/Tappan_Street_1",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Virginia Key by Distorted Humor",
+    "pedigreeLink": "https://www.pedigreequery.com/tappan+street2",
+    "prepRaces": [
+      "1st - 2025 Florida Derby (G1) (GP 03/29/2025)",
+      "2nd - 2025 Holy Bull (G3) (GP 02/01/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 7,
+    "lsprank": 7,
+    "rank": 7,
+    "points": 110,
+    "name": "Sovereignty",
+    "profileLink": "https://www.horseracingnation.com/horse/Sovereignty_2",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Crowned by Bernardini",
+    "pedigreeLink": "https://www.pedigreequery.com/sovereignty17",
+    "prepRaces": [
+      "2nd - 2025 Florida Derby (G1) (GP 03/29/2025)",
+      "1st - 2025 Fountain of Youth (G2) (GP 03/01/2025)",
+      "1st - 2024 Street Sense (G3) (CD 10/27/2024)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 8,
+    "lsprank": 8,
+    "rank": 8,
+    "points": 100,
+    "name": "Final Gambit",
+    "profileLink": "https://www.horseracingnation.com/horse/Final_Gambit",
+    "sire": "Not This Time",
+    "pedigree": "Not This Time - Pachiniko by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/final+gambit",
+    "prepRaces": [
+      "1st - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+    ],
+    "comments": [
+      "Four career starts - three maiden races and Jeff Ruby Steaks"
     ]
   },
   {
@@ -130,43 +223,6 @@
     ]
   },
   {
-    "id": 5,
-    "lsprank": 1,
-    "rank": 2,
-    "points": 119,
-    "name": "Tiztastic",
-    "profileLink": "https://www.horseracingnation.com/horse/Tiztastic",
-    "sire": "Tiz the Law",
-    "pedigree": "Tiz the Law - Keesha by Tapit",
-    "pedigreeLink": "https://www.pedigreequery.com/tiztastic",
-    "prepRaces": [
-      "1st - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
-      "5th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "3rd - 2024 Kentucky Jockey Club (G2) (CD 11/30/2024)",
-      "2nd - 2024 Street Sense (G3) (CD 10/27/2024)"
-    ],
-    "comments": [
-      ""
-    ]
-  },
-  {
-    "id": 6,
-    "lsprank": 1,
-    "rank": 5,
-    "points": 100,
-    "name": "Final Gambit",
-    "profileLink": "https://www.horseracingnation.com/horse/Final_Gambit",
-    "sire": "Not This Time",
-    "pedigree": "Not This Time - Pachiniko by Tapit",
-    "pedigreeLink": "https://www.pedigreequery.com/final+gambit",
-    "prepRaces": [
-      "1st - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
-    ],
-    "comments": [
-      "Four career starts - three maiden races and Jeff Ruby Steaks"
-    ]
-  },
-  {
     "id": 7,
     "lsprank": 1,
     "rank": 7,
@@ -224,43 +280,6 @@
       "Next Race: Blue Grass (KEE 4/5/2025)",
       "Strong, early speed horse",
       "Question whether he can go 10 furlongs"
-    ]
-  },
-  {
-    "id": 10,
-    "lsprank": 1,
-    "rank": 4,
-    "points": 110,
-    "name": "Sovereignty",
-    "profileLink": "https://www.horseracingnation.com/horse/Sovereignty_2",
-    "sire": "Into Mischief",
-    "pedigree": "Into Mischief - Crowned by Bernardini",
-    "pedigreeLink": "https://www.pedigreequery.com/sovereignty17",
-    "prepRaces": [
-      "2nd - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "1st - 2025 Fountain of Youth (G2) (GP 03/01/2025)",
-      "1st - 2024 Street Sense (G3) (CD 10/27/2024)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 12,
-    "lsprank": 1,
-    "rank": 3,
-    "points": 110,
-    "name": "Tappan Street",
-    "profileLink": "https://www.horseracingnation.com/horse/Tappan_Street_1",
-    "sire": "Into Mischief",
-    "pedigree": "Into Mischief - Virginia Key by Distorted Humor",
-    "pedigreeLink": "https://www.pedigreequery.com/tappan+street2",
-    "prepRaces": [
-      "1st - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "2nd - 2025 Holy Bull (G3) (GP 02/01/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
