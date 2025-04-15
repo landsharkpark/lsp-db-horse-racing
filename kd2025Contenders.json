@@ -153,17 +153,75 @@
     ]
   },
   {
-    "id": 1,
-    "lsprank": 1,
+    "id": 9,
+    "lsprank": 9,
     "rank": 9,
-    "points": 60,
+    "points": 100,
+    "name": "Admire Daytona (JPN)",
+    "profileLink": "https://www.horseracingnation.com/horse/Admire_Daytona",
+    "sire": "Drefong",
+    "pedigree": "Drefong - Ice Pastel by Shackleford",
+    "pedigreeLink": "https://www.pedigreequery.com/admire+daytona",
+    "prepRaces": [
+      "1st - 2025 UAE Derby (G2) (MEY 04/05/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 10,
+    "lsprank": 10,
+    "rank": 10,
+    "points": 95,
+    "name": "Coal Battle",
+    "profileLink": "https://www.horseracingnation.com/horse/Coal_Battle",
+    "sire": "Coal Front",
+    "pedigree": "Coal Front - Wolfblade by Midshipman",
+    "pedigreeLink": "https://www.pedigreequery.com/coal+battle",
+    "prepRaces": [
+      "3rd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
+      "1st - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "1st - 2025 Smarty Jones (G2) (OP 01/04/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby",
+      "Flat performance in Arkansas Derby"
+    ]
+  },
+  {
+    "id": 11,
+    "lsprank": 11,
+    "rank": 11,
+    "points": 75,
+    "name": "Chunk of Gold",
+    "profileLink": "https://www.horseracingnation.com/horse/Chunk_of_Gold",
+    "sire": "Preservationist",
+    "pedigree": "Preservationist - Play For Gold by Cairo Prince",
+    "pedigreeLink": "https://www.pedigreequery.com/chunk+of+gold2",
+    "prepRaces": [
+      "2nd - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
+      "2nd - 2025 Risen Star (G2) (FG 02/15/2025)"
+    ],
+    "comments": [
+      "Consistent at Fair Grounds",
+      "Second place finishes behind Magnitude and Tiztastic"
+    ]
+  },
+  {
+    "id": 12,
+    "lsprank": 12,
+    "rank": 12,
+    "points": 71.25,
     "name": "Citizen Bull",
     "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
     "sire": "Into Mischief",
-    "pedigree": "Into Mischief - No Joke",
+    "pedigree": "Into Mischief - No Joke by Distorted Humor",
     "pedigreeLink": "https://www.pedigreequery.com/citizen+bull3",
     "prepRaces": [
-      "1st - 2024 Breeders' Cup Juvenile (G1) (DMR 11/1/2024)",
+      "4th - 2025 Santa Anita Derby (G1) (SA 04/05/2025)",
+      "1st - 2025 Robert B. Lewis (G3) (SA 02/11/2025)",
+      "1st - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
       "1st - 2024 American Pharoah (G1) (SA 10/05/2024"
     ],
     "comments": [
@@ -171,21 +229,61 @@
     ]
   },
   {
-    "id": 2,
-    "lsprank": 2,
-    "rank": 41,
-    "points": 10,
+    "id": 13,
+    "lsprank": 13,
+    "rank": 13,
+    "points": 70,
+    "name": "Luxor Cafe",
+    "profileLink": "https://www.horseracingnation.com/horse/Luxor_Cafe",
+    "sire": "American Pharoah",
+    "pedigree": "American Pharoah - Mary's Follies by More Than Ready",
+    "pedigreeLink": "https://www.pedigreequery.com/luxor+cafe",
+    "prepRaces": [
+      "1st - 2025 Fukuryu Stakes (LS) (NAK 03/29/2025)",
+      "1st - 2025 Hyacinth Stakes (LS) (TOK 02/23/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 14,
+    "lsprank": 14,
+    "rank": 14,
+    "points": 60,
     "name": "East Avenue",
     "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
     "sire": "Medaglia d'Oro",
-    "pedigree": "Medaglia d'Oro - Dance Music",
+    "pedigree": "Medaglia d'Oro - Dance Music by Ghostzapper",
     "pedigreeLink": "https://www.pedigreequery.com/east+avenue4",
     "prepRaces": [
-      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/1/2024)",
+      "2nd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
+      "10th - 2025 Risen Star (G2) (FG 02/15/2025)",
+      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
       "1st - 2024 Breeders' Futurity (G1) (KEE 10/05/2024)"
     ],
     "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)",
       "Breeders' Cup Juvenile - stumbled out of gate and never recovered"
+    ]
+  },
+  {
+    "id": 15,
+    "lsprank": 15,
+    "rank": 15,
+    "points": 60,
+    "name": "Publisher",
+    "profileLink": "https://www.horseracingnation.com/horse/Publisher",
+    "sire": "American Pharoah",
+    "pedigree": "American Pharoah - Indian Pride by Proud Citizen",
+    "pedigreeLink": "https://www.pedigreequery.com/publisher9",
+    "prepRaces": [
+      "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
+      "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
@@ -223,45 +321,6 @@
     ]
   },
   {
-    "id": 7,
-    "lsprank": 1,
-    "rank": 7,
-    "points": 75,
-    "name": "Chunk of Gold",
-    "profileLink": "https://www.horseracingnation.com/horse/Chunk_of_Gold",
-    "sire": "Preservationist",
-    "pedigree": "Preservationist - Play For Gold by Cairo Prince",
-    "pedigreeLink": "https://www.pedigreequery.com/chunk+of+gold2",
-    "prepRaces": [
-      "2nd - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
-      "2nd - 2025 Risen Star (G2) (FG 02/15/2025)"
-    ],
-    "comments": [
-      "Consistent at Fair Grounds",
-      "Second place finishes behind Magnitude and Tiztastic"
-    ]
-  },
-  {
-    "id": 8,
-    "lsprank": 1,
-    "rank": 6,
-    "points": 95,
-    "name": "Coal Battle",
-    "profileLink": "https://www.horseracingnation.com/horse/Coal_Battle",
-    "sire": "Coal Front",
-    "pedigree": "Coal Front - Wolfblade by Midshipman",
-    "pedigreeLink": "https://www.pedigreequery.com/coal+battle",
-    "prepRaces": [
-      "3rd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "1st - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "1st - 2025 Smarty Jones (G2) (OP 01/04/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby",
-      "Flat performance in Arkansas Derby"
-    ]
-  },
-  {
     "id": 9,
     "lsprank": 1,
     "rank": 8,
@@ -280,25 +339,6 @@
       "Next Race: Blue Grass (KEE 4/5/2025)",
       "Strong, early speed horse",
       "Question whether he can go 10 furlongs"
-    ]
-  },
-  {
-    "id": 13,
-    "lsprank": 1,
-    "rank": 10,
-    "points": 60,
-    "name": "Publisher",
-    "profileLink": "https://www.horseracingnation.com/horse/Publisher",
-    "sire": "American Pharoah",
-    "pedigree": "American Pharoah - Indian Pride by Proud Citizen",
-    "pedigreeLink": "https://www.pedigreequery.com/publisher9",
-    "prepRaces": [
-      "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
