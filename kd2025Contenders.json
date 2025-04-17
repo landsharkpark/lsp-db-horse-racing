@@ -250,134 +250,6 @@
     "id": 14,
     "lsprank": 14,
     "rank": 14,
-    "points": 60,
-    "name": "East Avenue",
-    "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
-    "sire": "Medaglia d'Oro",
-    "pedigree": "Medaglia d'Oro - Dance Music by Ghostzapper",
-    "pedigreeLink": "https://www.pedigreequery.com/east+avenue4",
-    "prepRaces": [
-      "2nd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
-      "10th - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
-      "1st - 2024 Breeders' Futurity (G1) (KEE 10/05/2024)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)",
-      "Breeders' Cup Juvenile - stumbled out of gate and never recovered"
-    ]
-  },
-  {
-    "id": 15,
-    "lsprank": 15,
-    "rank": 15,
-    "points": 60,
-    "name": "Publisher",
-    "profileLink": "https://www.horseracingnation.com/horse/Publisher",
-    "sire": "American Pharoah",
-    "pedigree": "American Pharoah - Indian Pride by Proud Citizen",
-    "pedigreeLink": "https://www.pedigreequery.com/publisher9",
-    "prepRaces": [
-      "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 16,
-    "lsprank": 16,
-    "rank": 16,
-    "points": 55,
-    "name": "American Promise",
-    "profileLink": "https://www.horseracingnation.com/horse/American_Promise",
-    "sire": "Justify",
-    "pedigree": "Justify - Tapella by Tapit",
-    "pedigreeLink": "https://www.pedigreequery.com/american+promise3",
-    "prepRaces": [
-      "1st - 2025 Viginia Derby (LS) (CNL 03/15/2025)",
-      "5th - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "7th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 17,
-    "lsprank": 17,
-    "rank": 17,
-    "points": 50,
-    "name": "River Thames",
-    "profileLink": "https://www.horseracingnation.com/horse/River_Thames_3",
-    "sire": "Maclean's Music",
-    "pedigree": "Maclean's Music - Proportionality by Discreet Cat",
-    "pedigreeLink": "https://www.pedigreequery.com/river+thames10",
-    "prepRaces": [
-      "3rd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
-      "2nd - 2025 Fountain of Youth (G2) (GP 03/01/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 18,
-    "lsprank": 18,
-    "rank": 18,
-    "points": 50,
-    "name": "Flying Mohawk",
-    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
-    "sire": "Frosted",
-    "pedigree": "Frosted - Curls For Girls by Curlin",
-    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
-    "prepRaces": [
-      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 3,
-    "lsprank": 3,
-    "rank": 10,
-    "points": 20,
-    "name": "Disco Time",
-    "profileLink": "https://www.horseracingnation.com/horse/Disco_Time_1",
-    "sire": "Not This Time",
-    "pedigree": "Not This Time - Disco Chick",
-    "pedigreeLink": "https://www.pedigreequery.com/disco+time3",
-    "prepRaces": [
-      "1st - 2025 Lecomte (G3) (FG 01/18/2025)"
-    ],
-    "comments": [
-      "2025 Lecomte - impressive outside post (11), sloppy track, great close"
-    ]
-  },
-  {
-    "id": 4,
-    "lsprank": 4,
-    "rank": 13,
-    "points": 45,
-    "name": "Built",
-    "profileLink": "https://www.horseracingnation.com/horse/Built",
-    "sire": "Hard Spun",
-    "pedigree": "Hard Spun - Sea Garden",
-    "pedigreeLink": "https://www.pedigreequery.com/built2",
-    "prepRaces": [
-      "2nd - 2025 Lecomte (G3) (FG 01/18/2025)"
-    ],
-    "comments": [
-      "2025 Lecomte - impressive outside post (13), sloppy track, early lead, faded down the stretch"
-    ]
-  },
-  {
-    "id": 9,
-    "lsprank": 1,
-    "rank": 8,
     "points": 65,
     "name": "Owen Almighty",
     "profileLink": "https://www.horseracingnation.com/horse/Owen_Almighty",
@@ -397,20 +269,152 @@
   },
   {
     "id": 15,
-    "lsprank": 1,
-    "rank": 12,
-    "points": 50,
-    "name": "Flood Zone",
-    "profileLink": "https://www.horseracingnation.com/horse/Flood_Zone",
-    "sire": "Frosted",
-    "pedigree": "Frosted - Curls For Girls by Curlin",
-    "pedigreeLink": "https://www.pedigreequery.com/flood+zone2",
+    "lsprank": 15,
+    "rank": 15,
+    "points": 60,
+    "name": "East Avenue",
+    "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
+    "sire": "Medaglia d'Oro",
+    "pedigree": "Medaglia d'Oro - Dance Music by Ghostzapper",
+    "pedigreeLink": "https://www.pedigreequery.com/east+avenue4",
     "prepRaces": [
-      "1st - 2025 Gotham (G3) (AQU 03/01/2025)"
+      "2nd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
+      "10th - 2025 Risen Star (G2) (FG 02/15/2025)",
+      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
+      "1st - 2024 Breeders' Futurity (G1) (KEE 10/05/2024)"
     ],
     "comments": [
-      "Next Race: UAE Derby (UAE 04/05/2025)",
+      "Next Race: Kentucky Derby (CD 05/03/2025)",
+      "Breeders' Cup Juvenile - stumbled out of gate and never recovered"
+    ]
+  },
+  {
+    "id": 16,
+    "lsprank": 16,
+    "rank": 16,
+    "points": 60,
+    "name": "Publisher",
+    "profileLink": "https://www.horseracingnation.com/horse/Publisher",
+    "sire": "American Pharoah",
+    "pedigree": "American Pharoah - Indian Pride by Proud Citizen",
+    "pedigreeLink": "https://www.pedigreequery.com/publisher9",
+    "prepRaces": [
+      "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
+      "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+    ],
+    "comments": [
       "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 17,
+    "lsprank": 17,
+    "rank": 17,
+    "points": 55,
+    "name": "American Promise",
+    "profileLink": "https://www.horseracingnation.com/horse/American_Promise",
+    "sire": "Justify",
+    "pedigree": "Justify - Tapella by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/american+promise3",
+    "prepRaces": [
+      "1st - 2025 Viginia Derby (LS) (CNL 03/15/2025)",
+      "5th - 2025 Risen Star (G2) (FG 02/15/2025)",
+      "7th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 18,
+    "lsprank": 18,
+    "rank": 18,
+    "points": 50,
+    "name": "River Thames",
+    "profileLink": "https://www.horseracingnation.com/horse/River_Thames_3",
+    "sire": "Maclean's Music",
+    "pedigree": "Maclean's Music - Proportionality by Discreet Cat",
+    "pedigreeLink": "https://www.pedigreequery.com/river+thames10",
+    "prepRaces": [
+      "3rd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
+      "2nd - 2025 Fountain of Youth (G2) (GP 03/01/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 19,
+    "lsprank": 19,
+    "rank": 19,
+    "points": 50,
+    "name": "Flying Mohawk",
+    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
+    "sire": "Frosted",
+    "pedigree": "Frosted - Curls For Girls by Curlin",
+    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
+    "prepRaces": [
+      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 20,
+    "lsprank": 20,
+    "rank": 20,
+    "points": 50,
+    "name": "Grande",
+    "profileLink": "https://www.horseracingnation.com/horse/Grande_3",
+    "sire": "Curlin",
+    "pedigree": "Curlin - Journey Home by War Front",
+    "pedigreeLink": "https://www.pedigreequery.com/grande16",
+    "prepRaces": [
+      "2nd - 2025 Wood Memorial (G2) (AQU 04/05/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 21,
+    "lsprank": 21,
+    "rank": 21,
+    "points": 46,
+    "name": "Madaket Road",
+    "profileLink": "https://www.horseracingnation.com/horse/Madaket_Road_1",
+    "sire": "Quality Road",
+    "pedigree": "Quality Road - Frolic's Dream by Smoke Glacken",
+    "pedigreeLink": "https://www.pedigreequery.com/madaket+road2",
+    "prepRaces": [
+      "4th - 2025 Florida Derby (G1) (GP 03/29/2025)",
+      "2nd - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
+      "3rd - 2025 Robert B. Lewis (G3) (SA 02/01/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 22,
+    "lsprank": 22,
+    "rank": 22,
+    "points": 45,
+    "name": "Built",
+    "profileLink": "https://www.horseracingnation.com/horse/Built",
+    "sire": "Hard Spun",
+    "pedigree": "Hard Spun - Sea Garden",
+    "pedigreeLink": "https://www.pedigreequery.com/built2",
+    "prepRaces": [
+      "5th - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
+      "3rd - 2025 Risen Star (G2) (FG 02/15/2025)",
+      "2nd - 2025 Lecomte (G3) (FG 01/18/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)",
+      "2025 Lecomte - impressive outside post (13), sloppy track, early lead, faded down the stretch"
     ]
   }
 
