@@ -156,23 +156,6 @@
     "id": 9,
     "lsprank": 9,
     "rank": 9,
-    "points": 100,
-    "name": "Admire Daytona (JPN)",
-    "profileLink": "https://www.horseracingnation.com/horse/Admire_Daytona",
-    "sire": "Drefong",
-    "pedigree": "Drefong - Ice Pastel by Shackleford",
-    "pedigreeLink": "https://www.pedigreequery.com/admire+daytona",
-    "prepRaces": [
-      "1st - 2025 UAE Derby (G2) (MEY 04/05/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 10,
-    "lsprank": 10,
-    "rank": 10,
     "points": 95,
     "name": "Coal Battle",
     "profileLink": "https://www.horseracingnation.com/horse/Coal_Battle",
@@ -190,9 +173,9 @@
     ]
   },
   {
-    "id": 11,
-    "lsprank": 11,
-    "rank": 11,
+    "id": 10,
+    "lsprank": 10,
+    "rank": 10,
     "points": 75,
     "name": "Chunk of Gold",
     "profileLink": "https://www.horseracingnation.com/horse/Chunk_of_Gold",
@@ -209,9 +192,9 @@
     ]
   },
   {
-    "id": 12,
-    "lsprank": 12,
-    "rank": 12,
+    "id": 11,
+    "lsprank": 11,
+    "rank": 11,
     "points": 71.25,
     "name": "Citizen Bull",
     "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
@@ -229,27 +212,9 @@
     ]
   },
   {
-    "id": 13,
-    "lsprank": 13,
-    "rank": 13,
-    "points": 70,
-    "name": "Luxor Cafe",
-    "profileLink": "https://www.horseracingnation.com/horse/Luxor_Cafe",
-    "sire": "American Pharoah",
-    "pedigree": "American Pharoah - Mary's Follies by More Than Ready",
-    "pedigreeLink": "https://www.pedigreequery.com/luxor+cafe",
-    "prepRaces": [
-      "1st - 2025 Fukuryu Stakes (LS) (NAK 03/29/2025)",
-      "1st - 2025 Hyacinth Stakes (LS) (TOK 02/23/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 14,
-    "lsprank": 14,
-    "rank": 14,
+    "id": 12,
+    "lsprank": 12,
+    "rank": 12,
     "points": 65,
     "name": "Owen Almighty",
     "profileLink": "https://www.horseracingnation.com/horse/Owen_Almighty",
@@ -268,9 +233,9 @@
     ]
   },
   {
-    "id": 15,
-    "lsprank": 15,
-    "rank": 15,
+    "id": 13,
+    "lsprank": 13,
+    "rank": 13,
     "points": 60,
     "name": "East Avenue",
     "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
@@ -289,9 +254,9 @@
     ]
   },
   {
-    "id": 16,
-    "lsprank": 16,
-    "rank": 16,
+    "id": 14,
+    "lsprank": 14,
+    "rank": 14,
     "points": 60,
     "name": "Publisher",
     "profileLink": "https://www.horseracingnation.com/horse/Publisher",
@@ -308,9 +273,9 @@
     ]
   },
   {
-    "id": 17,
-    "lsprank": 17,
-    "rank": 17,
+    "id": 15,
+    "lsprank": 15,
+    "rank": 15,
     "points": 55,
     "name": "American Promise",
     "profileLink": "https://www.horseracingnation.com/horse/American_Promise",
@@ -327,9 +292,152 @@
     ]
   },
   {
+    "id": 16,
+    "lsprank": 16,
+    "rank": 16,
+    "points": 50,
+    "name": "Flying Mohawk",
+    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
+    "sire": "Frosted",
+    "pedigree": "Frosted - Curls For Girls by Curlin",
+    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
+    "prepRaces": [
+      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 17,
+    "lsprank": 17,
+    "rank": 17,
+    "points": 50,
+    "name": "Grande",
+    "profileLink": "https://www.horseracingnation.com/horse/Grande_3",
+    "sire": "Curlin",
+    "pedigree": "Curlin - Journey Home by War Front",
+    "pedigreeLink": "https://www.pedigreequery.com/grande16",
+    "prepRaces": [
+      "2nd - 2025 Wood Memorial (G2) (AQU 04/05/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
     "id": 18,
     "lsprank": 18,
     "rank": 18,
+    "points": 40,
+    "name": "Neoequos",
+    "profileLink": "https://www.horseracingnation.com/horse/Neoequos",
+    "sire": "Neolithic",
+    "pedigree": "Neolithic - Bold Birdie by Birdstone",
+    "pedigreeLink": "https://www.pedigreequery.com/neoequos",
+    "prepRaces": [
+      "3rd - 2025 Florida Derby (G1) (GP 03/29/2025)",
+      "3rd - 2025 Fountain of Youth (G2) (GP 03/01/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 19,
+    "lsprank": 19,
+    "rank": 19,
+    "points": 70,
+    "name": "Luxor Cafe",
+    "profileLink": "https://www.horseracingnation.com/horse/Luxor_Cafe",
+    "sire": "American Pharoah",
+    "pedigree": "American Pharoah - Mary's Follies by More Than Ready",
+    "pedigreeLink": "https://www.pedigreequery.com/luxor+cafe",
+    "prepRaces": [
+      "1st - 2025 Fukuryu Stakes (LS) (NAK 03/29/2025)",
+      "1st - 2025 Hyacinth Stakes (LS) (TOK 02/23/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 20,
+    "lsprank": 20,
+    "rank": 20,
+    "points": 100,
+    "name": "Admire Daytona (JPN)",
+    "profileLink": "https://www.horseracingnation.com/horse/Admire_Daytona",
+    "sire": "Drefong",
+    "pedigree": "Drefong - Ice Pastel by Shackleford",
+    "pedigreeLink": "https://www.pedigreequery.com/admire+daytona",
+    "prepRaces": [
+      "1st - 2025 UAE Derby (G2) (MEY 04/05/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 21,
+    "lsprank": 21,
+    "rank": 21,
+    "points": 39,
+    "name": "Render Judgment",
+    "profileLink": "https://www.horseracingnation.com/horse/Render_Judgment",
+    "sire": "Blame",
+    "pedigree": "Blame - Barbara Gordon by Commissioner",
+    "pedigreeLink": "https://www.pedigreequery.com/render+judgment",
+    "prepRaces": [
+      "5th - 2025 Blue Grass (G1) (KEE 04/08/2025)",
+      "2nd - 2025 Virginia Derby (LS) (CNL 03/15/2025)",
+      "8th - 2025 Risen Star (G2) (FG 02/15/2025)",
+      "3rd - 2024 Gun Runner (LS) (FG 12/21/2024)",
+      "5th - 2024 Kentucky Jockey Club (G2) (CD 11/30/2024)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 22,
+    "lsprank": 22,
+    "rank": 22,
+    "points": 23,
+    "name": "Baeza",
+    "profileLink": "https://www.horseracingnation.com/horse/Baeza_1",
+    "sire": "McKinzie",
+    "pedigree": "McKinzie - Puca by Big Brown",
+    "pedigreeLink": "https://www.pedigreequery.com/baeza7",
+    "prepRaces": [
+      "2nd - 2025 Santa Anita Derby (G1) (SA 04/05/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 23,
+    "lsprank": 23,
+    "rank": 23,
+    "points": 20,
+    "name": "California Burrito",
+    "profileLink": "https://www.horseracingnation.com/horse/California_Burrito",
+    "sire": "Army Mule",
+    "pedigree": "Army Mule - Bluegrass Sunset by Hard Spun",
+    "pedigreeLink": "https://www.pedigreequery.com/california+burrito",
+    "prepRaces": [
+      "7th - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)",
+      "1st - 2025 John Battaglia Memorial (LS) (TP 03/22/2025)"
+    ],
+    "comments": [
+      "Next Race: Kentucky Derby (CD 05/03/2025)"
+    ]
+  },
+  {
+    "id": 118,
+    "lsprank": 118,
+    "rank": 118,
     "points": 50,
     "name": "River Thames",
     "profileLink": "https://www.horseracingnation.com/horse/River_Thames_3",
@@ -345,43 +453,9 @@
     ]
   },
   {
-    "id": 19,
-    "lsprank": 19,
-    "rank": 19,
-    "points": 50,
-    "name": "Flying Mohawk",
-    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
-    "sire": "Frosted",
-    "pedigree": "Frosted - Curls For Girls by Curlin",
-    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
-    "prepRaces": [
-      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 20,
-    "lsprank": 20,
-    "rank": 20,
-    "points": 50,
-    "name": "Grande",
-    "profileLink": "https://www.horseracingnation.com/horse/Grande_3",
-    "sire": "Curlin",
-    "pedigree": "Curlin - Journey Home by War Front",
-    "pedigreeLink": "https://www.pedigreequery.com/grande16",
-    "prepRaces": [
-      "2nd - 2025 Wood Memorial (G2) (AQU 04/05/2025)"
-    ],
-    "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
-    ]
-  },
-  {
-    "id": 21,
-    "lsprank": 21,
-    "rank": 21,
+    "id": 121,
+    "lsprank": 121,
+    "rank": 121,
     "points": 46,
     "name": "Madaket Road",
     "profileLink": "https://www.horseracingnation.com/horse/Madaket_Road_1",
@@ -398,9 +472,9 @@
     ]
   },
   {
-    "id": 22,
-    "lsprank": 22,
-    "rank": 22,
+    "id": 122,
+    "lsprank": 122,
+    "rank": 122,
     "points": 45,
     "name": "Built",
     "profileLink": "https://www.horseracingnation.com/horse/Built",
