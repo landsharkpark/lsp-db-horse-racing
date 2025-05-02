@@ -3389,7 +3389,7 @@
         "picks": "4-9-5-3",
         "officialResults": "",
         "preRaceComments": [
-          "Rain moved in - muddy track the rest of the way", 
+          "Rain moved in, weather delay before scheduled post time.  Muddy track the rest of the way", 
           "(4) Ag Bullet - 6 month layoff; good post",
           "(9) Queen Maxima - SA horse travelling east; needs a good trip"
         ],
@@ -3406,7 +3406,12 @@
         "tv": "USA, PEACOCK",
         "picks": "11-14-9-7",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(11) Good Cheer - Six wins in six career starts.  She looks the best.",
+          "(14) Quietside - tough outside post, especially with wet track",
+          "(9) Tenma - SA shipper; Nyquist filly; Best from the west",
+          "(7) La Cara - Two wins and a second in three races this year"
+        ],
         "postRaceComments": []
       },
       {
@@ -3420,7 +3425,10 @@
         "tv": "FANDUEL TV",
         "picks": "5-3-10-6",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(5) Moonlight - Audible colt, second and third place finish in three races this year",
+          "(3) Over and Ollie - Stall Jr./I. Ortiz Jr. connections"
+        ],
         "postRaceComments": []
       },
       {
@@ -3432,9 +3440,13 @@
         "postTime": "6:02 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "3-2-10-7",
+        "picks": "10-2-7-8",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(10) Chaching Chaching - Two second place finishes in two career races; extra furlong distance should help",
+          "(2) Oraia - first race on the dirt",
+          "(8) Tetiaroa - first time starter"
+        ],
         "postRaceComments": []
       }
     ]
@@ -3461,7 +3473,7 @@
         "postTime": "10:00 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "TBD",
+        "picks": "12-8-11-10",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3475,7 +3487,7 @@
         "postTime": "10:32 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "TBD",
+        "picks": "5-9-7-10",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3488,8 +3500,8 @@
         "surface": "Dirt",
         "postTime": "11:05 AM",
         "stakesrace": false,
-        "tv": "FANDUEL TV",
-        "picks": "TBD",
+        "tv": "USA, PEACOCK",
+        "picks": "9-3-2-11",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3503,7 +3515,7 @@
         "postTime": "11:38 AM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "TBD",
+        "picks": "9-10-3-2",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3517,7 +3529,7 @@
         "postTime": "12:12 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "TBD",
+        "picks": "10-6-7-2",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3531,7 +3543,7 @@
         "postTime": "12:53 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "TBD",
+        "picks": "1-2-6-4",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3545,7 +3557,7 @@
         "postTime": "1:38 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "TBD",
+        "picks": "8-7-5-1",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3559,7 +3571,7 @@
         "postTime": "2:23 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "TBD",
+        "picks": "7-4-2-10",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3573,7 +3585,7 @@
         "postTime": "3:06 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "TBD",
+        "picks": "10-7-8-3",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3587,7 +3599,7 @@
         "postTime": "3:50 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "TBD",
+        "picks": "8-1-2-9",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3601,7 +3613,7 @@
         "postTime": "4:39 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "TBD",
+        "picks": "6-4-10-11",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3615,7 +3627,7 @@
         "postTime": "5:57 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "TBD",
+        "picks": "8-9-18-17",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3629,7 +3641,7 @@
         "postTime": "7:00 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "TBD",
+        "picks": "14-1-7-9",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
@@ -3643,7 +3655,7 @@
         "postTime": "7:33 PM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "TBD",
+        "picks": "5-8-10-12",
         "officialResults": "",
         "preRaceComments": [],
         "postRaceComments": []
