@@ -3206,12 +3206,15 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "3-9-4-7",
-        "officialResults": "",
+        "officialResults": "3-4-2-9",
         "preRaceComments": [
           "(3) Shred the Gnar - my first pick, but don't like the odds",
           "(9) Winfinity - my single in this race.  Liked the last race of layoff and works going in"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(3) - Early lead, wired the field.  Deserving 4/5 favorite",
+          "(4) Chasten - strong race, distance second place finish"
+        ]
       },
       {
         "raceNum": 2,
@@ -3223,12 +3226,18 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "10-9-4-3",
-        "officialResults": "",
+        "officialResults": "4-6-10-3",
         "preRaceComments": [
           "(10) Raghba - Two second place finishes in two career races.  Like the outside post.",
-          "(9) Salted - Consistent horse in five career starts, but seems camera shy"
+          "(9) Salted - Consistent horse in five career starts, but seems camera shy",
+          "(8) Crawford - Two career races - one lost to Shred the Fnar, the other lost to Fondly"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Inside post doing well in first two races",
+          "(4) Defiant Lass - mid pack, good finish",
+          "(6) Lolo Le Plume - 18-1 with a great finish to almost steal it",
+          "(10) - forced wide into first turn, didn't recover"
+        ]
       },
       {
         "raceNum": 3,
@@ -3240,7 +3249,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "12-11-3-6",
-        "officialResults": "",
+        "officialResults": "6-11-12-10",
         "preRaceComments": [
           "(12) Moon Channel - Outside post, closer, breeding",
           "(11) Vivaldi - Brown/Prat on the turf.  Last race second place finish in a cheap race from Tampa",
@@ -3259,7 +3268,10 @@
         "tv": "FANDUEL TV",
         "picks": "7-3-5-4",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(7) Beauty Reigns - Trainer/Jockey/Breeding; good competition in previous races",
+          "(3) Stable Currency - Hot horse coming in from Fair Grounds"
+        ],
         "postRaceComments": []
       },
       {
