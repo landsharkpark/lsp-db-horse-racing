@@ -3193,8 +3193,8 @@
       "First few races will be simple MBS Win bets while I get caught up on picks",
       "Kentucky Oaks - Good Cheer.  I can't go against that favorite."
     ],
-    "latePick5": "",
-    "latePick5Cost": "",
+    "latePick5": "(Races 9 - 12):  5,12/ 4,5,9 / 9,11 / 3,5,6,10 / 2,7,10,12",
+    "latePick5Cost": "$96",
     "race": [
       {
         "raceNum": 1,
@@ -3303,12 +3303,15 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "4-2-3-5",
-        "officialResults": "",
+        "officialResults": "4-5-3-2",
         "preRaceComments": [
           "(4) Fierceness - Liked him last year, will be fun to watch him in his four year old campaign",
           "(2) Locked - Pletcher one/two in this race?"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(4) - Looked great coming off a layoff",
+          "(2) - Didn't have it today, needs longer distance"
+        ]
       },
       {
         "raceNum": 7,
@@ -3320,13 +3323,18 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "2-4-5-1",
-        "officialResults": "",
+        "officialResults": "4-6-5-1",
         "preRaceComments": [
           "(2) Thorpedo Anna - you are the champ until you are beat; either lost a step, or is just bored winning in last race",
           "(4) Raging Sea - 6 month layoff; if sharp could be a factor",
           "(5) Randomized - 9 month layoff; Nyquist mare"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(4) - ",
+          "(6) Taxed - 31-1 big effort",
+          "(5) - led 3/4 of race; but didn't finish",
+          "(2) - last place finish; not good in races this year; might be done"
+        ]
       },
       {
         "raceNum": 8,
@@ -3338,12 +3346,16 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "7-8-2-3",
-        "officialResults": "",
+        "officialResults": "7-2-8-3",
         "preRaceComments": [
           "(7) She Feels Pretty - DeVaux has great horses in her barn",
-          "(8) Sarrron Moon - Brown/Prat; a little step up in competition"
+          "(8) Saffron Moon - Brown/Prat; a little step up in competition"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(7) - Looked easy coming off a layoff",
+          "(2) - Great closer; seems crazy, but needs a little more distance than 1 1/8 mile",
+          "(8) - got to second in home stretch, but feel back to third"
+        ]
       },
       {
         "raceNum": 9,
