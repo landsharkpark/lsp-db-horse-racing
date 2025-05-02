@@ -3431,12 +3431,15 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "5-3-10-6",
-        "officialResults": "",
+        "officialResults": "5-10-9-4",
         "preRaceComments": [
           "(5) Moonlight - Audible colt, second and third place finish in three races this year",
           "(3) Over and Ollie - Stall Jr./I. Ortiz Jr. connections"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(5) - outlasted the field down the home stretch",
+          "(10) - Could not overcome the outside post"
+        ]
       },
       {
         "raceNum": 13,
@@ -3448,7 +3451,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "10-2-7-8",
-        "officialResults": "",
+        "officialResults": "8-12-9-11",
         "preRaceComments": [
           "(10) Chaching Chaching - Two second place finishes in two career races; extra furlong distance should help",
           "(2) Oraia - first race on the dirt",
