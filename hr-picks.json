@@ -3189,6 +3189,8 @@
     "trackCode": "CD",
     "weekday": "Friday",
     "raceDayNotes": [
+      "Possible rain this afternoon, but morning track looks great",
+      "First few races will be simple MBS Win bets while I get caught up on picks",
       "Kentucky Oaks - Good Cheer.  I can't go against that favorite."
     ],
     "latePick5": "",
@@ -3203,9 +3205,12 @@
         "postTime": "10:00 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "3-9-5-4",
+        "picks": "3-9-4-7",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(3) Shred the Gnar - my first pick, but don't like the odds",
+          "(9) Winfinity - my single in this race.  Liked the last race of layoff and works going in"
+        ],
         "postRaceComments": []
       },
       {
@@ -3219,7 +3224,10 @@
         "tv": "FANDUEL TV",
         "picks": "10-9-4-3",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(10) Raghba - Two second place finishes in two career races.  Like the outside post.",
+          "(9) Salted - Consistent horse in five career starts, but seems camera shy"
+        ],
         "postRaceComments": []
       },
       {
@@ -3233,7 +3241,11 @@
         "tv": "FANDUEL TV",
         "picks": "12-11-3-6",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(12) Moon Channel - Outside post, closer, breeding",
+          "(11) Vivaldi - Brown/Prat on the turf.  Last race second place finish in a cheap race from Tampa",
+          "(10) Some Performance (6) World Beater - Oscar Performance sire, I look forward to watching those horses"
+        ],
         "postRaceComments": []
       },
       {
