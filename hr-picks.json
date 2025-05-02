@@ -3267,12 +3267,14 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "7-3-5-4",
-        "officialResults": "",
+        "officialResults": "7-10-3-2",
         "preRaceComments": [
           "(7) Beauty Reigns - Trainer/Jockey/Breeding; good competition in previous races",
           "(3) Stable Currency - Hot horse coming in from Fair Grounds"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(10) Foie Gras - good effort, held in for most of the races, caught mid way through the home stretch"
+        ]
       },
       {
         "raceNum": 5,
@@ -3285,7 +3287,10 @@
         "tv": "USA, PEACOCK",
         "picks": "5-2-8-1",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(5) Nitrogen - Hot horse, top competition",
+          "(2) Vixen - M. Casses run one/two?"
+        ],
         "postRaceComments": []
       },
       {
