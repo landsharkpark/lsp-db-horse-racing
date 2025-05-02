@@ -3367,13 +3367,15 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "12-5-6-7",
-        "officialResults": "",
+        "officialResults": "11-8-2-7",
         "preRaceComments": [
           "(12) Eclatant - Trainer/Jockey/Breeding; concern with outside post",
           "(5) Verify - Nyquist filly; ran well on muddy track; good post",
           "(6) Kimchi Cat - second race off layoff, won on a wet track"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "I was way off on this race.  Should have taken all."
+        ]
       },
       {
         "raceNum": 10,
@@ -3387,6 +3389,7 @@
         "picks": "4-9-5-3",
         "officialResults": "",
         "preRaceComments": [
+          "Rain moved in - muddy track the rest of the way", 
           "(4) Ag Bullet - 6 month layoff; good post",
           "(9) Queen Maxima - SA horse travelling east; needs a good trip"
         ],
