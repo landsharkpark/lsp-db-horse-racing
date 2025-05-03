@@ -3561,7 +3561,7 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "6-7-2-1",
-        "officialResults": "",
+        "officialResults": "9-3-2-5",
         "preRaceComments": [
           "Hope this race stays on turf", 
           "(6) Sacred Wish - Good at this distance, can run on off track if necessary",
@@ -3579,13 +3579,17 @@
         "stakesrace": true,
         "tv": "USA, PEACOCK",
         "picks": "1-2-3-6",
-        "officialResults": "",
+        "officialResults": "7-1-6-5",
         "preRaceComments": [
           "(1) Madaket Road - great post for this speed horse",
           "(2) Built - tough one for me, doesn't have early speed and not sure if 8F is right distance for this horse",
           "(3) California Burrito - good numbers at CD and this distance"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(7) - Macho Music gate to wire lead",
+          "(1) - good race to finish second",
+          "(6) Gaming tough battle for second, but gave way and finished third"
+        ]
       },
       {
         "raceNum": 7,
