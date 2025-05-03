@@ -3483,9 +3483,13 @@
         "postTime": "10:00 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "12-8-11-10",
+        "picks": "11-2-12-8",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(11) Coffee Talk - Two 8.5F races out of Fair Grounds; tough outside post",
+          "(2) Cromwell - consistent in four career starts, but needs to step up to break maiden",
+          "(12) Chillax - closer; tough outside post"
+        ],
         "postRaceComments": []
       },
       {
@@ -3497,9 +3501,13 @@
         "postTime": "10:32 AM",
         "stakesrace": false,
         "tv": "FANDUEL TV",
-        "picks": "5-9-7-10",
+        "picks": "8-7-5-6",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(8) Lemon Muffin - three second place finishes in four career starts on wet track",
+          "(7) Normandy Queen - Second start with trainer Morquett; Prat jockey upgrade",
+          "(5) Tapit Quick - won last two races at Fair Grounds"
+        ],
         "postRaceComments": []
       },
       {
@@ -3511,9 +3519,13 @@
         "postTime": "11:05 AM",
         "stakesrace": false,
         "tv": "USA, PEACOCK",
-        "picks": "9-3-2-11",
+        "picks": "2-3-5-9",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(2) Bracket Buster - distance is a question for this horse, especially with wet track",
+          "(3) Valentinian - Third career start; good connections/breeding/etc",
+          "(5) Goal Oriented - Second career start; west coast horse, wet track a question"
+        ],
         "postRaceComments": []
       },
       {
@@ -3525,9 +3537,12 @@
         "postTime": "11:38 AM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "9-10-3-2",
+        "picks": "9-3-2-10",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(9) Liberal Arts - Good record at CD, wet track, distance",
+          "(3) Accretive - step up in competition, but can run at this distance and on wet track"
+        ],
         "postRaceComments": []
       },
       {
@@ -3541,7 +3556,12 @@
         "tv": "USA, PEACOCK",
         "picks": "10-6-7-2",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Hope this race stays on turf", 
+          "(10) Special Wan - Great post; connections",
+          "(6) Sacred Wish - Good at this distance, can run on off track if necessary",
+          "(7) Tax Implications - outstanding connections always have to consider"
+        ],
         "postRaceComments": []
       },
       {
@@ -3553,9 +3573,13 @@
         "postTime": "12:53 PM",
         "stakesrace": true,
         "tv": "USA, PEACOCK",
-        "picks": "1-2-6-4",
+        "picks": "1-2-3-6",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(1) Madaket Road - great post for this speed horse",
+          "(2) Built - tough one for me, doesn't have early speed and not sure if 8F is right distance for this horse",
+          "(3) California Burrito - good numbers at CD and this distance"
+        ],
         "postRaceComments": []
       },
       {
@@ -3639,7 +3663,10 @@
         "tv": "NBC, PEACOCK",
         "picks": "8-9-18-17",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Not a dominate horse in this field",
+          "Given 19 horses and track conditions, just pick a horse - favorite name, lucky number, etc."
+        ],
         "postRaceComments": []
       },
       {
