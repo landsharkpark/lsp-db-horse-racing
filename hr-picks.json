@@ -3485,13 +3485,18 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "11-2-12-8",
-        "officialResults": "",
+        "officialResults": "3-12-8-2",
         "preRaceComments": [
           "(11) Coffee Talk - Two 8.5F races out of Fair Grounds; tough outside post",
           "(2) Cromwell - consistent in four career starts, but needs to step up to break maiden",
           "(12) Chillax - closer; tough outside post"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(11) - never a factor",
+          "(2) - dropped way back, way too much ground to make up",
+          "(12) - outside post too much",
+          "(3) Fountain Lake - winner, good start, solid throughout the whole race"
+        ]
       },
       {
         "raceNum": 2,
@@ -3503,7 +3508,7 @@
         "stakesrace": false,
         "tv": "FANDUEL TV",
         "picks": "8-7-5-6",
-        "officialResults": "",
+        "officialResults": "8-10-5-7",
         "preRaceComments": [
           "(8) Lemon Muffin - three second place finishes in four career starts on wet track",
           "(7) Normandy Queen - Second start with trainer Morquett; Prat jockey upgrade",
@@ -3594,7 +3599,10 @@
         "tv": "NBC, PEACOCK",
         "picks": "8-7-5-1",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(8) Rogue Lighting (IRE) - Euro; Prat",
+          "(7) Think Big - B. Curtis good jockey"
+        ],
         "postRaceComments": []
       },
       {
@@ -3608,7 +3616,10 @@
         "tv": "NBC, PEACOCK",
         "picks": "7-4-2-10",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(7) Mindframe - good in last race off layoff",
+          "(4) Giant Mischief - good at CD, distance"
+        ],
         "postRaceComments": []
       },
       {
@@ -3622,7 +3633,10 @@
         "tv": "NBC, PEACOCK",
         "picks": "10-7-8-3",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(10) Iron Man Cal - risky with west coast horse and jockey, might change before race",
+          "(7) Zulu Kingdom - step up in competition"
+        ],
         "postRaceComments": []
       },
       {
@@ -3636,7 +3650,10 @@
         "tv": "NBC, PEACOCK",
         "picks": "8-1-2-9",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(8) Ways and Means - all around best horse entered in race",
+          "(1) Scylla - Tough post; good performance in tough races"
+        ],
         "postRaceComments": []
       },
       {
@@ -3648,9 +3665,12 @@
         "postTime": "4:39 PM",
         "stakesrace": true,
         "tv": "NBC, PEACOCK",
-        "picks": "6-4-10-11",
+        "picks": "6-4-10-1",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(6) Taking Candy - good races at CD",
+          "(4) Redistricting - question if horse can go this distance"
+        ],
         "postRaceComments": []
       },
       {
@@ -3666,7 +3686,7 @@
         "officialResults": "",
         "preRaceComments": [
           "Not a dominate horse in this field",
-          "Given 19 horses and track conditions, just pick a horse - favorite name, lucky number, etc."
+          "Given 19 horses and track conditions, just pick a horse - favorite name, lucky number, or whatever and hope for the best."
         ],
         "postRaceComments": []
       },
@@ -3681,7 +3701,10 @@
         "tv": "FANDUEL TV",
         "picks": "14-1-7-9",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(14) Big Truzz - Only one career race",
+          "(1) Jack's Promise - needs to get out of gate quick"
+        ],
         "postRaceComments": []
       },
       {
@@ -3695,7 +3718,10 @@
         "tv": "FANDUEL TV",
         "picks": "5-8-10-12",
         "officialResults": "",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "(5) Advanaced Spirit - Good post; tough competition in first two career races",
+          "(14) Pursuitneversleeps - tough post; looked good in first career race"
+        ],
         "postRaceComments": []
       }
     ]
