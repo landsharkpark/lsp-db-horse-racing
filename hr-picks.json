@@ -1568,7 +1568,7 @@
     "_id": 12,
     "date": "20240503",
     "cardDesc": "Kentucky Oaks Day",
-    "track": "Churdhill Downs",
+    "track": "Churchill Downs",
     "trackCode": "CD",
     "weekday": "Friday",
     "raceDayNotes": [
@@ -1847,7 +1847,7 @@
     "_id": 13,
     "date": "20240504",
     "cardDesc": "Kentucky Derby Day",
-    "track": "Churdhill Downs",
+    "track": "Churchill Downs",
     "trackCode": "CD",
     "weekday": "saturday",
     "raceDayNotes": [
@@ -3185,7 +3185,7 @@
     "_id": 19,
     "date": "20250502",
     "cardDesc": "Kentucky Oaks Day - 2025",
-    "track": "Churdhill Downs",
+    "track": "Churchill Downs",
     "trackCode": "CD",
     "weekday": "Friday",
     "raceDayNotes": [
@@ -3465,7 +3465,7 @@
     "_id": 20,
     "date": "20250503",
     "cardDesc": "Kentucky Derby Day - 2025",
-    "track": "Churdhill Downs",
+    "track": "Churchill Downs",
     "trackCode": "CD",
     "weekday": "saturday",
     "raceDayNotes": [
