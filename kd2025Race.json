@@ -72,7 +72,7 @@
   {
     "id": 4,
     "progNum": 100,
-    "postPosition": 100,
+    "postPosition": 101,
     "finish":  100,
     "ae": false,
     "scratched": true,
@@ -214,7 +214,7 @@
   {
     "id": 10,
     "progNum": 101,
-    "postPosition": 101,
+    "postPosition": 102,
     "finish":  100,
     "ae": false,
     "scratched": true,
