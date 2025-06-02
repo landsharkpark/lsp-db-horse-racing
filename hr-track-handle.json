@@ -3353,6 +3353,112 @@
     "comments": [
         ""
     ]
+  },
+  {
+    "_id": 102501,
+    "track": "SAR",
+    "seasonRaceDay": 1,
+    "year":  2025,
+    "month": 7,
+    "day": 10,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071124USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": -1,
+    "comments": [
+      "Saratoga 2025 Opening Day"
+    ]
+  },
+  {
+    "_id": 202501,
+    "track": "CBY",
+    "seasonRaceDay": 1,
+    "year":  2025,
+    "month": 5,
+    "day": 24,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY052425USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1543083,
+    "comments": [
+        "2025 Canterbury Park Season Opening"
+    ]
+  },
+  {
+    "_id": 202502,
+    "track": "CBY",
+    "seasonRaceDay": 2,
+    "year":  2025,
+    "month": 5,
+    "day": 26,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY052525USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1442769,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202503,
+    "track": "CBY",
+    "seasonRaceDay": 3,
+    "year":  2025,
+    "month": 5,
+    "day": 27,
+    "weekDay": "MON",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY052625USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 714150,
+    "comments": [
+      "Memorial Day holiday racing"
+    ]
+  },
+  {
+    "_id": 202504,
+    "track": "CBY",
+    "seasonRaceDay": 4,
+    "year":  2025,
+    "month": 5,
+    "day": 31,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY053125USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1170433,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202505,
+    "track": "CBY",
+    "seasonRaceDay": 5,
+    "year":  2025,
+    "month": 6,
+    "day": 1,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060125USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 756143,
+    "comments": [
+    ]
   }
+
 
 ]
