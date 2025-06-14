@@ -3458,6 +3458,58 @@
     "totalHandle": 756143,
     "comments": [
     ]
+  },
+  {
+    "_id": 202506,
+    "track": "CBY",
+    "seasonRaceDay": 6,
+    "year":  2025,
+    "month": 6,
+    "day": 7,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060725USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1195338,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202507,
+    "track": "CBY",
+    "seasonRaceDay": 7,
+    "year":  2025,
+    "month": 6,
+    "day": 8,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY060825USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 701645,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202508,
+    "track": "CBY",
+    "seasonRaceDay": 8,
+    "year":  2025,
+    "month": 6,
+    "day": 11,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061125USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1285916,
+    "comments": [
+      "Races 8 and 9 - Quarter horse races"
+    ]
   }
 
 
