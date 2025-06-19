@@ -3544,6 +3544,24 @@
     "totalHandle": 1093441,
     "comments": [
     ]
+  },
+  {
+    "_id": 202511,
+    "track": "CBY",
+    "seasonRaceDay": 11,
+    "year":  2025,
+    "month": 6,
+    "day": 18,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY061825USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1331570,
+    "comments": [
+      "Races 7, 8, 9 - Quarter horse races"
+    ]
   }
 
 
