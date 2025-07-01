@@ -3562,6 +3562,63 @@
     "comments": [
       "Races 7, 8, 9 - Quarter horse races"
     ]
+  },
+  {
+    "_id": 202512,
+    "track": "CBY",
+    "seasonRaceDay": 12,
+    "year":  2025,
+    "month": 6,
+    "day": 25,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY062525USA.pdf",
+    "totalRaces": 5,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 1,
+    "totalHandle": 269379,
+    "comments": [
+      "Races 3, 4, 5, 6, 7 - Cancelled - Track Conditions",
+      "Races 8, 9, 10 - Quarter horse races"
+    ]
+  },
+  {
+    "_id": 202513,
+    "track": "CBY",
+    "seasonRaceDay": 13,
+    "year":  2025,
+    "month": 6,
+    "day": 28,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY062825USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1967755,
+    "comments": [
+      "Brooks Fields Mile Stakes",
+      "Canterbury Derby Stakes",
+      "Lady Canterbury Stakes"
+    ]
+  },
+  {
+    "_id": 202514,
+    "track": "CBY",
+    "seasonRaceDay": 14,
+    "year":  2025,
+    "month": 6,
+    "day": 29,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY062925USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 3,
+    "totalHandle": 1252211,
+    "comments": [
+      ""
+    ]
   }
 
 
