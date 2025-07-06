@@ -3656,6 +3656,42 @@
       "Races 1, 2, 3 - Quarter Horse",
       "Fireworks special after racing"
     ]
+  },
+  {
+    "_id": 202517,
+    "track": "CBY",
+    "seasonRaceDay": 17,
+    "year":  2025,
+    "month": 7,
+    "day": 4,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070425USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1055790,
+    "comments": [
+      "Fourth of July afternoon racing"
+    ]
+  },
+  {
+    "_id": 202518,
+    "track": "CBY",
+    "seasonRaceDay": 18,
+    "year":  2025,
+    "month": 7,
+    "day": 5,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070525USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 852081,
+    "comments": [
+      ""
+    ]
   }
 
 
