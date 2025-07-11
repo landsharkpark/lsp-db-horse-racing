@@ -3362,14 +3362,15 @@
     "month": 7,
     "day": 10,
     "weekDay": "THR",
-    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071124USA.pdf",
-    "totalRaces": 11,
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071025USA.pdf",
+    "totalRaces": 10,
     "totalDirtRaces": 6,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 5,
-    "totalHandle": -1,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 15633321,
     "comments": [
-      "Saratoga 2025 Opening Day"
+      "Saratoga 2025 Opening Day",
+      "De La Rose Stakes (Races 5 and 8)"
     ]
   },
   {
@@ -3691,6 +3692,45 @@
     "totalHandle": 852081,
     "comments": [
       ""
+    ]
+  },
+  {
+    "_id": 202519,
+    "track": "CBY",
+    "seasonRaceDay": 19,
+    "year":  2025,
+    "month": 7,
+    "day": 9,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY070925USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1059746,
+    "comments": [
+      "No racing last Sunday (7/6) - Fourth of July holiday weekend scheduling",
+      "No Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202520,
+    "track": "CBY",
+    "seasonRaceDay": 20,
+    "year":  2025,
+    "month": 7,
+    "day": 10,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071025USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 883431,
+    "comments": [
+      "Quarter Horse races - Races 6, 7, 8, 9",
+      "MQHRA Stallion Auction Futurity Stakes - 350 Yards; 2 Years Old; 19.20 odds winner",
+      "Bob Morehouse Stakes - 350 Yards; 3 Years Old and upward; MN Bred; 0.30 odds winner"
     ]
   }
 
