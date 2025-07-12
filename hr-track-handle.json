@@ -3374,6 +3374,25 @@
     ]
   },
   {
+    "_id": 102502,
+    "track": "SAR",
+    "seasonRaceDay": 2,
+    "year":  2025,
+    "month": 7,
+    "day": 11,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071125USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 13718756,
+    "comments": [
+      "Coronation Cup S.",
+      "Off track for all non-stakes turf races"
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
