@@ -3410,6 +3410,23 @@
     ]
   },
   {
+    "_id": 102504,
+    "track": "SAR",
+    "seasonRaceDay": 4,
+    "year":  2025,
+    "month": 7,
+    "day": 13,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071325USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 16565356,
+    "comments": [
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
@@ -3783,6 +3800,24 @@
     "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
     "totalHandle": 1439853,
+    "comments": [
+      "No Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202522,
+    "track": "CBY",
+    "seasonRaceDay": 22,
+    "year":  2025,
+    "month": 7,
+    "day": 13,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY071325USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1723464,
     "comments": [
       "No Quarter Horse races"
     ]
