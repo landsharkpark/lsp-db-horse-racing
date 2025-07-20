@@ -3427,6 +3427,92 @@
     ]
   },
   {
+    "_id": 102505,
+    "track": "SAR",
+    "seasonRaceDay": 5,
+    "year":  2025,
+    "month": 7,
+    "day": 16,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071625USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 11035425,
+    "comments": [
+      "Race 1 - Hurdle"
+    ]
+  },
+  {
+    "_id": 102506,
+    "track": "SAR",
+    "seasonRaceDay": 6,
+    "year":  2025,
+    "month": 7,
+    "day": 17,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071725USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 14146201,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102507,
+    "track": "SAR",
+    "seasonRaceDay": 7,
+    "year":  2025,
+    "month": 7,
+    "day": 18,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071825USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 18837102,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102508,
+    "track": "SAR",
+    "seasonRaceDay": 8,
+    "year":  2025,
+    "month": 7,
+    "day": 19,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR071925USA.pdf",
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 27742655,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102509,
+    "track": "SAR",
+    "seasonRaceDay": 9,
+    "year":  2025,
+    "month": 7,
+    "day": 20,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072025USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
