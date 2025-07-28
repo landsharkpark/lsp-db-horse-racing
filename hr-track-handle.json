@@ -3531,6 +3531,74 @@
     ]
   },
   {
+    "_id": 102511,
+    "track": "SAR",
+    "seasonRaceDay": 11,
+    "year":  2025,
+    "month": 7,
+    "day": 24,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072425USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 16472174,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102512,
+    "track": "SAR",
+    "seasonRaceDay": 12,
+    "year":  2025,
+    "month": 7,
+    "day": 25,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072525USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 18942361,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102513,
+    "track": "SAR",
+    "seasonRaceDay": 13,
+    "year":  2025,
+    "month": 7,
+    "day": 26,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072625USA.pdf",
+    "totalRaces": 12,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 33491503,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102514,
+    "track": "SAR",
+    "seasonRaceDay": 14,
+    "year":  2025,
+    "month": 7,
+    "day": 27,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR072725USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 15236394,
+    "comments": [
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
@@ -3940,6 +4008,42 @@
     "totalTurfRaces": 0,
     "totalOffTheTurfRaces": 4,
     "totalHandle": 973275,
+    "comments": [
+      "No Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202521,
+    "track": "CBY",
+    "seasonRaceDay": 21,
+    "year":  2025,
+    "month": 7,
+    "day": 24,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072425USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 952247,
+    "comments": [
+      "Race 8 and Race 9 - Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202522,
+    "track": "CBY",
+    "seasonRaceDay": 22,
+    "year":  2025,
+    "month": 7,
+    "day": 26,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072625USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 990260,
     "comments": [
       "No Quarter Horse races"
     ]
