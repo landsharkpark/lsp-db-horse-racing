@@ -3617,6 +3617,76 @@
     ]
   },
   {
+    "_id": 102516,
+    "track": "SAR",
+    "seasonRaceDay": 16,
+    "year":  2025,
+    "month": 7,
+    "day": 31,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR073125USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 5,
+    "totalHandle": 12314871,
+    "comments": [
+      "No turf races"
+    ]
+  },
+  {
+    "_id": 102517,
+    "track": "SAR",
+    "seasonRaceDay": 17,
+    "year":  2025,
+    "month": 8,
+    "day": 1,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080125USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 20228612,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102518,
+    "track": "SAR",
+    "seasonRaceDay": 18,
+    "year":  2025,
+    "month": 8,
+    "day": 2,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080225USA.pdf",
+    "totalRaces": 13,
+    "totalDirtRaces": 7,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 49585976,
+    "comments": [
+      "Whitney Stakes Day"
+    ]
+  },
+  {
+    "_id": 102519,
+    "track": "SAR",
+    "seasonRaceDay": 19,
+    "year":  2025,
+    "month": 8,
+    "day": 3,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080325USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 20610048,
+    "comments": [
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
@@ -4064,6 +4134,78 @@
     "totalHandle": 990260,
     "comments": [
       "No Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202523,
+    "track": "CBY",
+    "seasonRaceDay": 23,
+    "year":  2025,
+    "month": 7,
+    "day": 27,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY072725USA.pdf",
+    "totalRaces": 5,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+      "No reported track handle this day",
+      "First post time moved from 1pm to 6pm due to heat advisory",
+      "Races 6 and 7 cancelled due to lighting in the area"
+    ]
+  },
+  {
+    "_id": 202524,
+    "track": "CBY",
+    "seasonRaceDay": 24,
+    "year":  2025,
+    "month": 7,
+    "day": 30,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY073025USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1086077,
+    "comments": [
+      "Race 9 and Race 10 - Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202525,
+    "track": "CBY",
+    "seasonRaceDay": 25,
+    "year":  2025,
+    "month": 8,
+    "day": 2,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080225USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1188377,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202526,
+    "track": "CBY",
+    "seasonRaceDay": 26,
+    "year":  2025,
+    "month": 8,
+    "day": 3,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080325USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1192938,
+    "comments": [
     ]
   }
 
