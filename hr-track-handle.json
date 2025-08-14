@@ -3687,6 +3687,109 @@
     ]
   },
   {
+    "_id": 102520,
+    "track": "SAR",
+    "seasonRaceDay": 20,
+    "year":  2025,
+    "month": 8,
+    "day": 6,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080625USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 11266060,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102521,
+    "track": "SAR",
+    "seasonRaceDay": 21,
+    "year":  2025,
+    "month": 8,
+    "day": 7,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080725USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 15273279,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102522,
+    "track": "SAR",
+    "seasonRaceDay": 22,
+    "year":  2025,
+    "month": 8,
+    "day": 8,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080825USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 18876059,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102523,
+    "track": "SAR",
+    "seasonRaceDay": 23,
+    "year":  2025,
+    "month": 8,
+    "day": 9,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR080925USA.pdf",
+    "totalRaces": 12,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 30538240,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102524,
+    "track": "SAR",
+    "seasonRaceDay": 24,
+    "year":  2025,
+    "month": 8,
+    "day": 10,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081025USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 5,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 19196888,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102525,
+    "track": "SAR",
+    "seasonRaceDay": 25,
+    "year":  2025,
+    "month": 8,
+    "day": 13,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR081325USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 10376964,
+    "comments": [
+      "Race 1 - Hurdle"
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
