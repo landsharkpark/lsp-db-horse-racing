@@ -4310,8 +4310,95 @@
     "totalHandle": 1192938,
     "comments": [
     ]
+  },
+  {
+    "_id": 202527,
+    "track": "CBY",
+    "seasonRaceDay": 27,
+    "year":  2025,
+    "month": 8,
+    "day": 6,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080625USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1165437,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202528,
+    "track": "CBY",
+    "seasonRaceDay": 28,
+    "year":  2025,
+    "month": 8,
+    "day": 7,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080725USA.pdf",
+    "totalRaces": 10,
+    "totalDirtRaces": 8,
+    "totalTurfRaces": 2,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1080263,
+    "comments": [
+      "Race 1 - Race 5 - Quarter Horse races (trials)"
+    ]
+  },
+  {
+    "_id": 202529,
+    "track": "CBY",
+    "seasonRaceDay": 29,
+    "year":  2025,
+    "month": 8,
+    "day": 9,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY080925USA.pdf",
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 4,
+    "totalHandle": 1120910,
+    "comments": [
+      "Minnesota Oaks Stakes",
+      "Minnesota Derby Stakes"
+    ]
+  },
+  {
+    "_id": 202530,
+    "track": "CBY",
+    "seasonRaceDay": 30,
+    "year":  2025,
+    "month": 8,
+    "day": 10,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081025USA.pdf",
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1031282,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 202531,
+    "track": "CBY",
+    "seasonRaceDay": 31,
+    "year":  2025,
+    "month": 8,
+    "day": 13,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY081325USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 1033079,
+    "comments": [
+      "Races 8, 9 - Quarter Horse races"
+    ]
   }
-
-
 
 ]
