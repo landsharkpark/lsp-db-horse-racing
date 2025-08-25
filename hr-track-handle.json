@@ -3902,11 +3902,11 @@
     "day": 22,
     "weekDay": "FRI",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082225USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 19660022,
     "comments": [
     ]
   },
@@ -3919,12 +3919,13 @@
     "day": 23,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082325USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 14,
+    "totalDirtRaces": 8,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 54309929,
     "comments": [
+      "Travers Stakes Day"
     ]
   },
   {
@@ -3936,11 +3937,11 @@
     "day": 24,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082425USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 10,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 6,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 19447464,
     "comments": [
     ]
   },
@@ -4621,6 +4622,9 @@
     "totalOffTheTurfRaces": 0,
     "totalHandle": 651586,
     "comments": [
+      "Races 1, 2, 3, 4 - Quarter Horse races",
+      "Canterbury Park Quarter Horse Derby Stakes",
+      "Northlands Futurity Stakes"
     ]
   },
   {
@@ -4632,11 +4636,11 @@
     "day": 23,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082325USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 7,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 960538,
     "comments": [
     ]
   },
@@ -4649,11 +4653,11 @@
     "day": 24,
     "weekDay": "SUN",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082425USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 7,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 1,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 914092,
     "comments": [
     ]
   }
