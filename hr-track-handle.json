@@ -3946,6 +3946,108 @@
     ]
   },
   {
+    "_id": 102535,
+    "track": "SAR",
+    "seasonRaceDay": 35,
+    "year":  2025,
+    "month": 8,
+    "day": 27,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082725USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 3,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 9996501,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102536,
+    "track": "SAR",
+    "seasonRaceDay": 36,
+    "year":  2025,
+    "month": 8,
+    "day": 28,
+    "weekDay": "THR",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082825USA.pdf",
+    "totalRaces": 11,
+    "totalDirtRaces": 5,
+    "totalTurfRaces": 6,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 15238858,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102537,
+    "track": "SAR",
+    "seasonRaceDay": 37,
+    "year":  2025,
+    "month": 8,
+    "day": 29,
+    "weekDay": "FRI",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR082925USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102538,
+    "track": "SAR",
+    "seasonRaceDay": 38,
+    "year":  2025,
+    "month": 8,
+    "day": 30,
+    "weekDay": "SAT",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR083025USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102539,
+    "track": "SAR",
+    "seasonRaceDay": 39,
+    "year":  2025,
+    "month": 8,
+    "day": 31,
+    "weekDay": "SUN",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR083125USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+    ]
+  },
+  {
+    "_id": 102540,
+    "track": "SAR",
+    "seasonRaceDay": 40,
+    "year":  2025,
+    "month": 9,
+    "day": 1,
+    "weekDay": "MON",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/SAR090125USA.pdf",
+    "totalRaces": 0,
+    "totalDirtRaces": 0,
+    "totalTurfRaces": 0,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": -1,
+    "comments": [
+    ]
+  },
+  {
     "_id": 202501,
     "track": "CBY",
     "seasonRaceDay": 1,
@@ -4656,6 +4758,24 @@
     "totalRaces": 7,
     "totalDirtRaces": 6,
     "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 0,
+    "totalHandle": 914092,
+    "comments": [
+      "Races 8, 9 - Quarter Horse races"
+    ]
+  },
+  {
+    "_id": 202538,
+    "track": "CBY",
+    "seasonRaceDay": 38,
+    "year":  2025,
+    "month": 8,
+    "day": 27,
+    "weekDay": "WED",
+    "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY082725USA.pdf",
+    "totalRaces": 9,
+    "totalDirtRaces": 6,
+    "totalTurfRaces": 3,
     "totalOffTheTurfRaces": 0,
     "totalHandle": 914092,
     "comments": [
