@@ -4894,11 +4894,11 @@
     "day": 17,
     "weekDay": "WED",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091725USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 8,
+    "totalDirtRaces": 4,
+    "totalTurfRaces": 4,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 858715,
     "comments": [
     ]
   },
@@ -4911,12 +4911,14 @@
     "day": 18,
     "weekDay": "THR",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY091825USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
-    "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalRaces": 4,
+    "totalDirtRaces": 1,
+    "totalTurfRaces": 1,
+    "totalOffTheTurfRaces": 2,
+    "totalHandle": 0,
     "comments": [
+      "Race card cancelled after fourth race due to weather conditions",
+      "No handle reported"
     ]
   },
   {
@@ -4928,11 +4930,11 @@
     "day": 20,
     "weekDay": "SAT",
     "urlFullChart": "https://www.equibase.com/static/chart/pdf/CBY092025USA.pdf",
-    "totalRaces": 0,
-    "totalDirtRaces": 0,
-    "totalTurfRaces": 0,
+    "totalRaces": 13,
+    "totalDirtRaces": 8,
+    "totalTurfRaces": 5,
     "totalOffTheTurfRaces": 0,
-    "totalHandle": -1,
+    "totalHandle": 2030993,
     "comments": [
     ]
   }
