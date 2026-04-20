@@ -3,48 +3,46 @@
     "id": 1,
     "progNum": 1,     
     "postPosition": 1, 
-    "finish":  15,
+    "finish":  0,
     "ae": false,
     "scratched": false,
     "lsprank": 1,
     "rank": 1,
-    "points": 71.25,
-    "name": "Citizen Bull",
-    "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
+    "points": 150,
+    "name": "Commandment",
+    "profileLink": "https://www.horseracingnation.com/horse/Commandment_3",
     "sire": "Into Mischief",
-    "pedigree": "Into Mischief - No Joke by Distorted Humor",
-    "pedigreeLink": "https://www.pedigreequery.com/citizen+bull3",
+    "pedigree": "Into Mischief - Sippican Harbor by Orb",
+    "pedigreeLink": "https://www.pedigreequery.com/commandment8",
     "prepRaces": [
-      "4th - 2025 Santa Anita Derby (G1) (SA 04/05/2025)",
-      "1st - 2025 Robert B. Lewis (G3) (SA 02/11/2025)",
-      "1st - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
-      "1st - 2024 American Pharoah (G1) (SA 10/05/2024"
+      "1st - 2026 Florida Derby (G1) (GP 03/28/2026)",
+      "1st - 2026 Fountain of Youth (G2) (GP 03/28/2026)"
     ],
     "comments": [
-      "Very impressive Breeder's Cup Juvenile win"
+      "Held on to win Florida Derby over The Puma"
     ]
   },
   {
     "id": 2,
     "progNum": 2,
     "postPosition": 2,
-    "finish":  13,
+    "finish":  0,
     "ae": false,
     "scratched": false,
     "lsprank": 2,
     "rank": 2,
-    "points": 40,
-    "name": "Neoequos",
-    "profileLink": "https://www.horseracingnation.com/horse/Neoequos",
-    "sire": "Neolithic",
-    "pedigree": "Neolithic - Bold Birdie by Birdstone",
-    "pedigreeLink": "https://www.pedigreequery.com/neoequos",
+    "points": 135,
+    "name": "Further Ado",
+    "profileLink": "https://www.horseracingnation.com/horse/Further_Ado",
+    "sire": "Gun Runner",
+    "pedigree": "Gun Runner - Sky Dreamer by Sky Mesa",
+    "pedigreeLink": "https://www.pedigreequery.com/further+ado2",
     "prepRaces": [
-      "3rd - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "3rd - 2025 Fountain of Youth (G2) (GP 03/01/2025)"
+      "1st - 2026 Blue Grass (G1) (KEE 04/04/2026)",
+      "2nd - 2026 Tampa Bay Derby (G3) (TAM 03/07/2026)",
+      "1st - 2026 Kentucky Jockey Club (CD 11/29/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
