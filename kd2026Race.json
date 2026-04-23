@@ -163,120 +163,109 @@
   {
     "id": 8,
     "progNum": 8,
-    "postPosition": 7,
-    "finish":  2,
+    "postPosition": 8,
+    "finish":  0,
     "ae": false,
     "scratched": false,
-    "lsprank": 7,
+    "lsprank": 8,
     "rank": 8,
-    "points": 122.50,
-    "name": "Journalism",
-    "profileLink": "https://www.horseracingnation.com/horse/Journalism_2",
-    "sire": "Curlin",
-    "pedigree": "Curlin - Mopotism by Uncle Mo",
-    "pedigreeLink": "https://www.pedigreequery.com/journalism6",
+    "points": 100,
+    "name": "Emerging Market",
+    "profileLink": "https://www.horseracingnation.com/horse/Emerging_Market",
+    "sire": "Candy Ride",
+    "pedigree": "Candy Ride - Wild Empress by Empire Maker",
+    "pedigreeLink": "",
     "prepRaces": [
-      "1st - 2025 Santa Anita Derby (G1) (SA 04/05/2025)",
-      "1st - 2025 San Felipe (G2) (SA 03/01/2025)",
-      "1st - 2024 Los Alamitos Futurity (G2) (LRC 02/14/2025)"
+      "1st - 2026 Louisiana Derby (G2) (FG 03/21/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 9,
     "progNum": 9,
-    "postPosition": 8,
-    "finish":  6,
+    "postPosition": 9,
+    "finish":  0,
     "ae": false,
     "scratched": false,
-    "lsprank": 8,
+    "lsprank": 9,
     "rank": 9,
-    "points": 130,
-    "name": "Burnham Square",
-    "profileLink": "https://www.horseracingnation.com/horse/Burnham_Square",
-    "sire": "Liam's Map",
-    "pedigree": "Liam's Map - Linda by Scat Daddy",
-    "pedigreeLink": "https://www.pedigreequery.com/burnham+square",
+    "points": 100,
+    "name": "Albus",
+    "profileLink": "https://www.horseracingnation.com/horse/Albus_1",
+    "sire": "Yaupon",
+    "pedigree": "Yaupon - Adream by Bernardini",
+    "pedigreeLink": "https://www.pedigreequery.com/albus7",
     "prepRaces": [
-      "1st - 2025 Blue Grass (G1) (Kee 04/08/2025)",
-      "4th - 2025 Fountain of Youth (G2) (GP 03/01/2025",
-      "1st - 2025 Holy Bull (G3) (GP 02/01/2025"
+      "1st - 2026 Wood Memorial (G2) (AQU 04/04/2026"
     ],
     "comments": [
-      "Very good in Blue Grass and Holy Bull",
-      "Disappointed in Fountain of Youth - put a line through that race?"
     ]
   },
   {
     "id": 10,
-    "progNum": 102,
-    "postPosition": 102,
-    "finish":  102,
+    "progNum": 10,
+    "postPosition": 10,
+    "finish":  10,
     "ae": false,
-    "scratched": true,
-    "lsprank": 101,
+    "scratched": false,
+    "lsprank": 10,
     "rank": 10,
-    "points": 50,
-    "name": "Grande",
-    "profileLink": "https://www.horseracingnation.com/horse/Grande_3",
-    "sire": "Curlin",
-    "pedigree": "Curlin - Journey Home by War Front",
-    "pedigreeLink": "https://www.pedigreequery.com/grande16",
+    "points": 100,
+    "name": "Potente",
+    "profileLink": "https://www.horseracingnation.com/horse/Potente",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Sweet String by Awesome Again",
+    "pedigreeLink": "https://www.pedigreequery.com/potente11",
     "prepRaces": [
-      "2nd - 2025 Wood Memorial (G2) (AQU 04/05/2025)"
+      "2nd - 2026 Santa Anita Derby (G1) (SA 04/04/2026)",
+      "1st - 2026 San Felipe (G2) (SA 03/07/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 11,
     "progNum": 11,
-    "postPosition": 9,
-    "finish":  18,
+    "postPosition": 11,
+    "finish":  0,
     "ae": false,
     "scratched": false,
-    "lsprank": 9,
+    "lsprank": 11,
     "rank": 11,
-    "points": 50,
-    "name": "Flying Mohawk",
-    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
-    "sire": "Frosted",
-    "pedigree": "Frosted - Curls For Girls by Curlin",
-    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
+    "points": 70,
+    "name": "Pavlovian",
+    "profileLink": "https://www.horseracingnation.com/horse/Pavlovian",
+    "sire": "Pavel",
+    "pedigree": "Pavel - Mandy's Grace by Bellamy Road",
+    "pedigreeLink": "https://www.pedigreequery.com/pavlovian",
     "prepRaces": [
-      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+      "2nd - 2026 Louisiana Derby (G2) (FG 03/22/2026)",
+      "1st - 2026 Sunland Derby (LS) (SUN 02/15/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 12,
     "progNum": 12,
-    "postPosition": 10,
-    "finish":  8,
+    "postPosition": 12,
+    "finish":  0,
     "ae": false,
     "scratched": false,
-    "lsprank": 10,
+    "lsprank": 12,
     "rank": 12,
-    "points": 60,
-    "name": "East Avenue",
-    "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
-    "sire": "Medaglia d'Oro",
-    "pedigree": "Medaglia d'Oro - Dance Music by Ghostzapper",
-    "pedigreeLink": "https://www.pedigreequery.com/east+avenue4",
+    "points": 65,
+    "name": "Right To Party",
+    "profileLink": "https://www.horseracingnation.com/horse/Right_To_Party",
+    "sire": "Constitution",
+    "pedigree": "Constitution - Havin' A Party by Emcee",
+    "pedigreeLink": "https://www.pedigreequery.com/right+to+party2",
     "prepRaces": [
-      "2nd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
-      "10th - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
-      "1st - 2024 Breeders' Futurity (G1) (KEE 10/05/2024)"
+      "2nd - 2026 Wood Memorial (G2) (AQU 04/04/2026)",
+      "1st - 2026 Gotham (G3) (AQU 02/28/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)",
-      "Breeders' Cup Juvenile - stumbled out of gate and never recovered"
     ]
   },
   {
