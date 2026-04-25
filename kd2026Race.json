@@ -492,6 +492,74 @@
     ],
     "comments": [
     ]
+  },
+  {
+    "id": 23,
+    "progNum": 23,
+    "postPosition": 23,
+    "finish":  0,
+    "ae": true,
+    "scratched": false,
+    "lsprank": 23,
+    "rank": 23,
+    "points": 30,
+    "name": "Great White",
+    "profileLink": "https://www.horseracingnation.com/horse/Great_White_1",
+    "sire": "Volatile",
+    "pedigree": "Volatile - Kelly Bag by Uncle Mo",
+    "pedigreeLink": "https://www.pedigreequery.com/great+white7",
+    "prepRaces": [
+      "5th - 2026 Blue Grass Stakes (G1) (KEE 04/04/2026)",
+      "1st - 2026 John Battlaglia Memorial (G1) (TP 02/21/2026)"
+    ],
+    "comments": [
+    ]
+  },
+  {
+    "id": 24,
+    "progNum": 24,
+    "postPosition": 24,
+    "finish":  0,
+    "ae": true,
+    "scratched": false,
+    "lsprank": 24,
+    "rank": 24,
+    "points": 25,
+    "name": "Ocelli",
+    "profileLink": "https://www.horseracingnation.com/horse/Ocelli",
+    "sire": "Connect",
+    "pedigree": "Connect - Zalia by Scat Daddy",
+    "pedigreeLink": "https://www.pedigreequery.com/ocelli",
+    "prepRaces": [
+      "3rd - 2026 Wood Memorial (G2) (AQU 04/04/2026)",
+      "6th - 2026 Virginia Derby (LS) (CNL 03/14/2026)",
+      "6th - 2026 Sam F. Davis (LS) (TAM 02/07/2026)"
+    ],
+    "comments": [
+    ]
+  },
+  {
+    "id": 25,
+    "progNum": 25,
+    "postPosition": 25,
+    "finish":  0,
+    "ae": true,
+    "scratched": false,
+    "lsprank": 25,
+    "rank": 25,
+    "points": 25,
+    "name": "Robusta",
+    "profileLink": "https://www.horseracingnation.com/horse/Robusta_1",
+    "sire": "Accelerate",
+    "pedigree": "Accelerate - Urbane Legend by Into Mischief",
+    "pedigreeLink": "https://www.pedigreequery.com/robusta16",
+    "prepRaces": [
+      "7th - 2026 Santa Anita Derby (G1) (SA 04/04/2026)",
+      "2nd - 2026 San Felipe (G2) (SA 03/07/2026)",
+      "6th - 2026 Robert B. Lewis (G3) (SA 02/07/2026)"
+    ],
+    "comments": [
+    ]
   }
   
 ]
