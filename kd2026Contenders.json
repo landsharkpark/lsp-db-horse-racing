@@ -3,136 +3,125 @@
     "id": 1,
     "lsprank": 1,
     "rank": 1,
-    "points": 130,
-    "name": "Burnham Square",
-    "profileLink": "https://www.horseracingnation.com/horse/Burnham_Square",
-    "sire": "Liam's Map",
-    "pedigree": "Liam's Map - Linda by Scat Daddy",
-    "pedigreeLink": "https://www.pedigreequery.com/burnham+square",
+    "points": 150,
+    "name": "Commandment",
+    "profileLink": "https://www.horseracingnation.com/horse/Commandment_3",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Sippican Harbor by Orb",
+    "pedigreeLink": "https://www.pedigreequery.com/commandment8",
     "prepRaces": [
-      "1st - 2025 Blue Grass (G1) (Kee 04/08/2025)",
-      "4th - 2025 Fountain of Youth (G2) (GP 03/01/2025",
-      "1st - 2025 Holy Bull (G3) (GP 02/01/2025"
+      "1st - 2026 Florida Derby (G1) (GP 03/28/2026)",
+      "1st - 2026 Fountain of Youth (G2) (GP 03/28/2026)"
     ],
     "comments": [
-      "Very good in Blue Grass and Holy Bull",
-      "Disappointed in Fountain of Youth - put a line through that race?"
     ]
   },
   {
     "id": 2,
     "lsprank": 2,
     "rank": 2,
-    "points": 129,
-    "name": "Sandman",
-    "profileLink": "https://www.horseracingnation.com/horse/Sandman",
-    "sire": "Tapit",
-    "pedigree": "Tapit - Distorted Music by Distorted Humor",
-    "pedigreeLink": "https://www.pedigreequery.com/sandman12",
+    "points": 135,
+    "name": "Further Ado",
+    "profileLink": "https://www.horseracingnation.com/horse/Further_Ado",
+    "sire": "Gun Runner",
+    "pedigree": "Gun Runner - Sky Dreamer by Sky Mesa",
+    "pedigreeLink": "https://www.pedigreequery.com/further+ado2",
     "prepRaces": [
-      "1st - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "3rd - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "2nd - 2025 Southwest Stakes (G3) (OP 01/25/2025)",
-      "3rd - 2024 Street Sense (G3) (CD 10/27/2024)",
-      "2nd - 2024 Iroquois (G3) (CD 09/14/2024)"
+      "1st - 2026 Blue Grass (G1) (KEE 04/04/2026)",
+      "2nd - 2026 Tampa Bay Derby (G3) (TAM 03/07/2026)",
+      "1st - 2026 Kentucky Jockey Club (CD 11/29/2025)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 3,
     "lsprank": 3,
     "rank": 3,
-    "points": 122.50,
-    "name": "Journalism",
-    "profileLink": "https://www.horseracingnation.com/horse/Journalism_2",
-    "sire": "Curlin",
-    "pedigree": "Curlin - Mopotism by Uncle Mo",
-    "pedigreeLink": "https://www.pedigreequery.com/journalism6",
+    "points": 125,
+    "name": "Renegade",
+    "profileLink": "https://www.horseracingnation.com/horse/Renegade_1",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Spice Is Nice by Curlin",
+    "pedigreeLink": "https://www.pedigreequery.com/renegade30",
     "prepRaces": [
-      "1st - 2025 Santa Anita Derby (G1) (SA 04/05/2025)",
-      "1st - 2025 San Felipe (G2) (SA 03/01/2025)",
-      "1st - 2024 Los Alamitos Futurity (G2) (LRC 02/14/2025)"
+      "1st - 2026 Arkansas Derby (G1) (OP 03/28/2026)",
+      "1st - 2026 Sam F. Davis (G3) (TAM 02/07/2026)",
+      "2nd - 2025 Remsen (G2) (AQU 12/06/2025)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 4,
-    "lsprank": 4,
+    "lsprank": 100,
     "rank": 4,
-    "points": 121.25,
-    "name": "Rodriguez",
-    "profileLink": "https://www.horseracingnation.com/horse/Rodriguez_1",
-    "sire": "Authentic",
-    "pedigree": "Authentic - Cayala by Cherokee Run",
-    "pedigreeLink": "https://www.pedigreequery.com/rodriguez7",
+    "points": 115,
+    "name": "So Happy",
+    "profileLink": "https://www.horseracingnation.com/horse/So_Happy_1",
+    "sire": "Runhappy",
+    "pedigree": "Runhappy - So Cunning by Blame",
+    "pedigreeLink": "https://www.pedigreequery.com/so+happy18",
     "prepRaces": [
-      "1st - 2025 Wood Memorial (G2) (AQU 04/05/2025)",
-      "3rd - 2025 San Felipe (G2) (SA 03/01/2025)",
-      "2nd - 2025 Robert B Lewis (G3) (SA 02/01/2025)"
+      "1st - 2026 Santa Anita Derby (G1) (SA 04/04/2026)",
+      "3rd - 2026 San Felipe (G2) (SA 03/07/2026)",
+      "1st - 2026 San Vicente (G2) (SA 01/10/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 5,
     "lsprank": 5,
     "rank": 5,
-    "points": 119,
-    "name": "Tiztastic",
-    "profileLink": "https://www.horseracingnation.com/horse/Tiztastic",
-    "sire": "Tiz the Law",
-    "pedigree": "Tiz the Law - Keesha by Tapit",
-    "pedigreeLink": "https://www.pedigreequery.com/tiztastic",
+    "points": 110,
+    "name": "Fulleffort",
+    "profileLink": "https://www.horseracingnation.com/horse/Fulleffort",
+    "sire": "Liam's Map",
+    "pedigree": "Liam's Map - Callmethesqueeze by Awesome Again",
+    "pedigreeLink": "https://www.pedigreequery.com/fulleffort",
     "prepRaces": [
-      "1st - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
-      "5th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "3rd - 2024 Kentucky Jockey Club (G2) (CD 11/30/2024)",
-      "2nd - 2024 Street Sense (G3) (CD 10/27/2024)"
+      "1st - 2026 Jeff Ruby Steaks (G3) (TP 03/21/2026)",
+      "5th - 2026 John Battlaglia (LS) (TP 02/21/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 6,
     "lsprank": 6,
     "rank": 6,
-    "points": 110,
-    "name": "Tappan Street",
-    "profileLink": "https://www.horseracingnation.com/horse/Tappan_Street_1",
-    "sire": "Into Mischief",
-    "pedigree": "Into Mischief - Virginia Key by Distorted Humor",
-    "pedigreeLink": "https://www.pedigreequery.com/tappan+street2",
+    "points": 106,
+    "name": "The Puma",
+    "profileLink": "https://www.horseracingnation.com/horse/The_Puma",
+    "sire": "Essential Quality",
+    "pedigree": "Essential Quality - Eve Of War by Declaration of War",
+    "pedigreeLink": "https://www.pedigreequery.com/the+puma3",
     "prepRaces": [
-      "1st - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "2nd - 2025 Holy Bull (G3) (GP 02/01/2025)"
+      "2nd - 2026 Florida Derby (G1) (GP 03/28/2026)",
+      "1st - 2026 Tampa Bay Derby (G3) (TAM 03/07/2026)",
+      "3rd - 2026 Sam F. Davis (LS) (TAM 02/07/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 7,
     "lsprank": 7,
     "rank": 7,
-    "points": 110,
-    "name": "Sovereignty",
-    "profileLink": "https://www.horseracingnation.com/horse/Sovereignty_2",
-    "sire": "Into Mischief",
-    "pedigree": "Into Mischief - Crowned by Bernardini",
-    "pedigreeLink": "https://www.pedigreequery.com/sovereignty17",
+    "points": 100,
+    "name": "Silent Tactic",
+    "profileLink": "https://www.horseracingnation.com/horse/Silent_Tactic",
+    "sire": "Tacitus",
+    "pedigree": "Tacitus - Magical Sign by Gun Runner",
+    "pedigreeLink": "https://www.pedigreequery.com/silent+tactic",
     "prepRaces": [
-      "2nd - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "1st - 2025 Fountain of Youth (G2) (GP 03/01/2025)",
-      "1st - 2024 Street Sense (G3) (CD 10/27/2024)"
+      "2nd - 2026 Arkansas Derby (G1) (OP 03/28/2026)",
+      "2nd - 2026 Rebel Stakes (G2) (OP 03/01/2026)",
+      "1st - 2026 Southwest Stakes (G3) (OP 02/06/2026)",
+      "2nd - 2026 Smarty Jones (LS) (OP 01/03/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
@@ -140,75 +129,65 @@
     "lsprank": 8,
     "rank": 8,
     "points": 100,
-    "name": "Final Gambit",
-    "profileLink": "https://www.horseracingnation.com/horse/Final_Gambit",
-    "sire": "Not This Time",
-    "pedigree": "Not This Time - Pachiniko by Tapit",
-    "pedigreeLink": "https://www.pedigreequery.com/final+gambit",
+    "name": "Emerging Market",
+    "profileLink": "https://www.horseracingnation.com/horse/Emerging_Market",
+    "sire": "Candy Ride",
+    "pedigree": "Candy Ride - Wild Empress by Empire Maker",
+    "pedigreeLink": "",
     "prepRaces": [
-      "1st - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+      "1st - 2026 Louisiana Derby (G2) (FG 03/21/2026)"
     ],
     "comments": [
-      "Four career starts - three maiden races and Jeff Ruby Steaks"
     ]
   },
   {
     "id": 9,
     "lsprank": 9,
     "rank": 9,
-    "points": 95,
-    "name": "Coal Battle",
-    "profileLink": "https://www.horseracingnation.com/horse/Coal_Battle",
-    "sire": "Coal Front",
-    "pedigree": "Coal Front - Wolfblade by Midshipman",
-    "pedigreeLink": "https://www.pedigreequery.com/coal+battle",
+    "points": 100,
+    "name": "Albus",
+    "profileLink": "https://www.horseracingnation.com/horse/Albus_1",
+    "sire": "Yaupon",
+    "pedigree": "Yaupon - Adream by Bernardini",
+    "pedigreeLink": "https://www.pedigreequery.com/albus7",
     "prepRaces": [
-      "3rd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "1st - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "1st - 2025 Smarty Jones (G2) (OP 01/04/2025)"
+      "1st - 2026 Wood Memorial (G2) (AQU 04/04/2026"
     ],
     "comments": [
-      "Next Race: Kentucky Derby",
-      "Flat performance in Arkansas Derby"
     ]
   },
   {
     "id": 10,
     "lsprank": 10,
     "rank": 10,
-    "points": 75,
-    "name": "Chunk of Gold",
-    "profileLink": "https://www.horseracingnation.com/horse/Chunk_of_Gold",
-    "sire": "Preservationist",
-    "pedigree": "Preservationist - Play For Gold by Cairo Prince",
-    "pedigreeLink": "https://www.pedigreequery.com/chunk+of+gold2",
+    "points": 100,
+    "name": "Potente",
+    "profileLink": "https://www.horseracingnation.com/horse/Potente",
+    "sire": "Into Mischief",
+    "pedigree": "Into Mischief - Sweet String by Awesome Again",
+    "pedigreeLink": "https://www.pedigreequery.com/potente11",
     "prepRaces": [
-      "2nd - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
-      "2nd - 2025 Risen Star (G2) (FG 02/15/2025)"
+      "2nd - 2026 Santa Anita Derby (G1) (SA 04/04/2026)",
+      "1st - 2026 San Felipe (G2) (SA 03/07/2026)"
     ],
     "comments": [
-      "Consistent at Fair Grounds",
-      "Second place finishes behind Magnitude and Tiztastic"
     ]
   },
   {
     "id": 11,
     "lsprank": 11,
     "rank": 11,
-    "points": 71.25,
-    "name": "Citizen Bull",
-    "profileLink": "https://www.horseracingnation.com/horse/Citizen_Bull_1",
-    "sire": "Into Mischief",
-    "pedigree": "Into Mischief - No Joke by Distorted Humor",
-    "pedigreeLink": "https://www.pedigreequery.com/citizen+bull3",
+    "points": 70,
+    "name": "Pavlovian",
+    "profileLink": "https://www.horseracingnation.com/horse/Pavlovian",
+    "sire": "Pavel",
+    "pedigree": "Pavel - Mandy's Grace by Bellamy Road",
+    "pedigreeLink": "https://www.pedigreequery.com/pavlovian",
     "prepRaces": [
-      "4th - 2025 Santa Anita Derby (G1) (SA 04/05/2025)",
-      "1st - 2025 Robert B. Lewis (G3) (SA 02/11/2025)",
-      "1st - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
-      "1st - 2024 American Pharoah (G1) (SA 10/05/2024"
+      "2nd - 2026 Louisiana Derby (G2) (FG 03/22/2026)",
+      "1st - 2026 Sunland Derby (LS) (SUN 02/15/2026)"
     ],
     "comments": [
-      "Very impressive Breeder's Cup Juvenile win"
     ]
   },
   {
@@ -216,20 +195,16 @@
     "lsprank": 12,
     "rank": 12,
     "points": 65,
-    "name": "Owen Almighty",
-    "profileLink": "https://www.horseracingnation.com/horse/Owen_Almighty",
-    "sire": "Speightstown",
-    "pedigree": "Speightstown - Tempers Rising by Bayern",
-    "pedigreeLink": "https://www.pedigreequery.com/owen+almighty2",
+    "name": "Right To Party",
+    "profileLink": "https://www.horseracingnation.com/horse/Right_To_Party",
+    "sire": "Constitution",
+    "pedigree": "Constitution - Havin' A Party by Emcee",
+    "pedigreeLink": "https://www.pedigreequery.com/right+to+party2",
     "prepRaces": [
-      "1st - 2025 Tampa Bay Derby (G3) (TAM 03/08/2025)",
-      "2nd - 2025 Sam F. Davis (TAM 02/08/2025)",
-      "2nd - 2024 Iroquois (CD 09/14/2024)"
+      "2nd - 2026 Wood Memorial (G2) (AQU 04/04/2026)",
+      "1st - 2026 Gotham (G3) (AQU 02/28/2026)"
     ],
     "comments": [
-      "Next Race: Blue Grass (KEE 4/5/2025)",
-      "Strong, early speed horse",
-      "Question whether he can go 10 furlongs"
     ]
   },
   {
@@ -237,20 +212,17 @@
     "lsprank": 13,
     "rank": 13,
     "points": 60,
-    "name": "East Avenue",
-    "profileLink": "https://www.horseracingnation.com/horse/East_Avenue",
-    "sire": "Medaglia d'Oro",
-    "pedigree": "Medaglia d'Oro - Dance Music by Ghostzapper",
-    "pedigreeLink": "https://www.pedigreequery.com/east+avenue4",
+    "name": "Incredibolt",
+    "profileLink": "https://www.horseracingnation.com/horse/Incredibolt",
+    "sire": "Bolt d'Oro",
+    "pedigree": "Bolt d'Oro - Sapphire Spitfire by Awesome Again",
+    "pedigreeLink": "https://www.pedigreequery.com/incredibolt",
     "prepRaces": [
-      "2nd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
-      "10th - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "9th - 2024 Breeders' Cup Juvenile (G1) (DMR 11/01/2024)",
-      "1st - 2024 Breeders' Futurity (G1) (KEE 10/05/2024)"
+      "1st - 2026 Virginia Derby (LS) (CNL 03/14/2026)",
+      "6th - 2026 Holy Bull (G3) (GP 01/31/2026)",
+      "1st - 2025 Street Sense (G3) (CD 10/26/2025)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)",
-      "Breeders' Cup Juvenile - stumbled out of gate and never recovered"
     ]
   },
   {
@@ -258,37 +230,34 @@
     "lsprank": 14,
     "rank": 14,
     "points": 60,
-    "name": "Publisher",
-    "profileLink": "https://www.horseracingnation.com/horse/Publisher",
-    "sire": "American Pharoah",
-    "pedigree": "American Pharoah - Indian Pride by Proud Citizen",
-    "pedigreeLink": "https://www.pedigreequery.com/publisher9",
+    "name": "Golden Tempo",
+    "profileLink": "https://www.horseracingnation.com/horse/Golden_Tempo_1",
+    "sire": "Curlin",
+    "pedigree": "Curlin - Carrumba by Bernardini",
+    "pedigreeLink": "https://www.pedigreequery.com/golden+tempo3",
     "prepRaces": [
-      "2nd - 2025 Arkansas Derby (G1) (OP 03/29/2025)",
-      "4th - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "6th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+      "3rd - 2026 Louisiana Derby (G2) (FG 03/21/2026)",
+      "3rd - 2026 Risen Star (G2) (FG 02/14/2026)",
+      "1st - 2026 Lecomte (G3) (FG 01/17/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 15,
     "lsprank": 15,
     "rank": 15,
-    "points": 55,
-    "name": "American Promise",
-    "profileLink": "https://www.horseracingnation.com/horse/American_Promise",
-    "sire": "Justify",
-    "pedigree": "Justify - Tapella by Tapit",
-    "pedigreeLink": "https://www.pedigreequery.com/american+promise3",
+    "points": 50,
+    "name": "Stark Contrast",
+    "profileLink": "https://www.horseracingnation.com/horse/Stark_Contrast",
+    "sire": "Caravaggio",
+    "pedigree": "Caravaggio - Catch The Eye by Quality Road",
+    "pedigreeLink": "https://www.pedigreequery.com/stark+contrast5",
     "prepRaces": [
-      "1st - 2025 Viginia Derby (LS) (CNL 03/15/2025)",
-      "5th - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "7th - 2025 Southwest Stakes (G3) (OP 01/25/2025)"
+      "2nd - 2026 Jeff Ruby Steaks (G3) (TP 03/21/2026)",
+      "2nd - 2025 Breeders' Cup Juvenile Turf (G1) (DMR 10/31/2025)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
@@ -296,33 +265,34 @@
     "lsprank": 16,
     "rank": 16,
     "points": 50,
-    "name": "Flying Mohawk",
-    "profileLink": "https://www.horseracingnation.com/horse/Flying_Mohawk",
-    "sire": "Frosted",
-    "pedigree": "Frosted - Curls For Girls by Curlin",
-    "pedigreeLink": "https://www.pedigreequery.com/flying+mohawk",
+    "name": "Chief Wallabee",
+    "profileLink": "https://www.horseracingnation.com/horse/Chief_Wallabee",
+    "sire": "Constitution",
+    "pedigree": "Constitution - A La Lucie by Medaglia d'Oro",
+    "pedigreeLink": "https://www.pedigreequery.com/chief+wallabee",
     "prepRaces": [
-      "2nd - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)"
+      "3rd - 2026 Florida Derby (G1) (GP 03/28/2026)",
+      "2nd - 2026 Fountain of Youth (G2) (GP 02/28/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 17,
     "lsprank": 17,
     "rank": 17,
-    "points": 50,
-    "name": "Grande",
-    "profileLink": "https://www.horseracingnation.com/horse/Grande_3",
-    "sire": "Curlin",
-    "pedigree": "Curlin - Journey Home by War Front",
-    "pedigreeLink": "https://www.pedigreequery.com/grande16",
+    "points": 49,
+    "name": "Chip Honcho",
+    "profileLink": "https://www.horseracingnation.com/horse/Chip_Honcho",
+    "sire": "Connect",
+    "pedigree": "Connect - Miss My Rose by Magician",
+    "pedigreeLink": "https://www.pedigreequery.com/chip+honcho",
     "prepRaces": [
-      "2nd - 2025 Wood Memorial (G2) (AQU 04/05/2025)"
+      "5th - 2026 Louisiana Derby (G2) (FG 03/21/2026)",
+      "2nd - 2026 Risen Star (G2) (FG 02/14/2026)",
+      "4th - 2026 Lecomte (G3) (FG 01/17/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
@@ -330,166 +300,156 @@
     "lsprank": 18,
     "rank": 18,
     "points": 40,
-    "name": "Neoequos",
-    "profileLink": "https://www.horseracingnation.com/horse/Neoequos",
-    "sire": "Neolithic",
-    "pedigree": "Neolithic - Bold Birdie by Birdstone",
-    "pedigreeLink": "https://www.pedigreequery.com/neoequos",
+    "name": "Danon Bourbon",
+    "profileLink": "https://www.horseracingnation.com/horse/Danon_Bourbon",
+    "sire": "Maxfield",
+    "pedigree": "Maxfield - Wild Ridge by Tapit",
+    "pedigreeLink": "https://www.pedigreequery.com/danon+bourbon",
     "prepRaces": [
-      "3rd - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "3rd - 2025 Fountain of Youth (G2) (GP 03/01/2025)"
+      "1st - 2026 Fukuryu Stakes (LS) (NAK 03/28/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 19,
     "lsprank": 19,
     "rank": 19,
-    "points": 70,
-    "name": "Luxor Cafe",
-    "profileLink": "https://www.horseracingnation.com/horse/Luxor_Cafe",
-    "sire": "American Pharoah",
-    "pedigree": "American Pharoah - Mary's Follies by More Than Ready",
-    "pedigreeLink": "https://www.pedigreequery.com/luxor+cafe",
+    "points": 106,
+    "name": "Wonder Dean (JPN)",
+    "profileLink": "https://www.horseracingnation.com/horse/Wonder_Dean",
+    "sire": "Dee Majesty",
+    "pedigree": "Dee Majesty - Wonder Siang Praw by Wonder Acute",
+    "pedigreeLink": "https://www.pedigreequery.com/wonder+dean",
     "prepRaces": [
-      "1st - 2025 Fukuryu Stakes (LS) (NAK 03/29/2025)",
-      "1st - 2025 Hyacinth Stakes (LS) (TOK 02/23/2025)"
+      "1st - 2026 UAE Derby (G2) (MEY 03/28/2026)",
+      "4th - 2026 Saudi Derby (G3) (KAA 02/14/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 20,
     "lsprank": 20,
     "rank": 20,
-    "points": 100,
-    "name": "Admire Daytona (JPN)",
-    "profileLink": "https://www.horseracingnation.com/horse/Admire_Daytona",
-    "sire": "Drefong",
-    "pedigree": "Drefong - Ice Pastel by Shackleford",
-    "pedigreeLink": "https://www.pedigreequery.com/admire+daytona",
+    "points": 80,
+    "name": "Six Speed",
+    "profileLink": "https://www.horseracingnation.com/horse/Six_Speed",
+    "sire": "Not This Time",
+    "pedigree": "Not This Time - Browse by Medaglia d'Oro",
+    "pedigreeLink": "https://www.pedigreequery.com/six+speed4",
     "prepRaces": [
-      "1st - 2025 UAE Derby (G2) (MEY 04/05/2025)"
+      "2nd - 2026 UAE Derby (G2) (MEY 03/28/2026)",
+      "1st - 2026 UAE 2000 Guiness (G3) (MEY 01/23/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 21,
     "lsprank": 21,
     "rank": 21,
-    "points": 39,
-    "name": "Render Judgment",
-    "profileLink": "https://www.horseracingnation.com/horse/Render_Judgment",
-    "sire": "Blame",
-    "pedigree": "Blame - Barbara Gordon by Commissioner",
-    "pedigreeLink": "https://www.pedigreequery.com/render+judgment",
+    "points": 38,
+    "name": "Intrepido",
+    "profileLink": "https://www.horseracingnation.com/horse/Intrepido_2",
+    "sire": "Maximus Mischief",
+    "pedigree": "Maximus Mischief - Overly Indulgent by Pleasantly Perfect",
+    "pedigreeLink": "https://www.pedigreequery.com/intrepido18",
     "prepRaces": [
-      "5th - 2025 Blue Grass (G1) (KEE 04/08/2025)",
-      "2nd - 2025 Virginia Derby (LS) (CNL 03/15/2025)",
-      "8th - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "3rd - 2024 Gun Runner (LS) (FG 12/21/2024)",
-      "5th - 2024 Kentucky Jockey Club (G2) (CD 11/30/2024)"
+      "4th - 2026 Santa Anita Derby (G1) (SA 04/04/2026)",
+      "2nd - 2026 Robert B. Lewis (G3) (SA 02/07/2026)",
+      "5th - 2025 Breeders' Cup Juvenile (G1) (DMR 10/31/2025)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 22,
     "lsprank": 22,
     "rank": 22,
-    "points": 23,
-    "name": "Baeza",
-    "profileLink": "https://www.horseracingnation.com/horse/Baeza_1",
-    "sire": "McKinzie",
-    "pedigree": "McKinzie - Puca by Big Brown",
-    "pedigreeLink": "https://www.pedigreequery.com/baeza7",
+    "points": 34,
+    "name": "Litmus Test",
+    "profileLink": "https://www.horseracingnation.com/horse/Litmus_Test",
+    "sire": "Nyquist",
+    "pedigree": "Nyquist - Study Hard by Malibu Moon",
+    "pedigreeLink": "https://www.pedigreequery.com/litmus+test",
     "prepRaces": [
-      "2nd - 2025 Santa Anita Derby (G1) (SA 04/05/2025)"
+      "7th - 2026 Arkansas Derby (G1) (OP 03/28/2026)",
+      "3rd - 2026 Rebel Stakes (G2) (OP 03/01/2026)",
+      "1st - 2025 Los Alamitos Futurity (G2) (LRC 12/13/2025)",
+      "4th - 2025 Breeders' Cup Juvenile (G1) (DMR 10/31/2025)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
     "id": 23,
     "lsprank": 23,
     "rank": 23,
-    "points": 20,
-    "name": "California Burrito",
-    "profileLink": "https://www.horseracingnation.com/horse/California_Burrito",
-    "sire": "Army Mule",
-    "pedigree": "Army Mule - Bluegrass Sunset by Hard Spun",
-    "pedigreeLink": "https://www.pedigreequery.com/california+burrito",
+    "points": 30,
+    "name": "Great White",
+    "profileLink": "https://www.horseracingnation.com/horse/Great_White_1",
+    "sire": "Volatile",
+    "pedigree": "Volatile - Kelly Bag by Uncle Mo",
+    "pedigreeLink": "https://www.pedigreequery.com/great+white7",
     "prepRaces": [
-      "7th - 2025 Jeff Ruby Steaks (G3) (TP 03/22/2025)",
-      "1st - 2025 John Battaglia Memorial (LS) (TP 03/22/2025)"
+      "5th - 2026 Blue Grass Stakes (G1) (KEE 04/04/2026)",
+      "1st - 2026 John Battlaglia Memorial (G1) (TP 02/21/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
-    "id": 118,
-    "lsprank": 118,
-    "rank": 118,
-    "points": 50,
-    "name": "River Thames",
-    "profileLink": "https://www.horseracingnation.com/horse/River_Thames_3",
-    "sire": "Maclean's Music",
-    "pedigree": "Maclean's Music - Proportionality by Discreet Cat",
-    "pedigreeLink": "https://www.pedigreequery.com/river+thames10",
+    "id": 24,
+    "lsprank": 24,
+    "rank": 24,
+    "points": 25,
+    "name": "Ocelli",
+    "profileLink": "https://www.horseracingnation.com/horse/Ocelli",
+    "sire": "Connect",
+    "pedigree": "Connect - Zalia by Scat Daddy",
+    "pedigreeLink": "https://www.pedigreequery.com/ocelli",
     "prepRaces": [
-      "3rd - 2025 Blue Grass (G1) (KEE 04/08/2025)",
-      "2nd - 2025 Fountain of Youth (G2) (GP 03/01/2025)"
+      "3rd - 2026 Wood Memorial (G2) (AQU 04/04/2026)",
+      "6th - 2026 Virginia Derby (LS) (CNL 03/14/2026)",
+      "6th - 2026 Sam F. Davis (LS) (TAM 02/07/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
-    "id": 121,
-    "lsprank": 121,
-    "rank": 121,
-    "points": 46,
-    "name": "Madaket Road",
-    "profileLink": "https://www.horseracingnation.com/horse/Madaket_Road_1",
-    "sire": "Quality Road",
-    "pedigree": "Quality Road - Frolic's Dream by Smoke Glacken",
-    "pedigreeLink": "https://www.pedigreequery.com/madaket+road2",
+    "id": 25,
+    "lsprank": 25,
+    "rank": 25,
+    "points": 25,
+    "name": "Robusta",
+    "profileLink": "https://www.horseracingnation.com/horse/Robusta_1",
+    "sire": "Accelerate",
+    "pedigree": "Accelerate - Urbane Legend by Into Mischief",
+    "pedigreeLink": "https://www.pedigreequery.com/robusta16",
     "prepRaces": [
-      "4th - 2025 Florida Derby (G1) (GP 03/29/2025)",
-      "2nd - 2025 Rebel Stakes (G2) (OP 02/23/2025)",
-      "3rd - 2025 Robert B. Lewis (G3) (SA 02/01/2025)"
+      "7th - 2026 Santa Anita Derby (G1) (SA 04/04/2026)",
+      "2nd - 2026 San Felipe (G2) (SA 03/07/2026)",
+      "6th - 2026 Robert B. Lewis (G3) (SA 02/07/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)"
     ]
   },
   {
-    "id": 122,
-    "lsprank": 122,
-    "rank": 122,
-    "points": 45,
-    "name": "Built",
-    "profileLink": "https://www.horseracingnation.com/horse/Built",
-    "sire": "Hard Spun",
-    "pedigree": "Hard Spun - Sea Garden",
-    "pedigreeLink": "https://www.pedigreequery.com/built2",
+    "id": 26,
+    "lsprank": 26,
+    "rank": 26,
+    "points": 6,
+    "name": "Corona De Oro",
+    "profileLink": "https://www.horseracingnation.com/horse/Corona_De_Oro",
+    "sire": "Bolt d'Oro",
+    "pedigree": "Bolt d'Oro - Lemon de Oro by Lemon Drop Kid",
+    "pedigreeLink": "https://www.pedigreequery.com/corona+de+oro2",
     "prepRaces": [
-      "5th - 2025 Louisiana Derby (G2) (FG 03/22/2025)",
-      "3rd - 2025 Risen Star (G2) (FG 02/15/2025)",
-      "2nd - 2025 Lecomte (G3) (FG 01/18/2025)"
+      "3rd - 2026 Lexington (G3) (KEE 04/11/2026)"
     ],
     "comments": [
-      "Next Race: Kentucky Derby (CD 05/03/2025)",
-      "2025 Lecomte - impressive outside post (13), sloppy track, early lead, faded down the stretch"
     ]
   }
-
+  
 ]
