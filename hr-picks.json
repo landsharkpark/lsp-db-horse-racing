@@ -3877,7 +3877,7 @@
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
         "picks": "8-6-9-7",
-        "officialResults": "TBD",
+        "officialResults": "9-7-4-3",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3891,9 +3891,13 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "2-3-7-6",
-        "officialResults": "TBD",
+        "officialResults": "8-7-2-5",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(2) Baeza slow out of gate, likely would have won if he broke normal",
+          "(8) Corporate Power outduals (7) SkippyLongstocking down the stretch",
+          "After inquiry, no change in order of finish.  My opinion - 8 should have been DQ for contact in home stretch"
+        ]
       },
       {
         "raceNum": 10,
