@@ -3858,12 +3858,14 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "12-5-6-8",
-        "officialResults": "TBD",
+        "officialResults": "8-9-4-5",
         "preRaceComments": [
           "Pick 5 (Races 7,8,9,10,11) - $36",
           "6 / 6,8,9 / 2,3,6,7 / 3,6 / 1,5,9"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Pick 5 Payout (R3 - R7: $7,779.13"
+        ]
       },
       {
         "raceNum": 8,
