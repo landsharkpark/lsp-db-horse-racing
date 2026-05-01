@@ -3790,9 +3790,12 @@
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
         "picks": "9-6-7-5",
-        "officialResults": "TBD",
+        "officialResults": "6-7-5-9",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Thru three races - outside posts having trouble getting over and finishing race",
+          "Final odds of first three winners:  4/1, 11/1, and 5/1"
+        ]
       },
       {
         "raceNum": 4,
@@ -3804,7 +3807,7 @@
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
         "picks": "1-9-4-3",
-        "officialResults": "TBD",
+        "officialResults": "6-3-4-12",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3818,12 +3821,15 @@
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
         "picks": "6-10-1-2",
-        "officialResults": "TBD",
+        "officialResults": "10-4-11-9",
         "preRaceComments": [
           "All Turf Pick 4 (Races 5,7,10,12)",
           "$40 - 2,6,10,11 / 5,6 / 3,6 / 1,3,8,9,11"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "Early Pick 4 Payout:  $1,737.45",
+          "Early Pick 5 Payout:  $8,861.42"
+        ]
       },
       {
         "raceNum": 6,
