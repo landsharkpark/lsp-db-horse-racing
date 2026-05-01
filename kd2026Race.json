@@ -91,31 +91,9 @@
     ]
   },
   {
-    "id": 5,
-    "progNum": 5,
-    "postPosition": 5,
-    "finish":  0,
-    "ae": false,
-    "scratched": false,
-    "lsprank": 12,
-    "rank": 12,
-    "points": 65,
-    "name": "Right To Party",
-    "profileLink": "https://www.horseracingnation.com/horse/Right_To_Party",
-    "sire": "Constitution",
-    "pedigree": "Constitution - Havin' A Party by Emcee",
-    "pedigreeLink": "https://www.pedigreequery.com/right+to+party2",
-    "prepRaces": [
-      "2nd - 2026 Wood Memorial (G2) (AQU 04/04/2026)",
-      "1st - 2026 Gotham (G3) (AQU 02/28/2026)"
-    ],
-    "comments": [
-    ]
-  },
-  {
     "id": 6,
     "progNum": 6,
-    "postPosition": 6, 
+    "postPosition": 5, 
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -137,7 +115,7 @@
   {
     "id": 7,
     "progNum": 7,
-    "postPosition": 7,
+    "postPosition": 6,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -158,7 +136,7 @@
   {
     "id": 8,
     "progNum": 8,
-    "postPosition": 8,
+    "postPosition": 7,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -181,7 +159,7 @@
   {
     "id": 9,
     "progNum": 9,
-    "postPosition": 9,
+    "postPosition": 8,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -204,7 +182,7 @@
   {
     "id": 10,
     "progNum": 10,
-    "postPosition": 10,
+    "postPosition": 9,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -226,7 +204,7 @@
   {
     "id": 11,
     "progNum": 11,
-    "postPosition": 11,
+    "postPosition": 10,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -249,7 +227,7 @@
   {
     "id": 12,
     "progNum": 12,
-    "postPosition": 12,
+    "postPosition": 11,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -269,33 +247,9 @@
     ]
   },
   {
-    "id": 13,
-    "progNum": 13,
-    "postPosition": 13,
-    "finish":  0,
-    "ae": false,
-    "scratched": false,
-    "lsprank": 7,
-    "rank": 7,
-    "points": 100,
-    "name": "Silent Tactic",
-    "profileLink": "https://www.horseracingnation.com/horse/Silent_Tactic",
-    "sire": "Tacitus",
-    "pedigree": "Tacitus - Magical Sign by Gun Runner",
-    "pedigreeLink": "https://www.pedigreequery.com/silent+tactic",
-    "prepRaces": [
-      "2nd - 2026 Arkansas Derby (G1) (OP 03/28/2026)",
-      "2nd - 2026 Rebel Stakes (G2) (OP 03/01/2026)",
-      "1st - 2026 Southwest Stakes (G3) (OP 02/06/2026)",
-      "2nd - 2026 Smarty Jones (LS) (OP 01/03/2026)"
-    ],
-    "comments": [
-    ]
-  },
-  {
     "id": 14,
     "progNum": 14,
-    "postPosition": 14,
+    "postPosition": 12,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -317,7 +271,7 @@
   {
     "id": 15,
     "progNum": 15,
-    "postPosition": 15,
+    "postPosition": 13,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -338,7 +292,7 @@
   {
     "id": 16,
     "progNum": 16,
-    "postPosition": 16,
+    "postPosition": 14,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -360,7 +314,7 @@
   {
     "id": 17,
     "progNum": 17,
-    "postPosition": 17,
+    "postPosition": 15,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -382,7 +336,7 @@
   {
     "id": 18,
     "progNum": 18,
-    "postPosition": 18,
+    "postPosition": 16,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -405,7 +359,7 @@
   {
     "id": 19,
     "progNum": 19,
-    "postPosition": 19,
+    "postPosition": 17,
     "finish":  0,
     "ae": false,
     "scratched": false,
@@ -426,31 +380,9 @@
     ]
   },
   {
-    "id": 20,
-    "progNum": 20,
-    "postPosition": 20,
-    "finish":  0,
-    "ae": false,
-    "scratched": false,
-    "lsprank": 5,
-    "rank": 5,
-    "points": 110,
-    "name": "Fulleffort",
-    "profileLink": "https://www.horseracingnation.com/horse/Fulleffort",
-    "sire": "Liam's Map",
-    "pedigree": "Liam's Map - Callmethesqueeze by Awesome Again",
-    "pedigreeLink": "https://www.pedigreequery.com/fulleffort",
-    "prepRaces": [
-      "1st - 2026 Jeff Ruby Steaks (G3) (TP 03/21/2026)",
-      "5th - 2026 John Battlaglia (LS) (TP 02/21/2026)"
-    ],
-    "comments": [
-    ]
-  },
-  {
     "id": 21,
     "progNum": 21,
-    "postPosition": 21,
+    "postPosition": 18,
     "finish":  0,
     "ae": true,
     "scratched": false,
@@ -472,7 +404,7 @@
   {
     "id": 22,
     "progNum": 22,
-    "postPosition": 22,
+    "postPosition": 19,
     "finish":  0,
     "ae": true,
     "scratched": false,
@@ -495,7 +427,7 @@
   {
     "id": 23,
     "progNum": 23,
-    "postPosition": 23,
+    "postPosition": 20,
     "finish":  0,
     "ae": true,
     "scratched": false,
@@ -516,12 +448,80 @@
     ]
   },
   {
-    "id": 24,
+    "id": 1305,
+    "progNum": 5,
+    "postPosition": 1305,
+    "finish":  101,
+    "ae": false,
+    "scratched": true,
+    "lsprank": 12,
+    "rank": 12,
+    "points": 65,
+    "name": "Right To Party",
+    "profileLink": "https://www.horseracingnation.com/horse/Right_To_Party",
+    "sire": "Constitution",
+    "pedigree": "Constitution - Havin' A Party by Emcee",
+    "pedigreeLink": "https://www.pedigreequery.com/right+to+party2",
+    "prepRaces": [
+      "2nd - 2026 Wood Memorial (G2) (AQU 04/04/2026)",
+      "1st - 2026 Gotham (G3) (AQU 02/28/2026)"
+    ],
+    "comments": [
+    ]
+  },
+  {
+    "id": 1313,
+    "progNum": 13,
+    "postPosition": 1313,
+    "finish":  102,
+    "ae": false,
+    "scratched": true,
+    "lsprank": 7,
+    "rank": 7,
+    "points": 100,
+    "name": "Silent Tactic",
+    "profileLink": "https://www.horseracingnation.com/horse/Silent_Tactic",
+    "sire": "Tacitus",
+    "pedigree": "Tacitus - Magical Sign by Gun Runner",
+    "pedigreeLink": "https://www.pedigreequery.com/silent+tactic",
+    "prepRaces": [
+      "2nd - 2026 Arkansas Derby (G1) (OP 03/28/2026)",
+      "2nd - 2026 Rebel Stakes (G2) (OP 03/01/2026)",
+      "1st - 2026 Southwest Stakes (G3) (OP 02/06/2026)",
+      "2nd - 2026 Smarty Jones (LS) (OP 01/03/2026)"
+    ],
+    "comments": [
+    ]
+  },
+  {
+    "id": 1320,
+    "progNum": 20,
+    "postPosition": 1320,
+    "finish":  103,
+    "ae": false,
+    "scratched": true,
+    "lsprank": 5,
+    "rank": 5,
+    "points": 110,
+    "name": "Fulleffort",
+    "profileLink": "https://www.horseracingnation.com/horse/Fulleffort",
+    "sire": "Liam's Map",
+    "pedigree": "Liam's Map - Callmethesqueeze by Awesome Again",
+    "pedigreeLink": "https://www.pedigreequery.com/fulleffort",
+    "prepRaces": [
+      "1st - 2026 Jeff Ruby Steaks (G3) (TP 03/21/2026)",
+      "5th - 2026 John Battlaglia (LS) (TP 02/21/2026)"
+    ],
+    "comments": [
+    ]
+  },
+  {
+    "id": 1324,
     "progNum": 24,
-    "postPosition": 24,
-    "finish":  0,
+    "postPosition": 1324,
+    "finish":  104,
     "ae": true,
-    "scratched": false,
+    "scratched": true,
     "lsprank": 26,
     "rank": 26,
     "points": 6,
@@ -536,6 +536,5 @@
     "comments": [
     ]
   }
-
   
 ]
