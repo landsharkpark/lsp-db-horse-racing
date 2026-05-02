@@ -4027,12 +4027,14 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "4-5-1-6",
-        "officialResults": "TBD",
+        "officialResults": "6-4-1-5",
         "preRaceComments": [
           "All Dirt Pick 5 (Races 4, 6, 8, 10, 12) - $20",
-          "4 / 6,10 / 1 / 6,7 / 1,6,12,15,18 "
+          "4,5 / 6,10 / 1 / 6,7 / 1,6,12,15,18 "
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "All Dirt Pick 5 ticket already a loser..."
+        ]
       },
       {
         "raceNum": 5,
@@ -4043,9 +4045,12 @@
         "postTime": "12:12 PM",
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
-        "picks": "3-7-8-9",
+        "picks": "3-9-10-7",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "All Turf Pick 4 (Races 5,7,9,11) - $40.50",
+          "3,9,10 / 2,3,5 / 4,10,12 / 4,9,10"
+        ],
         "postRaceComments": []
       },
       {
@@ -4073,7 +4078,10 @@
         "tv": "NBC, ADW Live Track Feed",
         "picks": "3-2-5-9",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "Derby City $0.20 Pick 6 (Races 7-12) -$128",
+          "2,3 / 1,6 / 4,8,10,12,14 / 6,7 / 3,4,9,10 / 6,12,15,18"
+        ],
         "postRaceComments": []
       },
       {
