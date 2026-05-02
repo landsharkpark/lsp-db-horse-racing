@@ -3909,7 +3909,7 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "6-3-5-4",
-        "officialResults": "TBD",
+        "officialResults": "5-6-2-3",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3923,7 +3923,7 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "5-9-1-11",
-        "officialResults": "TBD",
+        "officialResults": "5-9-1-4",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3937,9 +3937,12 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "1-3-8-9",
-        "officialResults": "TBD",
+        "officialResults": "3-6-8-5",
         "preRaceComments": [],
-        "postRaceComments": []
+        "postRaceComments": [
+          "(3) ImaginationTheLady - great closer, earned her money",
+          "Great photo finish with the top four horses"
+        ]
       },
       {
         "raceNum": 13,
@@ -3951,7 +3954,7 @@
         "stakesrace": true,
         "tv": "NBC, ADW Live Track Feed",
         "picks": "1-2-10-11",
-        "officialResults": "TBD",
+        "officialResults": "9-5-4-1",
         "preRaceComments": [],
         "postRaceComments": []
       }
