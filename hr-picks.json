@@ -4063,8 +4063,11 @@
         "stakesrace": true,
         "tv": "ADW Live Track Feed",
         "picks": "6-10-2-4",
-        "officialResults": "TBD",
-        "preRaceComments": [],
+        "officialResults": "6-11-2-7",
+        "preRaceComments": [
+          "Pick 4 (Races 6-9): $18",
+          "2,4,6,10 / 2,3,5 / 1 / 4,10,12"
+        ],
         "postRaceComments": []
       },
       {
@@ -4077,12 +4080,14 @@
         "stakesrace": true,
         "tv": "NBC, ADW Live Track Feed",
         "picks": "3-2-5-9",
-        "officialResults": "TBD",
+        "officialResults": "5-3-8-7",
         "preRaceComments": [
           "Derby City $0.20 Pick 6 (Races 7-12) -$128",
           "2,3 / 1,6 / 4,8,10,12,14 / 6,7 / 3,4,9,10 / 6,12,15,18"
         ],
-        "postRaceComments": []
+        "postRaceComments": [
+          "$0.50 Pick 5 Payout:  $13,866.64"
+        ]
       },
       {
         "raceNum": 8,
