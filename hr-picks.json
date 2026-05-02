@@ -3985,7 +3985,7 @@
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
         "picks": "6-8-2-3",
-        "officialResults": "TBD",
+        "officialResults": "11-3-4-6",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -3998,8 +3998,8 @@
         "postTime": "10:32 AM",
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
-        "picks": "4-2-1-6",
-        "officialResults": "TBD",
+        "picks": "8-4-2-1",
+        "officialResults": "1-2-9-8",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -4013,7 +4013,7 @@
         "stakesrace": false,
         "tv": "ADW Live Track Feed",
         "picks": "10-6-12-9",
-        "officialResults": "TBD",
+        "officialResults": "10-14-6-12",
         "preRaceComments": [],
         "postRaceComments": []
       },
@@ -4028,7 +4028,10 @@
         "tv": "ADW Live Track Feed",
         "picks": "4-5-1-6",
         "officialResults": "TBD",
-        "preRaceComments": [],
+        "preRaceComments": [
+          "All Dirt Pick 5 (Races 4, 6, 8, 10, 12) - $20",
+          "4 / 6,10 / 1 / 6,7 / 1,6,12,15,18 "
+        ],
         "postRaceComments": []
       },
       {
